@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="cover.jpg" alt="Market Basket Analysis Cover" width="300" />
+</p>
+
+
 # Market Basket Analysis (MBA)
 **Overview**
 
