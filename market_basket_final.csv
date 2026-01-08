@@ -1,0 +1,4001 @@
+ID_Transacao,Item,Valor_Item,Data,Hora
+1,Prato Feito (PF),28.0,2025-01-25,11:00:00
+1,Coxinha de Frango,10.0,2025-01-25,11:00:00
+1,Feijoada Completa,55.0,2025-01-25,11:00:00
+2,Prato Feito (PF),28.0,2025-01-03,21:00:00
+2,Café Coado,6.0,2025-01-03,21:00:00
+3,Caipirinha de Limão,22.0,2025-01-28,11:00:00
+3,Pudim de Leite,12.0,2025-01-28,11:00:00
+3,Guaraná Antarctica,7.0,2025-01-28,11:00:00
+3,Feijoada Completa,55.0,2025-01-28,11:00:00
+4,Prato Feito (PF),28.0,2025-01-11,17:00:00
+4,Pão de Queijo (Porção),15.0,2025-01-11,17:00:00
+4,Moqueca de Peixe,75.0,2025-01-11,17:00:00
+4,Pudim de Leite,12.0,2025-01-11,17:00:00
+5,Pudim de Leite,12.0,2025-01-04,21:00:00
+5,Café Coado,6.0,2025-01-04,21:00:00
+5,Caipirinha de Limão,22.0,2025-01-04,21:00:00
+6,Caipirinha de Limão,22.0,2025-01-24,11:00:00
+7,Moqueca de Peixe,75.0,2025-01-08,12:00:00
+8,Brigadeiro Gourmet,8.0,2025-01-19,12:00:00
+8,Café Coado,6.0,2025-01-19,12:00:00
+9,Prato Feito (PF),28.0,2025-01-15,12:00:00
+9,Arroz Carreteiro,38.0,2025-01-15,12:00:00
+9,Pudim de Leite,12.0,2025-01-15,12:00:00
+10,Pudim de Leite,12.0,2025-01-06,12:00:00
+10,Feijoada Completa,55.0,2025-01-06,12:00:00
+11,Pão de Queijo (Porção),15.0,2025-01-05,11:00:00
+11,Cerveja Artesanal,18.0,2025-01-05,11:00:00
+11,Caipirinha de Limão,22.0,2025-01-05,11:00:00
+12,Prato Feito (PF),28.0,2025-01-19,18:00:00
+12,Coxinha de Frango,10.0,2025-01-19,18:00:00
+13,Caipirinha de Limão,22.0,2025-01-12,21:00:00
+14,Caipirinha de Limão,22.0,2025-01-03,18:00:00
+14,Água de Coco,10.0,2025-01-03,18:00:00
+14,Feijoada Completa,55.0,2025-01-03,18:00:00
+15,Caipirinha de Limão,22.0,2025-01-08,22:00:00
+15,Moqueca de Peixe,75.0,2025-01-08,22:00:00
+15,Feijoada Completa,55.0,2025-01-08,22:00:00
+16,Caipirinha de Limão,22.0,2025-01-03,15:00:00
+16,Brigadeiro Gourmet,8.0,2025-01-03,15:00:00
+16,Coxinha de Frango,10.0,2025-01-03,15:00:00
+16,Feijoada Completa,55.0,2025-01-03,15:00:00
+17,Pudim de Leite,12.0,2025-01-02,17:00:00
+17,Caipirinha de Limão,22.0,2025-01-02,17:00:00
+17,Café Coado,6.0,2025-01-02,17:00:00
+17,Prato Feito (PF),28.0,2025-01-02,17:00:00
+17,Moqueca de Peixe,75.0,2025-01-02,17:00:00
+18,Prato Feito (PF),28.0,2025-01-08,19:00:00
+18,Coxinha de Frango,10.0,2025-01-08,19:00:00
+18,Caipirinha de Limão,22.0,2025-01-08,19:00:00
+19,Prato Feito (PF),28.0,2025-01-28,15:00:00
+19,Suco de Laranja,9.0,2025-01-28,15:00:00
+19,Pudim de Leite,12.0,2025-01-28,15:00:00
+20,Pão de Queijo (Porção),15.0,2025-01-02,11:00:00
+20,Cerveja Artesanal,18.0,2025-01-02,11:00:00
+20,Feijoada Completa,55.0,2025-01-02,11:00:00
+21,Caipirinha de Limão,22.0,2025-01-26,19:00:00
+21,Arroz Carreteiro,38.0,2025-01-26,19:00:00
+21,Feijoada Completa,55.0,2025-01-26,19:00:00
+22,Arroz Carreteiro,38.0,2025-01-28,19:00:00
+22,Cerveja Artesanal,18.0,2025-01-28,19:00:00
+22,Caipirinha de Limão,22.0,2025-01-28,19:00:00
+23,Pão de Queijo (Porção),15.0,2025-01-09,18:00:00
+24,Cerveja Artesanal,18.0,2025-01-01,13:00:00
+24,Café Coado,6.0,2025-01-01,13:00:00
+24,Caipirinha de Limão,22.0,2025-01-01,13:00:00
+25,Moqueca de Peixe,75.0,2025-01-18,21:00:00
+26,Água de Coco,10.0,2025-01-28,15:00:00
+27,Caipirinha de Limão,22.0,2025-01-17,19:00:00
+27,Café Coado,6.0,2025-01-17,19:00:00
+27,Feijoada Completa,55.0,2025-01-17,19:00:00
+27,Prato Feito (PF),28.0,2025-01-17,19:00:00
+27,Arroz Carreteiro,38.0,2025-01-17,19:00:00
+28,Caipirinha de Limão,22.0,2025-01-22,12:00:00
+28,Prato Feito (PF),28.0,2025-01-22,12:00:00
+28,Suco de Laranja,9.0,2025-01-22,12:00:00
+28,Feijoada Completa,55.0,2025-01-22,12:00:00
+29,Caipirinha de Limão,22.0,2025-01-05,16:00:00
+29,Cerveja Artesanal,18.0,2025-01-05,16:00:00
+29,Feijoada Completa,55.0,2025-01-05,16:00:00
+30,Água de Coco,10.0,2025-01-01,11:00:00
+30,Café Coado,6.0,2025-01-01,11:00:00
+31,Água de Coco,10.0,2025-01-16,14:00:00
+31,Caipirinha de Limão,22.0,2025-01-16,14:00:00
+31,Feijoada Completa,55.0,2025-01-16,14:00:00
+31,Cerveja Artesanal,18.0,2025-01-16,14:00:00
+31,Brigadeiro Gourmet,8.0,2025-01-16,14:00:00
+32,Suco de Laranja,9.0,2025-01-29,18:00:00
+33,Caipirinha de Limão,22.0,2025-01-29,17:00:00
+33,Moqueca de Peixe,75.0,2025-01-29,17:00:00
+33,Suco de Laranja,9.0,2025-01-29,17:00:00
+33,Feijoada Completa,55.0,2025-01-29,17:00:00
+34,Arroz Carreteiro,38.0,2025-01-07,13:00:00
+34,Água de Coco,10.0,2025-01-07,13:00:00
+35,Caipirinha de Limão,22.0,2025-01-23,17:00:00
+36,Guaraná Antarctica,7.0,2025-01-30,13:00:00
+36,Pudim de Leite,12.0,2025-01-30,13:00:00
+36,Caipirinha de Limão,22.0,2025-01-30,13:00:00
+37,Pudim de Leite,12.0,2025-01-18,21:00:00
+37,Prato Feito (PF),28.0,2025-01-18,21:00:00
+37,Cerveja Artesanal,18.0,2025-01-18,21:00:00
+37,Arroz Carreteiro,38.0,2025-01-18,21:00:00
+37,Moqueca de Peixe,75.0,2025-01-18,21:00:00
+38,Feijoada Completa,55.0,2025-01-16,22:00:00
+39,Prato Feito (PF),28.0,2025-01-03,11:00:00
+39,Água de Coco,10.0,2025-01-03,11:00:00
+39,Pudim de Leite,12.0,2025-01-03,11:00:00
+40,Caipirinha de Limão,22.0,2025-01-13,17:00:00
+40,Suco de Laranja,9.0,2025-01-13,17:00:00
+40,Feijoada Completa,55.0,2025-01-13,17:00:00
+41,Suco de Laranja,9.0,2025-01-06,12:00:00
+42,Guaraná Antarctica,7.0,2025-01-13,11:00:00
+42,Pudim de Leite,12.0,2025-01-13,11:00:00
+42,Feijoada Completa,55.0,2025-01-13,11:00:00
+43,Prato Feito (PF),28.0,2025-01-13,22:00:00
+43,Arroz Carreteiro,38.0,2025-01-13,22:00:00
+43,Suco de Laranja,9.0,2025-01-13,22:00:00
+43,Pudim de Leite,12.0,2025-01-13,22:00:00
+44,Brigadeiro Gourmet,8.0,2025-01-25,19:00:00
+44,Arroz Carreteiro,38.0,2025-01-25,19:00:00
+44,Prato Feito (PF),28.0,2025-01-25,19:00:00
+45,Suco de Laranja,9.0,2025-01-22,12:00:00
+45,Pudim de Leite,12.0,2025-01-22,12:00:00
+45,Caipirinha de Limão,22.0,2025-01-22,12:00:00
+46,Prato Feito (PF),28.0,2025-01-14,17:00:00
+46,Suco de Laranja,9.0,2025-01-14,17:00:00
+47,Suco de Laranja,9.0,2025-01-04,20:00:00
+48,Prato Feito (PF),28.0,2025-01-11,18:00:00
+48,Pudim de Leite,12.0,2025-01-11,18:00:00
+48,Café Coado,6.0,2025-01-11,18:00:00
+49,Pão de Queijo (Porção),15.0,2025-01-05,22:00:00
+49,Suco de Laranja,9.0,2025-01-05,22:00:00
+50,Prato Feito (PF),28.0,2025-01-20,22:00:00
+50,Pudim de Leite,12.0,2025-01-20,22:00:00
+50,Caipirinha de Limão,22.0,2025-01-20,22:00:00
+51,Arroz Carreteiro,38.0,2025-01-28,12:00:00
+52,Pudim de Leite,12.0,2025-01-22,14:00:00
+52,Caipirinha de Limão,22.0,2025-01-22,14:00:00
+52,Feijoada Completa,55.0,2025-01-22,14:00:00
+52,Prato Feito (PF),28.0,2025-01-22,14:00:00
+52,Coxinha de Frango,10.0,2025-01-22,14:00:00
+53,Caipirinha de Limão,22.0,2025-01-31,18:00:00
+53,Prato Feito (PF),28.0,2025-01-31,18:00:00
+53,Brigadeiro Gourmet,8.0,2025-01-31,18:00:00
+53,Feijoada Completa,55.0,2025-01-31,18:00:00
+54,Caipirinha de Limão,22.0,2025-01-09,16:00:00
+54,Água de Coco,10.0,2025-01-09,16:00:00
+54,Cerveja Artesanal,18.0,2025-01-09,16:00:00
+54,Feijoada Completa,55.0,2025-01-09,16:00:00
+55,Moqueca de Peixe,75.0,2025-01-27,22:00:00
+56,Água de Coco,10.0,2025-01-29,18:00:00
+56,Pudim de Leite,12.0,2025-01-29,18:00:00
+56,Feijoada Completa,55.0,2025-01-29,18:00:00
+56,Prato Feito (PF),28.0,2025-01-29,18:00:00
+56,Coxinha de Frango,10.0,2025-01-29,18:00:00
+57,Brigadeiro Gourmet,8.0,2025-01-19,14:00:00
+57,Prato Feito (PF),28.0,2025-01-19,14:00:00
+58,Arroz Carreteiro,38.0,2025-01-11,13:00:00
+59,Água de Coco,10.0,2025-01-13,13:00:00
+59,Feijoada Completa,55.0,2025-01-13,13:00:00
+60,Brigadeiro Gourmet,8.0,2025-01-16,14:00:00
+60,Arroz Carreteiro,38.0,2025-01-16,14:00:00
+60,Caipirinha de Limão,22.0,2025-01-16,14:00:00
+61,Guaraná Antarctica,7.0,2025-01-05,20:00:00
+61,Água de Coco,10.0,2025-01-05,20:00:00
+61,Caipirinha de Limão,22.0,2025-01-05,20:00:00
+62,Prato Feito (PF),28.0,2025-01-29,22:00:00
+62,Pão de Queijo (Porção),15.0,2025-01-29,22:00:00
+62,Pudim de Leite,12.0,2025-01-29,22:00:00
+62,Feijoada Completa,55.0,2025-01-29,22:00:00
+63,Caipirinha de Limão,22.0,2025-01-23,20:00:00
+63,Pão de Queijo (Porção),15.0,2025-01-23,20:00:00
+63,Água de Coco,10.0,2025-01-23,20:00:00
+63,Feijoada Completa,55.0,2025-01-23,20:00:00
+64,Caipirinha de Limão,22.0,2025-01-13,17:00:00
+64,Guaraná Antarctica,7.0,2025-01-13,17:00:00
+64,Café Coado,6.0,2025-01-13,17:00:00
+64,Feijoada Completa,55.0,2025-01-13,17:00:00
+65,Moqueca de Peixe,75.0,2025-01-28,18:00:00
+65,Café Coado,6.0,2025-01-28,18:00:00
+66,Brigadeiro Gourmet,8.0,2025-01-29,12:00:00
+66,Moqueca de Peixe,75.0,2025-01-29,12:00:00
+66,Pudim de Leite,12.0,2025-01-29,12:00:00
+67,Caipirinha de Limão,22.0,2025-01-02,13:00:00
+67,Pão de Queijo (Porção),15.0,2025-01-02,13:00:00
+67,Feijoada Completa,55.0,2025-01-02,13:00:00
+68,Guaraná Antarctica,7.0,2025-01-26,21:00:00
+68,Suco de Laranja,9.0,2025-01-26,21:00:00
+69,Prato Feito (PF),28.0,2025-01-07,11:00:00
+70,Caipirinha de Limão,22.0,2025-01-12,18:00:00
+70,Feijoada Completa,55.0,2025-01-12,18:00:00
+70,Coxinha de Frango,10.0,2025-01-12,18:00:00
+70,Suco de Laranja,9.0,2025-01-12,18:00:00
+70,Arroz Carreteiro,38.0,2025-01-12,18:00:00
+71,Prato Feito (PF),28.0,2025-01-02,18:00:00
+71,Coxinha de Frango,10.0,2025-01-02,18:00:00
+72,Guaraná Antarctica,7.0,2025-01-28,11:00:00
+72,Caipirinha de Limão,22.0,2025-01-28,11:00:00
+72,Feijoada Completa,55.0,2025-01-28,11:00:00
+72,Moqueca de Peixe,75.0,2025-01-28,11:00:00
+72,Pão de Queijo (Porção),15.0,2025-01-28,11:00:00
+73,Guaraná Antarctica,7.0,2025-01-20,13:00:00
+73,Moqueca de Peixe,75.0,2025-01-20,13:00:00
+73,Pão de Queijo (Porção),15.0,2025-01-20,13:00:00
+74,Prato Feito (PF),28.0,2025-01-08,20:00:00
+74,Água de Coco,10.0,2025-01-08,20:00:00
+74,Pudim de Leite,12.0,2025-01-08,20:00:00
+75,Guaraná Antarctica,7.0,2025-01-07,22:00:00
+75,Coxinha de Frango,10.0,2025-01-07,22:00:00
+76,Prato Feito (PF),28.0,2025-01-04,18:00:00
+76,Guaraná Antarctica,7.0,2025-01-04,18:00:00
+76,Cerveja Artesanal,18.0,2025-01-04,18:00:00
+76,Pudim de Leite,12.0,2025-01-04,18:00:00
+77,Guaraná Antarctica,7.0,2025-01-17,20:00:00
+77,Café Coado,6.0,2025-01-17,20:00:00
+78,Pudim de Leite,12.0,2025-01-27,11:00:00
+78,Caipirinha de Limão,22.0,2025-01-27,11:00:00
+78,Feijoada Completa,55.0,2025-01-27,11:00:00
+78,Brigadeiro Gourmet,8.0,2025-01-27,11:00:00
+78,Pão de Queijo (Porção),15.0,2025-01-27,11:00:00
+79,Água de Coco,10.0,2025-01-31,18:00:00
+80,Caipirinha de Limão,22.0,2025-01-03,12:00:00
+80,Moqueca de Peixe,75.0,2025-01-03,12:00:00
+80,Coxinha de Frango,10.0,2025-01-03,12:00:00
+80,Feijoada Completa,55.0,2025-01-03,12:00:00
+81,Café Coado,6.0,2025-01-05,17:00:00
+82,Prato Feito (PF),28.0,2025-01-14,18:00:00
+82,Guaraná Antarctica,7.0,2025-01-14,18:00:00
+82,Pão de Queijo (Porção),15.0,2025-01-14,18:00:00
+82,Pudim de Leite,12.0,2025-01-14,18:00:00
+83,Prato Feito (PF),28.0,2025-01-04,15:00:00
+83,Brigadeiro Gourmet,8.0,2025-01-04,15:00:00
+83,Pudim de Leite,12.0,2025-01-04,15:00:00
+84,Prato Feito (PF),28.0,2025-01-09,17:00:00
+84,Arroz Carreteiro,38.0,2025-01-09,17:00:00
+84,Coxinha de Frango,10.0,2025-01-09,17:00:00
+84,Pudim de Leite,12.0,2025-01-09,17:00:00
+85,Feijoada Completa,55.0,2025-01-20,13:00:00
+86,Cerveja Artesanal,18.0,2025-01-09,21:00:00
+87,Prato Feito (PF),28.0,2025-01-04,17:00:00
+87,Moqueca de Peixe,75.0,2025-01-04,17:00:00
+87,Pudim de Leite,12.0,2025-01-04,17:00:00
+88,Feijoada Completa,55.0,2025-01-04,11:00:00
+89,Caipirinha de Limão,22.0,2025-01-27,16:00:00
+89,Feijoada Completa,55.0,2025-01-27,16:00:00
+89,Prato Feito (PF),28.0,2025-01-27,16:00:00
+89,Arroz Carreteiro,38.0,2025-01-27,16:00:00
+89,Pão de Queijo (Porção),15.0,2025-01-27,16:00:00
+90,Caipirinha de Limão,22.0,2025-01-19,16:00:00
+90,Feijoada Completa,55.0,2025-01-19,16:00:00
+90,Suco de Laranja,9.0,2025-01-19,16:00:00
+90,Arroz Carreteiro,38.0,2025-01-19,16:00:00
+90,Moqueca de Peixe,75.0,2025-01-19,16:00:00
+91,Pudim de Leite,12.0,2025-01-26,19:00:00
+91,Feijoada Completa,55.0,2025-01-26,19:00:00
+92,Guaraná Antarctica,7.0,2025-01-13,15:00:00
+92,Pudim de Leite,12.0,2025-01-13,15:00:00
+92,Prato Feito (PF),28.0,2025-01-13,15:00:00
+92,Coxinha de Frango,10.0,2025-01-13,15:00:00
+92,Suco de Laranja,9.0,2025-01-13,15:00:00
+93,Caipirinha de Limão,22.0,2025-01-23,16:00:00
+93,Coxinha de Frango,10.0,2025-01-23,16:00:00
+93,Café Coado,6.0,2025-01-23,16:00:00
+93,Feijoada Completa,55.0,2025-01-23,16:00:00
+94,Café Coado,6.0,2025-01-27,20:00:00
+95,Caipirinha de Limão,22.0,2025-01-27,18:00:00
+95,Moqueca de Peixe,75.0,2025-01-27,18:00:00
+95,Pudim de Leite,12.0,2025-01-27,18:00:00
+95,Feijoada Completa,55.0,2025-01-27,18:00:00
+96,Arroz Carreteiro,38.0,2025-01-29,11:00:00
+96,Pão de Queijo (Porção),15.0,2025-01-29,11:00:00
+96,Suco de Laranja,9.0,2025-01-29,11:00:00
+97,Pudim de Leite,12.0,2025-01-05,21:00:00
+98,Prato Feito (PF),28.0,2025-01-19,17:00:00
+98,Suco de Laranja,9.0,2025-01-19,17:00:00
+99,Caipirinha de Limão,22.0,2025-01-10,21:00:00
+99,Cerveja Artesanal,18.0,2025-01-10,21:00:00
+99,Feijoada Completa,55.0,2025-01-10,21:00:00
+100,Água de Coco,10.0,2025-01-25,22:00:00
+100,Suco de Laranja,9.0,2025-01-25,22:00:00
+101,Prato Feito (PF),28.0,2025-01-30,18:00:00
+101,Moqueca de Peixe,75.0,2025-01-30,18:00:00
+101,Coxinha de Frango,10.0,2025-01-30,18:00:00
+101,Pudim de Leite,12.0,2025-01-30,18:00:00
+102,Prato Feito (PF),28.0,2025-01-26,17:00:00
+102,Arroz Carreteiro,38.0,2025-01-26,17:00:00
+102,Pudim de Leite,12.0,2025-01-26,17:00:00
+102,Guaraná Antarctica,7.0,2025-01-26,17:00:00
+103,Água de Coco,10.0,2025-01-26,13:00:00
+104,Prato Feito (PF),28.0,2025-01-03,11:00:00
+104,Brigadeiro Gourmet,8.0,2025-01-03,11:00:00
+104,Caipirinha de Limão,22.0,2025-01-03,11:00:00
+105,Caipirinha de Limão,22.0,2025-01-08,12:00:00
+105,Pudim de Leite,12.0,2025-01-08,12:00:00
+105,Café Coado,6.0,2025-01-08,12:00:00
+105,Feijoada Completa,55.0,2025-01-08,12:00:00
+106,Prato Feito (PF),28.0,2025-01-05,19:00:00
+106,Água de Coco,10.0,2025-01-05,19:00:00
+106,Pudim de Leite,12.0,2025-01-05,19:00:00
+107,Prato Feito (PF),28.0,2025-01-16,20:00:00
+107,Coxinha de Frango,10.0,2025-01-16,20:00:00
+107,Caipirinha de Limão,22.0,2025-01-16,20:00:00
+108,Suco de Laranja,9.0,2025-01-22,11:00:00
+108,Café Coado,6.0,2025-01-22,11:00:00
+109,Pudim de Leite,12.0,2025-01-03,15:00:00
+110,Brigadeiro Gourmet,8.0,2025-01-07,20:00:00
+110,Suco de Laranja,9.0,2025-01-07,20:00:00
+110,Caipirinha de Limão,22.0,2025-01-07,20:00:00
+111,Feijoada Completa,55.0,2025-01-05,19:00:00
+112,Moqueca de Peixe,75.0,2025-01-21,20:00:00
+112,Suco de Laranja,9.0,2025-01-21,20:00:00
+112,Feijoada Completa,55.0,2025-01-21,20:00:00
+113,Prato Feito (PF),28.0,2025-01-16,16:00:00
+113,Guaraná Antarctica,7.0,2025-01-16,16:00:00
+113,Pudim de Leite,12.0,2025-01-16,16:00:00
+113,Café Coado,6.0,2025-01-16,16:00:00
+114,Moqueca de Peixe,75.0,2025-01-03,11:00:00
+114,Cerveja Artesanal,18.0,2025-01-03,11:00:00
+115,Prato Feito (PF),28.0,2025-01-10,21:00:00
+115,Cerveja Artesanal,18.0,2025-01-10,21:00:00
+116,Moqueca de Peixe,75.0,2025-01-28,13:00:00
+116,Coxinha de Frango,10.0,2025-01-28,13:00:00
+116,Feijoada Completa,55.0,2025-01-28,13:00:00
+117,Pão de Queijo (Porção),15.0,2025-01-14,17:00:00
+117,Cerveja Artesanal,18.0,2025-01-14,17:00:00
+117,Suco de Laranja,9.0,2025-01-14,17:00:00
+118,Brigadeiro Gourmet,8.0,2025-01-16,11:00:00
+118,Suco de Laranja,9.0,2025-01-16,11:00:00
+118,Caipirinha de Limão,22.0,2025-01-16,11:00:00
+118,Feijoada Completa,55.0,2025-01-16,11:00:00
+119,Prato Feito (PF),28.0,2025-01-16,18:00:00
+119,Moqueca de Peixe,75.0,2025-01-16,18:00:00
+119,Pudim de Leite,12.0,2025-01-16,18:00:00
+119,Caipirinha de Limão,22.0,2025-01-16,18:00:00
+120,Pão de Queijo (Porção),15.0,2025-01-24,18:00:00
+120,Água de Coco,10.0,2025-01-24,18:00:00
+121,Suco de Laranja,9.0,2025-01-21,11:00:00
+121,Caipirinha de Limão,22.0,2025-01-21,11:00:00
+122,Prato Feito (PF),28.0,2025-01-13,14:00:00
+122,Cerveja Artesanal,18.0,2025-01-13,14:00:00
+123,Moqueca de Peixe,75.0,2025-01-26,13:00:00
+123,Suco de Laranja,9.0,2025-01-26,13:00:00
+123,Feijoada Completa,55.0,2025-01-26,13:00:00
+124,Caipirinha de Limão,22.0,2025-01-27,18:00:00
+124,Feijoada Completa,55.0,2025-01-27,18:00:00
+125,Café Coado,6.0,2025-01-10,13:00:00
+125,Feijoada Completa,55.0,2025-01-10,13:00:00
+126,Pão de Queijo (Porção),15.0,2025-01-09,21:00:00
+127,Coxinha de Frango,10.0,2025-01-18,22:00:00
+127,Água de Coco,10.0,2025-01-18,22:00:00
+127,Feijoada Completa,55.0,2025-01-18,22:00:00
+128,Caipirinha de Limão,22.0,2025-01-08,11:00:00
+128,Suco de Laranja,9.0,2025-01-08,11:00:00
+128,Feijoada Completa,55.0,2025-01-08,11:00:00
+129,Prato Feito (PF),28.0,2025-01-18,12:00:00
+129,Arroz Carreteiro,38.0,2025-01-18,12:00:00
+129,Pudim de Leite,12.0,2025-01-18,12:00:00
+130,Café Coado,6.0,2025-01-12,21:00:00
+131,Moqueca de Peixe,75.0,2025-01-13,16:00:00
+131,Água de Coco,10.0,2025-01-13,16:00:00
+131,Feijoada Completa,55.0,2025-01-13,16:00:00
+132,Caipirinha de Limão,22.0,2025-01-23,18:00:00
+132,Pudim de Leite,12.0,2025-01-23,18:00:00
+132,Café Coado,6.0,2025-01-23,18:00:00
+132,Feijoada Completa,55.0,2025-01-23,18:00:00
+133,Caipirinha de Limão,22.0,2025-01-17,11:00:00
+134,Moqueca de Peixe,75.0,2025-01-05,21:00:00
+134,Cerveja Artesanal,18.0,2025-01-05,21:00:00
+134,Café Coado,6.0,2025-01-05,21:00:00
+135,Guaraná Antarctica,7.0,2025-01-19,20:00:00
+135,Pudim de Leite,12.0,2025-01-19,20:00:00
+135,Caipirinha de Limão,22.0,2025-01-19,20:00:00
+135,Feijoada Completa,55.0,2025-01-19,20:00:00
+135,Prato Feito (PF),28.0,2025-01-19,20:00:00
+136,Caipirinha de Limão,22.0,2025-01-21,11:00:00
+136,Moqueca de Peixe,75.0,2025-01-21,11:00:00
+136,Guaraná Antarctica,7.0,2025-01-21,11:00:00
+136,Feijoada Completa,55.0,2025-01-21,11:00:00
+137,Pudim de Leite,12.0,2025-01-15,17:00:00
+137,Café Coado,6.0,2025-01-15,17:00:00
+137,Prato Feito (PF),28.0,2025-01-15,17:00:00
+137,Coxinha de Frango,10.0,2025-01-15,17:00:00
+137,Arroz Carreteiro,38.0,2025-01-15,17:00:00
+138,Moqueca de Peixe,75.0,2025-01-22,21:00:00
+138,Café Coado,6.0,2025-01-22,21:00:00
+139,Caipirinha de Limão,22.0,2025-01-20,16:00:00
+139,Cerveja Artesanal,18.0,2025-01-20,16:00:00
+139,Feijoada Completa,55.0,2025-01-20,16:00:00
+140,Prato Feito (PF),28.0,2025-01-01,18:00:00
+140,Guaraná Antarctica,7.0,2025-01-01,18:00:00
+140,Pudim de Leite,12.0,2025-01-01,18:00:00
+140,Arroz Carreteiro,38.0,2025-01-01,18:00:00
+141,Cerveja Artesanal,18.0,2025-01-09,19:00:00
+141,Água de Coco,10.0,2025-01-09,19:00:00
+141,Feijoada Completa,55.0,2025-01-09,19:00:00
+142,Água de Coco,10.0,2025-01-18,17:00:00
+142,Pudim de Leite,12.0,2025-01-18,17:00:00
+142,Caipirinha de Limão,22.0,2025-01-18,17:00:00
+142,Feijoada Completa,55.0,2025-01-18,17:00:00
+142,Suco de Laranja,9.0,2025-01-18,17:00:00
+143,Prato Feito (PF),28.0,2025-01-06,22:00:00
+143,Guaraná Antarctica,7.0,2025-01-06,22:00:00
+143,Moqueca de Peixe,75.0,2025-01-06,22:00:00
+143,Pudim de Leite,12.0,2025-01-06,22:00:00
+144,Arroz Carreteiro,38.0,2025-01-21,18:00:00
+145,Caipirinha de Limão,22.0,2025-01-15,13:00:00
+145,Pudim de Leite,12.0,2025-01-15,13:00:00
+145,Feijoada Completa,55.0,2025-01-15,13:00:00
+146,Moqueca de Peixe,75.0,2025-01-15,13:00:00
+147,Caipirinha de Limão,22.0,2025-01-05,11:00:00
+147,Feijoada Completa,55.0,2025-01-05,11:00:00
+147,Prato Feito (PF),28.0,2025-01-05,11:00:00
+147,Arroz Carreteiro,38.0,2025-01-05,11:00:00
+147,Pão de Queijo (Porção),15.0,2025-01-05,11:00:00
+148,Caipirinha de Limão,22.0,2025-01-26,15:00:00
+148,Prato Feito (PF),28.0,2025-01-26,15:00:00
+148,Feijoada Completa,55.0,2025-01-26,15:00:00
+149,Moqueca de Peixe,75.0,2025-01-14,18:00:00
+149,Coxinha de Frango,10.0,2025-01-14,18:00:00
+150,Guaraná Antarctica,7.0,2025-01-17,22:00:00
+150,Arroz Carreteiro,38.0,2025-01-17,22:00:00
+150,Suco de Laranja,9.0,2025-01-17,22:00:00
+151,Prato Feito (PF),28.0,2025-01-07,19:00:00
+151,Café Coado,6.0,2025-01-07,19:00:00
+152,Caipirinha de Limão,22.0,2025-01-14,15:00:00
+152,Suco de Laranja,9.0,2025-01-14,15:00:00
+152,Pudim de Leite,12.0,2025-01-14,15:00:00
+152,Feijoada Completa,55.0,2025-01-14,15:00:00
+153,Feijoada Completa,55.0,2025-01-19,20:00:00
+154,Caipirinha de Limão,22.0,2025-01-26,13:00:00
+154,Cerveja Artesanal,18.0,2025-01-26,13:00:00
+154,Guaraná Antarctica,7.0,2025-01-26,13:00:00
+154,Feijoada Completa,55.0,2025-01-26,13:00:00
+155,Guaraná Antarctica,7.0,2025-01-23,18:00:00
+156,Pudim de Leite,12.0,2025-01-20,20:00:00
+156,Caipirinha de Limão,22.0,2025-01-20,20:00:00
+156,Prato Feito (PF),28.0,2025-01-20,20:00:00
+156,Coxinha de Frango,10.0,2025-01-20,20:00:00
+156,Pão de Queijo (Porção),15.0,2025-01-20,20:00:00
+157,Cerveja Artesanal,18.0,2025-01-29,15:00:00
+157,Caipirinha de Limão,22.0,2025-01-29,15:00:00
+158,Prato Feito (PF),28.0,2025-01-19,18:00:00
+158,Arroz Carreteiro,38.0,2025-01-19,18:00:00
+158,Pudim de Leite,12.0,2025-01-19,18:00:00
+159,Prato Feito (PF),28.0,2025-01-08,15:00:00
+159,Café Coado,6.0,2025-01-08,15:00:00
+160,Arroz Carreteiro,38.0,2025-01-20,16:00:00
+160,Caipirinha de Limão,22.0,2025-01-20,16:00:00
+161,Prato Feito (PF),28.0,2025-01-22,14:00:00
+161,Pão de Queijo (Porção),15.0,2025-01-22,14:00:00
+162,Moqueca de Peixe,75.0,2025-01-01,20:00:00
+163,Prato Feito (PF),28.0,2025-01-30,18:00:00
+163,Coxinha de Frango,10.0,2025-01-30,18:00:00
+163,Pudim de Leite,12.0,2025-01-30,18:00:00
+163,Caipirinha de Limão,22.0,2025-01-30,18:00:00
+164,Brigadeiro Gourmet,8.0,2025-01-31,15:00:00
+164,Moqueca de Peixe,75.0,2025-01-31,15:00:00
+164,Guaraná Antarctica,7.0,2025-01-31,15:00:00
+165,Caipirinha de Limão,22.0,2025-01-05,22:00:00
+165,Prato Feito (PF),28.0,2025-01-05,22:00:00
+165,Feijoada Completa,55.0,2025-01-05,22:00:00
+166,Moqueca de Peixe,75.0,2025-01-31,21:00:00
+166,Caipirinha de Limão,22.0,2025-01-31,21:00:00
+167,Moqueca de Peixe,75.0,2025-01-04,17:00:00
+167,Feijoada Completa,55.0,2025-01-04,17:00:00
+168,Prato Feito (PF),28.0,2025-01-25,13:00:00
+168,Moqueca de Peixe,75.0,2025-01-25,13:00:00
+168,Pudim de Leite,12.0,2025-01-25,13:00:00
+168,Pão de Queijo (Porção),15.0,2025-01-25,13:00:00
+169,Caipirinha de Limão,22.0,2025-01-29,14:00:00
+169,Prato Feito (PF),28.0,2025-01-29,14:00:00
+169,Cerveja Artesanal,18.0,2025-01-29,14:00:00
+169,Feijoada Completa,55.0,2025-01-29,14:00:00
+170,Pão de Queijo (Porção),15.0,2025-01-11,21:00:00
+170,Cerveja Artesanal,18.0,2025-01-11,21:00:00
+171,Caipirinha de Limão,22.0,2025-01-05,14:00:00
+171,Suco de Laranja,9.0,2025-01-05,14:00:00
+171,Feijoada Completa,55.0,2025-01-05,14:00:00
+172,Prato Feito (PF),28.0,2025-01-08,11:00:00
+172,Café Coado,6.0,2025-01-08,11:00:00
+172,Caipirinha de Limão,22.0,2025-01-08,11:00:00
+173,Caipirinha de Limão,22.0,2025-01-24,21:00:00
+173,Prato Feito (PF),28.0,2025-01-24,21:00:00
+173,Feijoada Completa,55.0,2025-01-24,21:00:00
+174,Brigadeiro Gourmet,8.0,2025-01-03,14:00:00
+175,Caipirinha de Limão,22.0,2025-01-19,16:00:00
+175,Guaraná Antarctica,7.0,2025-01-19,16:00:00
+175,Feijoada Completa,55.0,2025-01-19,16:00:00
+176,Caipirinha de Limão,22.0,2025-01-23,13:00:00
+176,Suco de Laranja,9.0,2025-01-23,13:00:00
+176,Feijoada Completa,55.0,2025-01-23,13:00:00
+177,Caipirinha de Limão,22.0,2025-01-24,16:00:00
+177,Moqueca de Peixe,75.0,2025-01-24,16:00:00
+177,Coxinha de Frango,10.0,2025-01-24,16:00:00
+177,Feijoada Completa,55.0,2025-01-24,16:00:00
+178,Pão de Queijo (Porção),15.0,2025-01-16,16:00:00
+179,Prato Feito (PF),28.0,2025-01-26,20:00:00
+179,Moqueca de Peixe,75.0,2025-01-26,20:00:00
+179,Coxinha de Frango,10.0,2025-01-26,20:00:00
+179,Pudim de Leite,12.0,2025-01-26,20:00:00
+180,Caipirinha de Limão,22.0,2025-01-22,18:00:00
+180,Cerveja Artesanal,18.0,2025-01-22,18:00:00
+180,Feijoada Completa,55.0,2025-01-22,18:00:00
+181,Prato Feito (PF),28.0,2025-01-17,11:00:00
+181,Pudim de Leite,12.0,2025-01-17,11:00:00
+182,Prato Feito (PF),28.0,2025-01-24,20:00:00
+182,Suco de Laranja,9.0,2025-01-24,20:00:00
+183,Água de Coco,10.0,2025-01-01,18:00:00
+183,Pudim de Leite,12.0,2025-01-01,18:00:00
+183,Café Coado,6.0,2025-01-01,18:00:00
+183,Prato Feito (PF),28.0,2025-01-01,18:00:00
+183,Pão de Queijo (Porção),15.0,2025-01-01,18:00:00
+184,Caipirinha de Limão,22.0,2025-01-06,15:00:00
+184,Prato Feito (PF),28.0,2025-01-06,15:00:00
+184,Feijoada Completa,55.0,2025-01-06,15:00:00
+185,Prato Feito (PF),28.0,2025-01-28,12:00:00
+185,Coxinha de Frango,10.0,2025-01-28,12:00:00
+185,Água de Coco,10.0,2025-01-28,12:00:00
+186,Caipirinha de Limão,22.0,2025-01-15,14:00:00
+186,Suco de Laranja,9.0,2025-01-15,14:00:00
+186,Guaraná Antarctica,7.0,2025-01-15,14:00:00
+186,Feijoada Completa,55.0,2025-01-15,14:00:00
+187,Água de Coco,10.0,2025-01-10,14:00:00
+187,Caipirinha de Limão,22.0,2025-01-10,14:00:00
+187,Feijoada Completa,55.0,2025-01-10,14:00:00
+187,Cerveja Artesanal,18.0,2025-01-10,14:00:00
+187,Pão de Queijo (Porção),15.0,2025-01-10,14:00:00
+188,Guaraná Antarctica,7.0,2025-01-17,12:00:00
+188,Feijoada Completa,55.0,2025-01-17,12:00:00
+189,Coxinha de Frango,10.0,2025-01-31,18:00:00
+189,Café Coado,6.0,2025-01-31,18:00:00
+189,Água de Coco,10.0,2025-01-31,18:00:00
+190,Caipirinha de Limão,22.0,2025-01-12,12:00:00
+190,Moqueca de Peixe,75.0,2025-01-12,12:00:00
+190,Coxinha de Frango,10.0,2025-01-12,12:00:00
+190,Feijoada Completa,55.0,2025-01-12,12:00:00
+191,Coxinha de Frango,10.0,2025-01-04,20:00:00
+191,Café Coado,6.0,2025-01-04,20:00:00
+192,Pão de Queijo (Porção),15.0,2025-01-29,14:00:00
+192,Água de Coco,10.0,2025-01-29,14:00:00
+192,Café Coado,6.0,2025-01-29,14:00:00
+193,Prato Feito (PF),28.0,2025-01-29,22:00:00
+193,Pudim de Leite,12.0,2025-01-29,22:00:00
+193,Café Coado,6.0,2025-01-29,22:00:00
+194,Coxinha de Frango,10.0,2025-01-19,12:00:00
+194,Pudim de Leite,12.0,2025-01-19,12:00:00
+194,Feijoada Completa,55.0,2025-01-19,12:00:00
+195,Caipirinha de Limão,22.0,2025-01-27,14:00:00
+195,Pudim de Leite,12.0,2025-01-27,14:00:00
+195,Feijoada Completa,55.0,2025-01-27,14:00:00
+196,Brigadeiro Gourmet,8.0,2025-01-02,12:00:00
+196,Feijoada Completa,55.0,2025-01-02,12:00:00
+197,Guaraná Antarctica,7.0,2025-01-28,22:00:00
+197,Arroz Carreteiro,38.0,2025-01-28,22:00:00
+198,Prato Feito (PF),28.0,2025-01-20,22:00:00
+198,Arroz Carreteiro,38.0,2025-01-20,22:00:00
+198,Feijoada Completa,55.0,2025-01-20,22:00:00
+199,Brigadeiro Gourmet,8.0,2025-01-20,12:00:00
+199,Suco de Laranja,9.0,2025-01-20,12:00:00
+199,Pudim de Leite,12.0,2025-01-20,12:00:00
+200,Prato Feito (PF),28.0,2025-01-27,16:00:00
+200,Cerveja Artesanal,18.0,2025-01-27,16:00:00
+200,Suco de Laranja,9.0,2025-01-27,16:00:00
+200,Pudim de Leite,12.0,2025-01-27,16:00:00
+201,Água de Coco,10.0,2025-01-14,12:00:00
+201,Pudim de Leite,12.0,2025-01-14,12:00:00
+201,Caipirinha de Limão,22.0,2025-01-14,12:00:00
+202,Caipirinha de Limão,22.0,2025-01-04,19:00:00
+202,Prato Feito (PF),28.0,2025-01-04,19:00:00
+202,Feijoada Completa,55.0,2025-01-04,19:00:00
+203,Brigadeiro Gourmet,8.0,2025-01-24,15:00:00
+203,Guaraná Antarctica,7.0,2025-01-24,15:00:00
+204,Arroz Carreteiro,38.0,2025-01-09,11:00:00
+204,Coxinha de Frango,10.0,2025-01-09,11:00:00
+204,Feijoada Completa,55.0,2025-01-09,11:00:00
+205,Café Coado,6.0,2025-01-05,15:00:00
+205,Caipirinha de Limão,22.0,2025-01-05,15:00:00
+206,Arroz Carreteiro,38.0,2025-01-21,19:00:00
+206,Café Coado,6.0,2025-01-21,19:00:00
+206,Caipirinha de Limão,22.0,2025-01-21,19:00:00
+207,Pão de Queijo (Porção),15.0,2025-01-04,12:00:00
+207,Cerveja Artesanal,18.0,2025-01-04,12:00:00
+207,Pudim de Leite,12.0,2025-01-04,12:00:00
+207,Feijoada Completa,55.0,2025-01-04,12:00:00
+208,Brigadeiro Gourmet,8.0,2025-01-05,22:00:00
+208,Pão de Queijo (Porção),15.0,2025-01-05,22:00:00
+208,Pudim de Leite,12.0,2025-01-05,22:00:00
+209,Água de Coco,10.0,2025-01-12,20:00:00
+209,Feijoada Completa,55.0,2025-01-12,20:00:00
+210,Prato Feito (PF),28.0,2025-01-19,16:00:00
+210,Arroz Carreteiro,38.0,2025-01-19,16:00:00
+210,Pudim de Leite,12.0,2025-01-19,16:00:00
+210,Caipirinha de Limão,22.0,2025-01-19,16:00:00
+211,Caipirinha de Limão,22.0,2025-01-11,17:00:00
+211,Moqueca de Peixe,75.0,2025-01-11,17:00:00
+211,Café Coado,6.0,2025-01-11,17:00:00
+211,Feijoada Completa,55.0,2025-01-11,17:00:00
+212,Prato Feito (PF),28.0,2025-01-16,18:00:00
+212,Pudim de Leite,12.0,2025-01-16,18:00:00
+212,Feijoada Completa,55.0,2025-01-16,18:00:00
+213,Coxinha de Frango,10.0,2025-01-25,15:00:00
+214,Caipirinha de Limão,22.0,2025-01-11,12:00:00
+214,Cerveja Artesanal,18.0,2025-01-11,12:00:00
+214,Guaraná Antarctica,7.0,2025-01-11,12:00:00
+214,Feijoada Completa,55.0,2025-01-11,12:00:00
+215,Prato Feito (PF),28.0,2025-01-21,13:00:00
+215,Guaraná Antarctica,7.0,2025-01-21,13:00:00
+215,Feijoada Completa,55.0,2025-01-21,13:00:00
+216,Feijoada Completa,55.0,2025-01-26,22:00:00
+217,Pudim de Leite,12.0,2025-01-11,21:00:00
+217,Café Coado,6.0,2025-01-11,21:00:00
+217,Prato Feito (PF),28.0,2025-01-11,21:00:00
+217,Suco de Laranja,9.0,2025-01-11,21:00:00
+217,Pão de Queijo (Porção),15.0,2025-01-11,21:00:00
+218,Guaraná Antarctica,7.0,2025-01-11,11:00:00
+218,Café Coado,6.0,2025-01-11,11:00:00
+219,Caipirinha de Limão,22.0,2025-01-22,20:00:00
+219,Pão de Queijo (Porção),15.0,2025-01-22,20:00:00
+219,Feijoada Completa,55.0,2025-01-22,20:00:00
+220,Arroz Carreteiro,38.0,2025-01-04,17:00:00
+221,Prato Feito (PF),28.0,2025-01-01,11:00:00
+221,Pudim de Leite,12.0,2025-01-01,11:00:00
+221,Café Coado,6.0,2025-01-01,11:00:00
+222,Prato Feito (PF),28.0,2025-01-11,13:00:00
+222,Pudim de Leite,12.0,2025-01-11,13:00:00
+222,Café Coado,6.0,2025-01-11,13:00:00
+222,Feijoada Completa,55.0,2025-01-11,13:00:00
+223,Brigadeiro Gourmet,8.0,2025-01-16,12:00:00
+223,Arroz Carreteiro,38.0,2025-01-16,12:00:00
+223,Guaraná Antarctica,7.0,2025-01-16,12:00:00
+224,Caipirinha de Limão,22.0,2025-01-24,14:00:00
+224,Café Coado,6.0,2025-01-24,14:00:00
+224,Feijoada Completa,55.0,2025-01-24,14:00:00
+225,Cerveja Artesanal,18.0,2025-01-21,18:00:00
+226,Coxinha de Frango,10.0,2025-01-19,17:00:00
+227,Guaraná Antarctica,7.0,2025-01-01,20:00:00
+227,Pudim de Leite,12.0,2025-01-01,20:00:00
+228,Prato Feito (PF),28.0,2025-01-19,12:00:00
+228,Café Coado,6.0,2025-01-19,12:00:00
+229,Pão de Queijo (Porção),15.0,2025-01-28,17:00:00
+229,Pudim de Leite,12.0,2025-01-28,17:00:00
+229,Caipirinha de Limão,22.0,2025-01-28,17:00:00
+230,Brigadeiro Gourmet,8.0,2025-01-02,13:00:00
+230,Água de Coco,10.0,2025-01-02,13:00:00
+231,Caipirinha de Limão,22.0,2025-01-23,17:00:00
+231,Coxinha de Frango,10.0,2025-01-23,17:00:00
+231,Feijoada Completa,55.0,2025-01-23,17:00:00
+232,Prato Feito (PF),28.0,2025-01-07,17:00:00
+232,Água de Coco,10.0,2025-01-07,17:00:00
+233,Guaraná Antarctica,7.0,2025-01-31,17:00:00
+233,Moqueca de Peixe,75.0,2025-01-31,17:00:00
+234,Suco de Laranja,9.0,2025-01-02,22:00:00
+234,Pudim de Leite,12.0,2025-01-02,22:00:00
+234,Feijoada Completa,55.0,2025-01-02,22:00:00
+235,Prato Feito (PF),28.0,2025-01-29,12:00:00
+235,Guaraná Antarctica,7.0,2025-01-29,12:00:00
+235,Suco de Laranja,9.0,2025-01-29,12:00:00
+235,Pudim de Leite,12.0,2025-01-29,12:00:00
+236,Prato Feito (PF),28.0,2025-01-02,12:00:00
+236,Pão de Queijo (Porção),15.0,2025-01-02,12:00:00
+236,Moqueca de Peixe,75.0,2025-01-02,12:00:00
+236,Pudim de Leite,12.0,2025-01-02,12:00:00
+237,Caipirinha de Limão,22.0,2025-01-10,12:00:00
+237,Pudim de Leite,12.0,2025-01-10,12:00:00
+237,Café Coado,6.0,2025-01-10,12:00:00
+237,Feijoada Completa,55.0,2025-01-10,12:00:00
+238,Caipirinha de Limão,22.0,2025-01-04,20:00:00
+238,Pudim de Leite,12.0,2025-01-04,20:00:00
+238,Feijoada Completa,55.0,2025-01-04,20:00:00
+239,Brigadeiro Gourmet,8.0,2025-01-16,16:00:00
+239,Arroz Carreteiro,38.0,2025-01-16,16:00:00
+239,Café Coado,6.0,2025-01-16,16:00:00
+240,Prato Feito (PF),28.0,2025-01-23,21:00:00
+240,Guaraná Antarctica,7.0,2025-01-23,21:00:00
+240,Pudim de Leite,12.0,2025-01-23,21:00:00
+241,Prato Feito (PF),28.0,2025-01-08,12:00:00
+241,Água de Coco,10.0,2025-01-08,12:00:00
+242,Pudim de Leite,12.0,2025-01-25,16:00:00
+242,Prato Feito (PF),28.0,2025-01-25,16:00:00
+242,Suco de Laranja,9.0,2025-01-25,16:00:00
+242,Brigadeiro Gourmet,8.0,2025-01-25,16:00:00
+242,Pão de Queijo (Porção),15.0,2025-01-25,16:00:00
+243,Cerveja Artesanal,18.0,2025-01-15,12:00:00
+243,Pudim de Leite,12.0,2025-01-15,12:00:00
+244,Prato Feito (PF),28.0,2025-01-22,18:00:00
+244,Arroz Carreteiro,38.0,2025-01-22,18:00:00
+244,Pudim de Leite,12.0,2025-01-22,18:00:00
+245,Pão de Queijo (Porção),15.0,2025-01-07,15:00:00
+245,Pudim de Leite,12.0,2025-01-07,15:00:00
+245,Prato Feito (PF),28.0,2025-01-07,15:00:00
+245,Arroz Carreteiro,38.0,2025-01-07,15:00:00
+245,Moqueca de Peixe,75.0,2025-01-07,15:00:00
+246,Pudim de Leite,12.0,2025-01-22,17:00:00
+247,Guaraná Antarctica,7.0,2025-01-03,14:00:00
+247,Pão de Queijo (Porção),15.0,2025-01-03,14:00:00
+247,Coxinha de Frango,10.0,2025-01-03,14:00:00
+248,Prato Feito (PF),28.0,2025-01-07,11:00:00
+248,Coxinha de Frango,10.0,2025-01-07,11:00:00
+248,Feijoada Completa,55.0,2025-01-07,11:00:00
+249,Prato Feito (PF),28.0,2025-01-04,16:00:00
+249,Arroz Carreteiro,38.0,2025-01-04,16:00:00
+249,Moqueca de Peixe,75.0,2025-01-04,16:00:00
+249,Pudim de Leite,12.0,2025-01-04,16:00:00
+250,Guaraná Antarctica,7.0,2025-01-14,13:00:00
+250,Arroz Carreteiro,38.0,2025-01-14,13:00:00
+250,Suco de Laranja,9.0,2025-01-14,13:00:00
+251,Arroz Carreteiro,38.0,2025-01-26,11:00:00
+251,Pudim de Leite,12.0,2025-01-26,11:00:00
+252,Caipirinha de Limão,22.0,2025-01-19,19:00:00
+252,Pudim de Leite,12.0,2025-01-19,19:00:00
+252,Feijoada Completa,55.0,2025-01-19,19:00:00
+253,Prato Feito (PF),28.0,2025-01-28,20:00:00
+253,Brigadeiro Gourmet,8.0,2025-01-28,20:00:00
+253,Pudim de Leite,12.0,2025-01-28,20:00:00
+253,Café Coado,6.0,2025-01-28,20:00:00
+254,Caipirinha de Limão,22.0,2025-01-20,20:00:00
+255,Caipirinha de Limão,22.0,2025-01-05,22:00:00
+255,Café Coado,6.0,2025-01-05,22:00:00
+255,Feijoada Completa,55.0,2025-01-05,22:00:00
+256,Brigadeiro Gourmet,8.0,2025-01-25,15:00:00
+256,Arroz Carreteiro,38.0,2025-01-25,15:00:00
+256,Feijoada Completa,55.0,2025-01-25,15:00:00
+257,Suco de Laranja,9.0,2025-01-22,21:00:00
+258,Prato Feito (PF),28.0,2025-01-14,18:00:00
+258,Coxinha de Frango,10.0,2025-01-14,18:00:00
+258,Suco de Laranja,9.0,2025-01-14,18:00:00
+259,Cerveja Artesanal,18.0,2025-01-27,16:00:00
+259,Café Coado,6.0,2025-01-27,16:00:00
+259,Feijoada Completa,55.0,2025-01-27,16:00:00
+260,Moqueca de Peixe,75.0,2025-01-12,22:00:00
+260,Pudim de Leite,12.0,2025-01-12,22:00:00
+261,Prato Feito (PF),28.0,2025-01-19,21:00:00
+261,Arroz Carreteiro,38.0,2025-01-19,21:00:00
+262,Prato Feito (PF),28.0,2025-01-12,22:00:00
+262,Pudim de Leite,12.0,2025-01-12,22:00:00
+262,Café Coado,6.0,2025-01-12,22:00:00
+262,Feijoada Completa,55.0,2025-01-12,22:00:00
+263,Prato Feito (PF),28.0,2025-01-08,17:00:00
+263,Coxinha de Frango,10.0,2025-01-08,17:00:00
+263,Pudim de Leite,12.0,2025-01-08,17:00:00
+263,Feijoada Completa,55.0,2025-01-08,17:00:00
+264,Caipirinha de Limão,22.0,2025-01-26,22:00:00
+264,Feijoada Completa,55.0,2025-01-26,22:00:00
+264,Suco de Laranja,9.0,2025-01-26,22:00:00
+264,Brigadeiro Gourmet,8.0,2025-01-26,22:00:00
+264,Pão de Queijo (Porção),15.0,2025-01-26,22:00:00
+265,Caipirinha de Limão,22.0,2025-01-12,14:00:00
+265,Cerveja Artesanal,18.0,2025-01-12,14:00:00
+265,Feijoada Completa,55.0,2025-01-12,14:00:00
+266,Caipirinha de Limão,22.0,2025-01-08,19:00:00
+267,Prato Feito (PF),28.0,2025-01-11,22:00:00
+267,Pudim de Leite,12.0,2025-01-11,22:00:00
+267,Café Coado,6.0,2025-01-11,22:00:00
+268,Brigadeiro Gourmet,8.0,2025-01-18,20:00:00
+268,Água de Coco,10.0,2025-01-18,20:00:00
+268,Pudim de Leite,12.0,2025-01-18,20:00:00
+269,Guaraná Antarctica,7.0,2025-01-17,13:00:00
+269,Caipirinha de Limão,22.0,2025-01-17,13:00:00
+269,Café Coado,6.0,2025-01-17,13:00:00
+269,Feijoada Completa,55.0,2025-01-17,13:00:00
+269,Prato Feito (PF),28.0,2025-01-17,13:00:00
+270,Guaraná Antarctica,7.0,2025-01-27,12:00:00
+270,Café Coado,6.0,2025-01-27,12:00:00
+271,Prato Feito (PF),28.0,2025-01-15,12:00:00
+271,Pudim de Leite,12.0,2025-01-15,12:00:00
+272,Moqueca de Peixe,75.0,2025-01-29,16:00:00
+272,Suco de Laranja,9.0,2025-01-29,16:00:00
+273,Moqueca de Peixe,75.0,2025-01-13,18:00:00
+274,Caipirinha de Limão,22.0,2025-01-18,17:00:00
+274,Moqueca de Peixe,75.0,2025-01-18,17:00:00
+274,Suco de Laranja,9.0,2025-01-18,17:00:00
+274,Feijoada Completa,55.0,2025-01-18,17:00:00
+275,Caipirinha de Limão,22.0,2025-01-30,22:00:00
+275,Brigadeiro Gourmet,8.0,2025-01-30,22:00:00
+275,Feijoada Completa,55.0,2025-01-30,22:00:00
+276,Moqueca de Peixe,75.0,2025-01-12,22:00:00
+276,Pudim de Leite,12.0,2025-01-12,22:00:00
+276,Feijoada Completa,55.0,2025-01-12,22:00:00
+277,Guaraná Antarctica,7.0,2025-01-24,15:00:00
+277,Pudim de Leite,12.0,2025-01-24,15:00:00
+277,Prato Feito (PF),28.0,2025-01-24,15:00:00
+277,Cerveja Artesanal,18.0,2025-01-24,15:00:00
+277,Suco de Laranja,9.0,2025-01-24,15:00:00
+278,Caipirinha de Limão,22.0,2025-01-25,13:00:00
+278,Guaraná Antarctica,7.0,2025-01-25,13:00:00
+278,Feijoada Completa,55.0,2025-01-25,13:00:00
+279,Pão de Queijo (Porção),15.0,2025-01-03,14:00:00
+279,Moqueca de Peixe,75.0,2025-01-03,14:00:00
+280,Caipirinha de Limão,22.0,2025-01-16,14:00:00
+280,Guaraná Antarctica,7.0,2025-01-16,14:00:00
+280,Feijoada Completa,55.0,2025-01-16,14:00:00
+281,Prato Feito (PF),28.0,2025-01-15,21:00:00
+281,Coxinha de Frango,10.0,2025-01-15,21:00:00
+281,Pudim de Leite,12.0,2025-01-15,21:00:00
+281,Caipirinha de Limão,22.0,2025-01-15,21:00:00
+282,Prato Feito (PF),28.0,2025-01-02,17:00:00
+282,Cerveja Artesanal,18.0,2025-01-02,17:00:00
+282,Feijoada Completa,55.0,2025-01-02,17:00:00
+283,Moqueca de Peixe,75.0,2025-01-19,19:00:00
+284,Coxinha de Frango,10.0,2025-01-17,18:00:00
+285,Pudim de Leite,12.0,2025-01-02,14:00:00
+285,Café Coado,6.0,2025-01-02,14:00:00
+285,Prato Feito (PF),28.0,2025-01-02,14:00:00
+285,Suco de Laranja,9.0,2025-01-02,14:00:00
+285,Brigadeiro Gourmet,8.0,2025-01-02,14:00:00
+286,Arroz Carreteiro,38.0,2025-01-05,18:00:00
+287,Prato Feito (PF),28.0,2025-01-06,14:00:00
+287,Caipirinha de Limão,22.0,2025-01-06,14:00:00
+288,Prato Feito (PF),28.0,2025-01-17,11:00:00
+288,Guaraná Antarctica,7.0,2025-01-17,11:00:00
+288,Pudim de Leite,12.0,2025-01-17,11:00:00
+288,Feijoada Completa,55.0,2025-01-17,11:00:00
+289,Prato Feito (PF),28.0,2025-01-19,14:00:00
+289,Suco de Laranja,9.0,2025-01-19,14:00:00
+289,Caipirinha de Limão,22.0,2025-01-19,14:00:00
+290,Prato Feito (PF),28.0,2025-01-16,16:00:00
+290,Coxinha de Frango,10.0,2025-01-16,16:00:00
+290,Caipirinha de Limão,22.0,2025-01-16,16:00:00
+291,Caipirinha de Limão,22.0,2025-01-21,20:00:00
+291,Guaraná Antarctica,7.0,2025-01-21,20:00:00
+291,Feijoada Completa,55.0,2025-01-21,20:00:00
+292,Caipirinha de Limão,22.0,2025-01-01,12:00:00
+292,Feijoada Completa,55.0,2025-01-01,12:00:00
+292,Cerveja Artesanal,18.0,2025-01-01,12:00:00
+292,Brigadeiro Gourmet,8.0,2025-01-01,12:00:00
+292,Arroz Carreteiro,38.0,2025-01-01,12:00:00
+293,Suco de Laranja,9.0,2025-01-28,21:00:00
+293,Caipirinha de Limão,22.0,2025-01-28,21:00:00
+294,Brigadeiro Gourmet,8.0,2025-01-17,15:00:00
+294,Coxinha de Frango,10.0,2025-01-17,15:00:00
+295,Caipirinha de Limão,22.0,2025-01-05,21:00:00
+295,Cerveja Artesanal,18.0,2025-01-05,21:00:00
+295,Feijoada Completa,55.0,2025-01-05,21:00:00
+296,Caipirinha de Limão,22.0,2025-01-07,21:00:00
+296,Café Coado,6.0,2025-01-07,21:00:00
+296,Feijoada Completa,55.0,2025-01-07,21:00:00
+297,Guaraná Antarctica,7.0,2025-01-17,18:00:00
+297,Pão de Queijo (Porção),15.0,2025-01-17,18:00:00
+297,Prato Feito (PF),28.0,2025-01-17,18:00:00
+298,Caipirinha de Limão,22.0,2025-01-26,14:00:00
+298,Moqueca de Peixe,75.0,2025-01-26,14:00:00
+298,Pudim de Leite,12.0,2025-01-26,14:00:00
+298,Feijoada Completa,55.0,2025-01-26,14:00:00
+299,Caipirinha de Limão,22.0,2025-01-22,22:00:00
+299,Café Coado,6.0,2025-01-22,22:00:00
+299,Feijoada Completa,55.0,2025-01-22,22:00:00
+300,Guaraná Antarctica,7.0,2025-01-19,18:00:00
+300,Moqueca de Peixe,75.0,2025-01-19,18:00:00
+300,Coxinha de Frango,10.0,2025-01-19,18:00:00
+301,Pudim de Leite,12.0,2025-01-07,17:00:00
+301,Café Coado,6.0,2025-01-07,17:00:00
+301,Prato Feito (PF),28.0,2025-01-07,17:00:00
+301,Suco de Laranja,9.0,2025-01-07,17:00:00
+301,Coxinha de Frango,10.0,2025-01-07,17:00:00
+302,Água de Coco,10.0,2025-01-06,22:00:00
+302,Pudim de Leite,12.0,2025-01-06,22:00:00
+302,Feijoada Completa,55.0,2025-01-06,22:00:00
+302,Prato Feito (PF),28.0,2025-01-06,22:00:00
+302,Coxinha de Frango,10.0,2025-01-06,22:00:00
+303,Coxinha de Frango,10.0,2025-01-15,21:00:00
+303,Água de Coco,10.0,2025-01-15,21:00:00
+303,Arroz Carreteiro,38.0,2025-01-15,21:00:00
+304,Brigadeiro Gourmet,8.0,2025-01-22,18:00:00
+304,Suco de Laranja,9.0,2025-01-22,18:00:00
+304,Pudim de Leite,12.0,2025-01-22,18:00:00
+305,Prato Feito (PF),28.0,2025-01-30,20:00:00
+305,Coxinha de Frango,10.0,2025-01-30,20:00:00
+306,Caipirinha de Limão,22.0,2025-01-20,12:00:00
+306,Moqueca de Peixe,75.0,2025-01-20,12:00:00
+306,Pão de Queijo (Porção),15.0,2025-01-20,12:00:00
+306,Feijoada Completa,55.0,2025-01-20,12:00:00
+307,Prato Feito (PF),28.0,2025-01-05,19:00:00
+307,Coxinha de Frango,10.0,2025-01-05,19:00:00
+307,Pudim de Leite,12.0,2025-01-05,19:00:00
+308,Prato Feito (PF),28.0,2025-01-23,18:00:00
+308,Cerveja Artesanal,18.0,2025-01-23,18:00:00
+308,Pudim de Leite,12.0,2025-01-23,18:00:00
+309,Prato Feito (PF),28.0,2025-01-23,21:00:00
+309,Pão de Queijo (Porção),15.0,2025-01-23,21:00:00
+309,Água de Coco,10.0,2025-01-23,21:00:00
+309,Pudim de Leite,12.0,2025-01-23,21:00:00
+310,Prato Feito (PF),28.0,2025-01-04,13:00:00
+310,Pão de Queijo (Porção),15.0,2025-01-04,13:00:00
+310,Moqueca de Peixe,75.0,2025-01-04,13:00:00
+310,Pudim de Leite,12.0,2025-01-04,13:00:00
+311,Moqueca de Peixe,75.0,2025-01-16,18:00:00
+312,Prato Feito (PF),28.0,2025-01-04,22:00:00
+312,Moqueca de Peixe,75.0,2025-01-04,22:00:00
+312,Pão de Queijo (Porção),15.0,2025-01-04,22:00:00
+313,Caipirinha de Limão,22.0,2025-01-22,22:00:00
+313,Coxinha de Frango,10.0,2025-01-22,22:00:00
+313,Feijoada Completa,55.0,2025-01-22,22:00:00
+314,Arroz Carreteiro,38.0,2025-01-09,14:00:00
+314,Cerveja Artesanal,18.0,2025-01-09,14:00:00
+314,Feijoada Completa,55.0,2025-01-09,14:00:00
+315,Água de Coco,10.0,2025-01-11,18:00:00
+316,Moqueca de Peixe,75.0,2025-01-21,16:00:00
+316,Pudim de Leite,12.0,2025-01-21,16:00:00
+317,Brigadeiro Gourmet,8.0,2025-01-19,21:00:00
+317,Moqueca de Peixe,75.0,2025-01-19,21:00:00
+317,Suco de Laranja,9.0,2025-01-19,21:00:00
+318,Guaraná Antarctica,7.0,2025-01-14,22:00:00
+318,Suco de Laranja,9.0,2025-01-14,22:00:00
+319,Coxinha de Frango,10.0,2025-01-20,17:00:00
+320,Caipirinha de Limão,22.0,2025-01-05,20:00:00
+320,Coxinha de Frango,10.0,2025-01-05,20:00:00
+320,Feijoada Completa,55.0,2025-01-05,20:00:00
+321,Prato Feito (PF),28.0,2025-01-19,16:00:00
+321,Cerveja Artesanal,18.0,2025-01-19,16:00:00
+321,Pudim de Leite,12.0,2025-01-19,16:00:00
+322,Caipirinha de Limão,22.0,2025-01-23,19:00:00
+322,Suco de Laranja,9.0,2025-01-23,19:00:00
+322,Feijoada Completa,55.0,2025-01-23,19:00:00
+323,Caipirinha de Limão,22.0,2025-01-21,15:00:00
+323,Brigadeiro Gourmet,8.0,2025-01-21,15:00:00
+323,Pão de Queijo (Porção),15.0,2025-01-21,15:00:00
+323,Feijoada Completa,55.0,2025-01-21,15:00:00
+324,Prato Feito (PF),28.0,2025-01-19,15:00:00
+324,Arroz Carreteiro,38.0,2025-01-19,15:00:00
+324,Caipirinha de Limão,22.0,2025-01-19,15:00:00
+325,Caipirinha de Limão,22.0,2025-01-25,13:00:00
+325,Água de Coco,10.0,2025-01-25,13:00:00
+325,Feijoada Completa,55.0,2025-01-25,13:00:00
+326,Caipirinha de Limão,22.0,2025-01-20,22:00:00
+326,Feijoada Completa,55.0,2025-01-20,22:00:00
+327,Guaraná Antarctica,7.0,2025-01-19,19:00:00
+327,Pão de Queijo (Porção),15.0,2025-01-19,19:00:00
+327,Água de Coco,10.0,2025-01-19,19:00:00
+328,Pão de Queijo (Porção),15.0,2025-01-23,19:00:00
+328,Pudim de Leite,12.0,2025-01-23,19:00:00
+329,Brigadeiro Gourmet,8.0,2025-01-23,19:00:00
+329,Suco de Laranja,9.0,2025-01-23,19:00:00
+330,Pudim de Leite,12.0,2025-01-02,12:00:00
+330,Feijoada Completa,55.0,2025-01-02,12:00:00
+330,Prato Feito (PF),28.0,2025-01-02,12:00:00
+330,Coxinha de Frango,10.0,2025-01-02,12:00:00
+330,Suco de Laranja,9.0,2025-01-02,12:00:00
+331,Prato Feito (PF),28.0,2025-01-15,15:00:00
+331,Cerveja Artesanal,18.0,2025-01-15,15:00:00
+331,Café Coado,6.0,2025-01-15,15:00:00
+332,Suco de Laranja,9.0,2025-01-13,17:00:00
+333,Prato Feito (PF),28.0,2025-01-22,13:00:00
+333,Brigadeiro Gourmet,8.0,2025-01-22,13:00:00
+333,Pudim de Leite,12.0,2025-01-22,13:00:00
+334,Pão de Queijo (Porção),15.0,2025-01-20,12:00:00
+335,Água de Coco,10.0,2025-01-11,12:00:00
+336,Prato Feito (PF),28.0,2025-01-15,12:00:00
+337,Caipirinha de Limão,22.0,2025-01-30,13:00:00
+337,Água de Coco,10.0,2025-01-30,13:00:00
+337,Guaraná Antarctica,7.0,2025-01-30,13:00:00
+337,Feijoada Completa,55.0,2025-01-30,13:00:00
+338,Prato Feito (PF),28.0,2025-01-22,19:00:00
+338,Pudim de Leite,12.0,2025-01-22,19:00:00
+338,Feijoada Completa,55.0,2025-01-22,19:00:00
+339,Arroz Carreteiro,38.0,2025-01-27,20:00:00
+339,Coxinha de Frango,10.0,2025-01-27,20:00:00
+339,Feijoada Completa,55.0,2025-01-27,20:00:00
+340,Caipirinha de Limão,22.0,2025-01-08,20:00:00
+340,Brigadeiro Gourmet,8.0,2025-01-08,20:00:00
+340,Café Coado,6.0,2025-01-08,20:00:00
+340,Feijoada Completa,55.0,2025-01-08,20:00:00
+341,Caipirinha de Limão,22.0,2025-01-30,19:00:00
+342,Arroz Carreteiro,38.0,2025-01-20,17:00:00
+342,Suco de Laranja,9.0,2025-01-20,17:00:00
+342,Feijoada Completa,55.0,2025-01-20,17:00:00
+343,Café Coado,6.0,2025-01-23,22:00:00
+344,Caipirinha de Limão,22.0,2025-01-05,22:00:00
+344,Arroz Carreteiro,38.0,2025-01-05,22:00:00
+344,Brigadeiro Gourmet,8.0,2025-01-05,22:00:00
+344,Feijoada Completa,55.0,2025-01-05,22:00:00
+345,Guaraná Antarctica,7.0,2025-01-25,22:00:00
+345,Caipirinha de Limão,22.0,2025-01-25,22:00:00
+345,Feijoada Completa,55.0,2025-01-25,22:00:00
+345,Cerveja Artesanal,18.0,2025-01-25,22:00:00
+345,Moqueca de Peixe,75.0,2025-01-25,22:00:00
+346,Água de Coco,10.0,2025-01-05,16:00:00
+346,Caipirinha de Limão,22.0,2025-01-05,16:00:00
+346,Feijoada Completa,55.0,2025-01-05,16:00:00
+346,Prato Feito (PF),28.0,2025-01-05,16:00:00
+346,Coxinha de Frango,10.0,2025-01-05,16:00:00
+347,Prato Feito (PF),28.0,2025-01-30,19:00:00
+347,Arroz Carreteiro,38.0,2025-01-30,19:00:00
+347,Brigadeiro Gourmet,8.0,2025-01-30,19:00:00
+348,Brigadeiro Gourmet,8.0,2025-01-22,20:00:00
+349,Brigadeiro Gourmet,8.0,2025-01-05,15:00:00
+349,Suco de Laranja,9.0,2025-01-05,15:00:00
+349,Cerveja Artesanal,18.0,2025-01-05,15:00:00
+350,Prato Feito (PF),28.0,2025-01-03,20:00:00
+351,Guaraná Antarctica,7.0,2025-01-21,22:00:00
+352,Guaraná Antarctica,7.0,2025-01-19,11:00:00
+352,Água de Coco,10.0,2025-01-19,11:00:00
+352,Caipirinha de Limão,22.0,2025-01-19,11:00:00
+352,Feijoada Completa,55.0,2025-01-19,11:00:00
+352,Coxinha de Frango,10.0,2025-01-19,11:00:00
+353,Prato Feito (PF),28.0,2025-01-13,20:00:00
+353,Moqueca de Peixe,75.0,2025-01-13,20:00:00
+353,Suco de Laranja,9.0,2025-01-13,20:00:00
+354,Prato Feito (PF),28.0,2025-01-24,16:00:00
+355,Moqueca de Peixe,75.0,2025-01-20,14:00:00
+356,Suco de Laranja,9.0,2025-01-13,11:00:00
+357,Pão de Queijo (Porção),15.0,2025-01-10,15:00:00
+358,Água de Coco,10.0,2025-01-26,19:00:00
+358,Pudim de Leite,12.0,2025-01-26,19:00:00
+358,Prato Feito (PF),28.0,2025-01-26,19:00:00
+358,Suco de Laranja,9.0,2025-01-26,19:00:00
+358,Brigadeiro Gourmet,8.0,2025-01-26,19:00:00
+359,Caipirinha de Limão,22.0,2025-01-06,22:00:00
+360,Cerveja Artesanal,18.0,2025-01-09,16:00:00
+360,Pudim de Leite,12.0,2025-01-09,16:00:00
+360,Café Coado,6.0,2025-01-09,16:00:00
+361,Suco de Laranja,9.0,2025-01-04,14:00:00
+361,Pudim de Leite,12.0,2025-01-04,14:00:00
+361,Caipirinha de Limão,22.0,2025-01-04,14:00:00
+362,Caipirinha de Limão,22.0,2025-01-30,20:00:00
+362,Coxinha de Frango,10.0,2025-01-30,20:00:00
+362,Feijoada Completa,55.0,2025-01-30,20:00:00
+363,Brigadeiro Gourmet,8.0,2025-01-15,20:00:00
+363,Pudim de Leite,12.0,2025-01-15,20:00:00
+364,Café Coado,6.0,2025-01-03,13:00:00
+365,Arroz Carreteiro,38.0,2025-01-31,13:00:00
+365,Cerveja Artesanal,18.0,2025-01-31,13:00:00
+366,Caipirinha de Limão,22.0,2025-01-06,20:00:00
+366,Cerveja Artesanal,18.0,2025-01-06,20:00:00
+366,Pudim de Leite,12.0,2025-01-06,20:00:00
+366,Feijoada Completa,55.0,2025-01-06,20:00:00
+367,Prato Feito (PF),28.0,2025-01-27,16:00:00
+367,Moqueca de Peixe,75.0,2025-01-27,16:00:00
+367,Cerveja Artesanal,18.0,2025-01-27,16:00:00
+368,Guaraná Antarctica,7.0,2025-01-31,18:00:00
+368,Pão de Queijo (Porção),15.0,2025-01-31,18:00:00
+368,Suco de Laranja,9.0,2025-01-31,18:00:00
+369,Prato Feito (PF),28.0,2025-01-07,14:00:00
+370,Café Coado,6.0,2025-01-27,15:00:00
+371,Arroz Carreteiro,38.0,2025-01-14,20:00:00
+371,Cerveja Artesanal,18.0,2025-01-14,20:00:00
+372,Suco de Laranja,9.0,2025-01-02,19:00:00
+373,Prato Feito (PF),28.0,2025-01-13,17:00:00
+373,Brigadeiro Gourmet,8.0,2025-01-13,17:00:00
+373,Suco de Laranja,9.0,2025-01-13,17:00:00
+374,Pudim de Leite,12.0,2025-01-06,17:00:00
+374,Prato Feito (PF),28.0,2025-01-06,17:00:00
+374,Brigadeiro Gourmet,8.0,2025-01-06,17:00:00
+374,Arroz Carreteiro,38.0,2025-01-06,17:00:00
+374,Pão de Queijo (Porção),15.0,2025-01-06,17:00:00
+375,Coxinha de Frango,10.0,2025-01-31,22:00:00
+375,Feijoada Completa,55.0,2025-01-31,22:00:00
+376,Brigadeiro Gourmet,8.0,2025-01-06,22:00:00
+376,Arroz Carreteiro,38.0,2025-01-06,22:00:00
+376,Suco de Laranja,9.0,2025-01-06,22:00:00
+377,Prato Feito (PF),28.0,2025-01-06,17:00:00
+377,Pão de Queijo (Porção),15.0,2025-01-06,17:00:00
+378,Caipirinha de Limão,22.0,2025-01-07,18:00:00
+378,Café Coado,6.0,2025-01-07,18:00:00
+378,Feijoada Completa,55.0,2025-01-07,18:00:00
+379,Cerveja Artesanal,18.0,2025-01-15,21:00:00
+380,Água de Coco,10.0,2025-01-04,14:00:00
+381,Pudim de Leite,12.0,2025-01-18,19:00:00
+381,Caipirinha de Limão,22.0,2025-01-18,19:00:00
+381,Feijoada Completa,55.0,2025-01-18,19:00:00
+381,Coxinha de Frango,10.0,2025-01-18,19:00:00
+381,Brigadeiro Gourmet,8.0,2025-01-18,19:00:00
+382,Caipirinha de Limão,22.0,2025-01-03,20:00:00
+382,Cerveja Artesanal,18.0,2025-01-03,20:00:00
+382,Pudim de Leite,12.0,2025-01-03,20:00:00
+382,Feijoada Completa,55.0,2025-01-03,20:00:00
+383,Água de Coco,10.0,2025-01-22,19:00:00
+383,Café Coado,6.0,2025-01-22,19:00:00
+384,Água de Coco,10.0,2025-01-10,17:00:00
+385,Prato Feito (PF),28.0,2025-01-17,11:00:00
+385,Arroz Carreteiro,38.0,2025-01-17,11:00:00
+385,Pudim de Leite,12.0,2025-01-17,11:00:00
+386,Prato Feito (PF),28.0,2025-01-20,11:00:00
+386,Pão de Queijo (Porção),15.0,2025-01-20,11:00:00
+386,Pudim de Leite,12.0,2025-01-20,11:00:00
+386,Caipirinha de Limão,22.0,2025-01-20,11:00:00
+387,Feijoada Completa,55.0,2025-01-12,15:00:00
+388,Moqueca de Peixe,75.0,2025-01-06,16:00:00
+388,Pudim de Leite,12.0,2025-01-06,16:00:00
+388,Café Coado,6.0,2025-01-06,16:00:00
+389,Cerveja Artesanal,18.0,2025-01-04,16:00:00
+389,Pudim de Leite,12.0,2025-01-04,16:00:00
+389,Café Coado,6.0,2025-01-04,16:00:00
+390,Guaraná Antarctica,7.0,2025-01-12,17:00:00
+391,Feijoada Completa,55.0,2025-01-09,17:00:00
+392,Água de Coco,10.0,2025-01-07,19:00:00
+393,Água de Coco,10.0,2025-01-04,22:00:00
+393,Suco de Laranja,9.0,2025-01-04,22:00:00
+394,Caipirinha de Limão,22.0,2025-01-24,15:00:00
+394,Coxinha de Frango,10.0,2025-01-24,15:00:00
+394,Feijoada Completa,55.0,2025-01-24,15:00:00
+395,Prato Feito (PF),28.0,2025-01-14,22:00:00
+395,Pão de Queijo (Porção),15.0,2025-01-14,22:00:00
+395,Pudim de Leite,12.0,2025-01-14,22:00:00
+396,Prato Feito (PF),28.0,2025-01-16,21:00:00
+396,Brigadeiro Gourmet,8.0,2025-01-16,21:00:00
+396,Guaraná Antarctica,7.0,2025-01-16,21:00:00
+397,Guaraná Antarctica,7.0,2025-01-08,20:00:00
+397,Coxinha de Frango,10.0,2025-01-08,20:00:00
+397,Feijoada Completa,55.0,2025-01-08,20:00:00
+398,Caipirinha de Limão,22.0,2025-01-22,11:00:00
+398,Pudim de Leite,12.0,2025-01-22,11:00:00
+398,Feijoada Completa,55.0,2025-01-22,11:00:00
+399,Guaraná Antarctica,7.0,2025-01-31,14:00:00
+400,Caipirinha de Limão,22.0,2025-01-19,15:00:00
+400,Moqueca de Peixe,75.0,2025-01-19,15:00:00
+400,Café Coado,6.0,2025-01-19,15:00:00
+400,Feijoada Completa,55.0,2025-01-19,15:00:00
+401,Prato Feito (PF),28.0,2025-01-05,20:00:00
+401,Cerveja Artesanal,18.0,2025-01-05,20:00:00
+401,Feijoada Completa,55.0,2025-01-05,20:00:00
+402,Brigadeiro Gourmet,8.0,2025-01-17,15:00:00
+402,Arroz Carreteiro,38.0,2025-01-17,15:00:00
+402,Café Coado,6.0,2025-01-17,15:00:00
+403,Caipirinha de Limão,22.0,2025-01-18,17:00:00
+403,Água de Coco,10.0,2025-01-18,17:00:00
+403,Suco de Laranja,9.0,2025-01-18,17:00:00
+403,Feijoada Completa,55.0,2025-01-18,17:00:00
+404,Água de Coco,10.0,2025-01-27,21:00:00
+404,Pudim de Leite,12.0,2025-01-27,21:00:00
+404,Caipirinha de Limão,22.0,2025-01-27,21:00:00
+404,Feijoada Completa,55.0,2025-01-27,21:00:00
+404,Coxinha de Frango,10.0,2025-01-27,21:00:00
+405,Prato Feito (PF),28.0,2025-01-28,22:00:00
+405,Pão de Queijo (Porção),15.0,2025-01-28,22:00:00
+405,Guaraná Antarctica,7.0,2025-01-28,22:00:00
+406,Caipirinha de Limão,22.0,2025-01-01,16:00:00
+406,Suco de Laranja,9.0,2025-01-01,16:00:00
+406,Pudim de Leite,12.0,2025-01-01,16:00:00
+406,Feijoada Completa,55.0,2025-01-01,16:00:00
+407,Prato Feito (PF),28.0,2025-01-19,18:00:00
+408,Prato Feito (PF),28.0,2025-01-19,22:00:00
+408,Água de Coco,10.0,2025-01-19,22:00:00
+408,Guaraná Antarctica,7.0,2025-01-19,22:00:00
+409,Prato Feito (PF),28.0,2025-01-02,17:00:00
+409,Pão de Queijo (Porção),15.0,2025-01-02,17:00:00
+409,Pudim de Leite,12.0,2025-01-02,17:00:00
+410,Caipirinha de Limão,22.0,2025-01-24,14:00:00
+411,Arroz Carreteiro,38.0,2025-01-15,13:00:00
+411,Suco de Laranja,9.0,2025-01-15,13:00:00
+411,Feijoada Completa,55.0,2025-01-15,13:00:00
+412,Arroz Carreteiro,38.0,2025-01-10,15:00:00
+412,Cerveja Artesanal,18.0,2025-01-10,15:00:00
+413,Água de Coco,10.0,2025-01-01,20:00:00
+414,Cerveja Artesanal,18.0,2025-01-16,18:00:00
+414,Café Coado,6.0,2025-01-16,18:00:00
+414,Feijoada Completa,55.0,2025-01-16,18:00:00
+415,Pão de Queijo (Porção),15.0,2025-01-23,12:00:00
+415,Moqueca de Peixe,75.0,2025-01-23,12:00:00
+415,Caipirinha de Limão,22.0,2025-01-23,12:00:00
+416,Prato Feito (PF),28.0,2025-01-14,14:00:00
+416,Brigadeiro Gourmet,8.0,2025-01-14,14:00:00
+416,Moqueca de Peixe,75.0,2025-01-14,14:00:00
+417,Prato Feito (PF),28.0,2025-01-19,18:00:00
+417,Suco de Laranja,9.0,2025-01-19,18:00:00
+417,Pudim de Leite,12.0,2025-01-19,18:00:00
+417,Feijoada Completa,55.0,2025-01-19,18:00:00
+418,Arroz Carreteiro,38.0,2025-01-07,21:00:00
+418,Suco de Laranja,9.0,2025-01-07,21:00:00
+418,Caipirinha de Limão,22.0,2025-01-07,21:00:00
+419,Guaraná Antarctica,7.0,2025-01-31,18:00:00
+419,Brigadeiro Gourmet,8.0,2025-01-31,18:00:00
+420,Arroz Carreteiro,38.0,2025-01-03,16:00:00
+420,Água de Coco,10.0,2025-01-03,16:00:00
+421,Feijoada Completa,55.0,2025-01-28,20:00:00
+422,Coxinha de Frango,10.0,2025-01-01,13:00:00
+423,Prato Feito (PF),28.0,2025-01-24,22:00:00
+423,Guaraná Antarctica,7.0,2025-01-24,22:00:00
+423,Pudim de Leite,12.0,2025-01-24,22:00:00
+424,Prato Feito (PF),28.0,2025-01-08,17:00:00
+424,Pão de Queijo (Porção),15.0,2025-01-08,17:00:00
+424,Água de Coco,10.0,2025-01-08,17:00:00
+424,Pudim de Leite,12.0,2025-01-08,17:00:00
+425,Moqueca de Peixe,75.0,2025-01-17,21:00:00
+425,Feijoada Completa,55.0,2025-01-17,21:00:00
+426,Pão de Queijo (Porção),15.0,2025-01-27,21:00:00
+427,Cerveja Artesanal,18.0,2025-01-12,22:00:00
+427,Pudim de Leite,12.0,2025-01-12,22:00:00
+428,Pudim de Leite,12.0,2025-01-09,13:00:00
+428,Prato Feito (PF),28.0,2025-01-09,13:00:00
+428,Coxinha de Frango,10.0,2025-01-09,13:00:00
+428,Suco de Laranja,9.0,2025-01-09,13:00:00
+428,Arroz Carreteiro,38.0,2025-01-09,13:00:00
+429,Prato Feito (PF),28.0,2025-01-05,14:00:00
+429,Arroz Carreteiro,38.0,2025-01-05,14:00:00
+429,Pudim de Leite,12.0,2025-01-05,14:00:00
+429,Guaraná Antarctica,7.0,2025-01-05,14:00:00
+430,Prato Feito (PF),28.0,2025-01-20,11:00:00
+430,Suco de Laranja,9.0,2025-01-20,11:00:00
+431,Prato Feito (PF),28.0,2025-01-31,16:00:00
+431,Pão de Queijo (Porção),15.0,2025-01-31,16:00:00
+431,Pudim de Leite,12.0,2025-01-31,16:00:00
+432,Caipirinha de Limão,22.0,2025-01-30,11:00:00
+432,Brigadeiro Gourmet,8.0,2025-01-30,11:00:00
+432,Cerveja Artesanal,18.0,2025-01-30,11:00:00
+432,Feijoada Completa,55.0,2025-01-30,11:00:00
+433,Prato Feito (PF),28.0,2025-01-14,13:00:00
+433,Arroz Carreteiro,38.0,2025-01-14,13:00:00
+433,Feijoada Completa,55.0,2025-01-14,13:00:00
+434,Prato Feito (PF),28.0,2025-01-05,12:00:00
+434,Pudim de Leite,12.0,2025-01-05,12:00:00
+435,Pudim de Leite,12.0,2025-01-07,22:00:00
+436,Caipirinha de Limão,22.0,2025-01-09,19:00:00
+436,Guaraná Antarctica,7.0,2025-01-09,19:00:00
+436,Feijoada Completa,55.0,2025-01-09,19:00:00
+437,Prato Feito (PF),28.0,2025-01-26,20:00:00
+437,Pudim de Leite,12.0,2025-01-26,20:00:00
+438,Guaraná Antarctica,7.0,2025-01-28,21:00:00
+438,Pudim de Leite,12.0,2025-01-28,21:00:00
+438,Prato Feito (PF),28.0,2025-01-28,21:00:00
+438,Cerveja Artesanal,18.0,2025-01-28,21:00:00
+438,Pão de Queijo (Porção),15.0,2025-01-28,21:00:00
+439,Caipirinha de Limão,22.0,2025-01-23,19:00:00
+439,Feijoada Completa,55.0,2025-01-23,19:00:00
+440,Água de Coco,10.0,2025-01-24,20:00:00
+440,Feijoada Completa,55.0,2025-01-24,20:00:00
+441,Café Coado,6.0,2025-01-15,15:00:00
+442,Prato Feito (PF),28.0,2025-01-04,18:00:00
+442,Pão de Queijo (Porção),15.0,2025-01-04,18:00:00
+442,Cerveja Artesanal,18.0,2025-01-04,18:00:00
+442,Feijoada Completa,55.0,2025-01-04,18:00:00
+443,Prato Feito (PF),28.0,2025-01-04,14:00:00
+443,Brigadeiro Gourmet,8.0,2025-01-04,14:00:00
+443,Moqueca de Peixe,75.0,2025-01-04,14:00:00
+444,Feijoada Completa,55.0,2025-01-24,18:00:00
+445,Pão de Queijo (Porção),15.0,2025-01-06,16:00:00
+445,Café Coado,6.0,2025-01-06,16:00:00
+446,Água de Coco,10.0,2025-01-08,11:00:00
+447,Água de Coco,10.0,2025-01-01,11:00:00
+447,Pudim de Leite,12.0,2025-01-01,11:00:00
+447,Café Coado,6.0,2025-01-01,11:00:00
+448,Pudim de Leite,12.0,2025-01-03,11:00:00
+449,Caipirinha de Limão,22.0,2025-01-09,19:00:00
+449,Pão de Queijo (Porção),15.0,2025-01-09,19:00:00
+449,Moqueca de Peixe,75.0,2025-01-09,19:00:00
+449,Feijoada Completa,55.0,2025-01-09,19:00:00
+450,Caipirinha de Limão,22.0,2025-01-13,13:00:00
+451,Prato Feito (PF),28.0,2025-01-16,19:00:00
+451,Guaraná Antarctica,7.0,2025-01-16,19:00:00
+451,Cerveja Artesanal,18.0,2025-01-16,19:00:00
+451,Pudim de Leite,12.0,2025-01-16,19:00:00
+452,Arroz Carreteiro,38.0,2025-01-09,12:00:00
+452,Pudim de Leite,12.0,2025-01-09,12:00:00
+453,Prato Feito (PF),28.0,2025-01-31,21:00:00
+453,Suco de Laranja,9.0,2025-01-31,21:00:00
+453,Pudim de Leite,12.0,2025-01-31,21:00:00
+453,Caipirinha de Limão,22.0,2025-01-31,21:00:00
+454,Caipirinha de Limão,22.0,2025-01-21,20:00:00
+454,Cerveja Artesanal,18.0,2025-01-21,20:00:00
+454,Pudim de Leite,12.0,2025-01-21,20:00:00
+454,Feijoada Completa,55.0,2025-01-21,20:00:00
+455,Caipirinha de Limão,22.0,2025-01-15,21:00:00
+455,Feijoada Completa,55.0,2025-01-15,21:00:00
+455,Cerveja Artesanal,18.0,2025-01-15,21:00:00
+455,Suco de Laranja,9.0,2025-01-15,21:00:00
+455,Arroz Carreteiro,38.0,2025-01-15,21:00:00
+456,Caipirinha de Limão,22.0,2025-01-26,13:00:00
+456,Prato Feito (PF),28.0,2025-01-26,13:00:00
+456,Guaraná Antarctica,7.0,2025-01-26,13:00:00
+456,Feijoada Completa,55.0,2025-01-26,13:00:00
+457,Prato Feito (PF),28.0,2025-01-20,11:00:00
+457,Suco de Laranja,9.0,2025-01-20,11:00:00
+457,Caipirinha de Limão,22.0,2025-01-20,11:00:00
+458,Coxinha de Frango,10.0,2025-01-27,11:00:00
+458,Pudim de Leite,12.0,2025-01-27,11:00:00
+458,Café Coado,6.0,2025-01-27,11:00:00
+459,Arroz Carreteiro,38.0,2025-01-17,16:00:00
+459,Suco de Laranja,9.0,2025-01-17,16:00:00
+459,Caipirinha de Limão,22.0,2025-01-17,16:00:00
+460,Prato Feito (PF),28.0,2025-01-06,16:00:00
+460,Pão de Queijo (Porção),15.0,2025-01-06,16:00:00
+460,Cerveja Artesanal,18.0,2025-01-06,16:00:00
+460,Feijoada Completa,55.0,2025-01-06,16:00:00
+461,Prato Feito (PF),28.0,2025-01-27,17:00:00
+461,Pão de Queijo (Porção),15.0,2025-01-27,17:00:00
+461,Pudim de Leite,12.0,2025-01-27,17:00:00
+461,Feijoada Completa,55.0,2025-01-27,17:00:00
+462,Guaraná Antarctica,7.0,2025-01-15,11:00:00
+462,Cerveja Artesanal,18.0,2025-01-15,11:00:00
+462,Prato Feito (PF),28.0,2025-01-15,11:00:00
+463,Arroz Carreteiro,38.0,2025-01-20,16:00:00
+463,Moqueca de Peixe,75.0,2025-01-20,16:00:00
+463,Pudim de Leite,12.0,2025-01-20,16:00:00
+463,Feijoada Completa,55.0,2025-01-20,16:00:00
+464,Pudim de Leite,12.0,2025-01-17,12:00:00
+464,Caipirinha de Limão,22.0,2025-01-17,12:00:00
+464,Feijoada Completa,55.0,2025-01-17,12:00:00
+464,Prato Feito (PF),28.0,2025-01-17,12:00:00
+464,Cerveja Artesanal,18.0,2025-01-17,12:00:00
+465,Pão de Queijo (Porção),15.0,2025-01-24,20:00:00
+465,Caipirinha de Limão,22.0,2025-01-24,20:00:00
+466,Prato Feito (PF),28.0,2025-01-26,14:00:00
+466,Pudim de Leite,12.0,2025-01-26,14:00:00
+466,Feijoada Completa,55.0,2025-01-26,14:00:00
+467,Prato Feito (PF),28.0,2025-01-25,16:00:00
+467,Água de Coco,10.0,2025-01-25,16:00:00
+467,Guaraná Antarctica,7.0,2025-01-25,16:00:00
+468,Caipirinha de Limão,22.0,2025-01-25,12:00:00
+468,Moqueca de Peixe,75.0,2025-01-25,12:00:00
+468,Feijoada Completa,55.0,2025-01-25,12:00:00
+469,Cerveja Artesanal,18.0,2025-01-01,22:00:00
+469,Pudim de Leite,12.0,2025-01-01,22:00:00
+470,Suco de Laranja,9.0,2025-01-08,13:00:00
+471,Arroz Carreteiro,38.0,2025-01-26,18:00:00
+472,Prato Feito (PF),28.0,2025-01-13,19:00:00
+472,Pudim de Leite,12.0,2025-01-13,19:00:00
+473,Água de Coco,10.0,2025-01-28,19:00:00
+473,Pudim de Leite,12.0,2025-01-28,19:00:00
+473,Café Coado,6.0,2025-01-28,19:00:00
+473,Prato Feito (PF),28.0,2025-01-28,19:00:00
+473,Pão de Queijo (Porção),15.0,2025-01-28,19:00:00
+474,Arroz Carreteiro,38.0,2025-01-07,20:00:00
+474,Café Coado,6.0,2025-01-07,20:00:00
+475,Prato Feito (PF),28.0,2025-01-01,15:00:00
+475,Moqueca de Peixe,75.0,2025-01-01,15:00:00
+475,Pudim de Leite,12.0,2025-01-01,15:00:00
+475,Feijoada Completa,55.0,2025-01-01,15:00:00
+476,Guaraná Antarctica,7.0,2025-01-30,14:00:00
+477,Brigadeiro Gourmet,8.0,2025-01-22,11:00:00
+477,Arroz Carreteiro,38.0,2025-01-22,11:00:00
+477,Prato Feito (PF),28.0,2025-01-22,11:00:00
+478,Caipirinha de Limão,22.0,2025-01-12,15:00:00
+478,Brigadeiro Gourmet,8.0,2025-01-12,15:00:00
+478,Feijoada Completa,55.0,2025-01-12,15:00:00
+479,Caipirinha de Limão,22.0,2025-01-03,21:00:00
+479,Suco de Laranja,9.0,2025-01-03,21:00:00
+479,Feijoada Completa,55.0,2025-01-03,21:00:00
+480,Cerveja Artesanal,18.0,2025-01-16,21:00:00
+481,Pudim de Leite,12.0,2025-01-22,13:00:00
+481,Prato Feito (PF),28.0,2025-01-22,13:00:00
+481,Coxinha de Frango,10.0,2025-01-22,13:00:00
+481,Suco de Laranja,9.0,2025-01-22,13:00:00
+481,Moqueca de Peixe,75.0,2025-01-22,13:00:00
+482,Arroz Carreteiro,38.0,2025-01-03,16:00:00
+482,Moqueca de Peixe,75.0,2025-01-03,16:00:00
+482,Suco de Laranja,9.0,2025-01-03,16:00:00
+483,Prato Feito (PF),28.0,2025-01-20,11:00:00
+483,Coxinha de Frango,10.0,2025-01-20,11:00:00
+483,Água de Coco,10.0,2025-01-20,11:00:00
+483,Pudim de Leite,12.0,2025-01-20,11:00:00
+484,Coxinha de Frango,10.0,2025-01-29,20:00:00
+484,Cerveja Artesanal,18.0,2025-01-29,20:00:00
+485,Suco de Laranja,9.0,2025-01-05,16:00:00
+485,Feijoada Completa,55.0,2025-01-05,16:00:00
+486,Brigadeiro Gourmet,8.0,2025-01-29,17:00:00
+486,Feijoada Completa,55.0,2025-01-29,17:00:00
+487,Moqueca de Peixe,75.0,2025-01-23,13:00:00
+487,Feijoada Completa,55.0,2025-01-23,13:00:00
+488,Caipirinha de Limão,22.0,2025-01-14,12:00:00
+489,Prato Feito (PF),28.0,2025-01-13,20:00:00
+489,Pudim de Leite,12.0,2025-01-13,20:00:00
+490,Prato Feito (PF),28.0,2025-01-20,14:00:00
+490,Pão de Queijo (Porção),15.0,2025-01-20,14:00:00
+490,Guaraná Antarctica,7.0,2025-01-20,14:00:00
+491,Guaraná Antarctica,7.0,2025-01-24,13:00:00
+491,Brigadeiro Gourmet,8.0,2025-01-24,13:00:00
+491,Coxinha de Frango,10.0,2025-01-24,13:00:00
+492,Prato Feito (PF),28.0,2025-01-25,17:00:00
+492,Cerveja Artesanal,18.0,2025-01-25,17:00:00
+492,Pudim de Leite,12.0,2025-01-25,17:00:00
+492,Caipirinha de Limão,22.0,2025-01-25,17:00:00
+493,Pão de Queijo (Porção),15.0,2025-01-07,15:00:00
+494,Arroz Carreteiro,38.0,2025-01-24,16:00:00
+494,Feijoada Completa,55.0,2025-01-24,16:00:00
+495,Feijoada Completa,55.0,2025-01-22,16:00:00
+496,Prato Feito (PF),28.0,2025-01-23,20:00:00
+496,Pudim de Leite,12.0,2025-01-23,20:00:00
+496,Café Coado,6.0,2025-01-23,20:00:00
+497,Prato Feito (PF),28.0,2025-01-07,21:00:00
+497,Água de Coco,10.0,2025-01-07,21:00:00
+497,Pudim de Leite,12.0,2025-01-07,21:00:00
+497,Caipirinha de Limão,22.0,2025-01-07,21:00:00
+498,Caipirinha de Limão,22.0,2025-01-06,19:00:00
+498,Pão de Queijo (Porção),15.0,2025-01-06,19:00:00
+498,Feijoada Completa,55.0,2025-01-06,19:00:00
+499,Prato Feito (PF),28.0,2025-01-30,20:00:00
+499,Cerveja Artesanal,18.0,2025-01-30,20:00:00
+499,Coxinha de Frango,10.0,2025-01-30,20:00:00
+499,Pudim de Leite,12.0,2025-01-30,20:00:00
+500,Prato Feito (PF),28.0,2025-01-25,11:00:00
+500,Café Coado,6.0,2025-01-25,11:00:00
+500,Caipirinha de Limão,22.0,2025-01-25,11:00:00
+501,Brigadeiro Gourmet,8.0,2025-01-17,20:00:00
+501,Pão de Queijo (Porção),15.0,2025-01-17,20:00:00
+501,Cerveja Artesanal,18.0,2025-01-17,20:00:00
+502,Pudim de Leite,12.0,2025-01-09,21:00:00
+502,Prato Feito (PF),28.0,2025-01-09,21:00:00
+502,Coxinha de Frango,10.0,2025-01-09,21:00:00
+502,Brigadeiro Gourmet,8.0,2025-01-09,21:00:00
+502,Pão de Queijo (Porção),15.0,2025-01-09,21:00:00
+503,Café Coado,6.0,2025-01-12,20:00:00
+503,Caipirinha de Limão,22.0,2025-01-12,20:00:00
+504,Moqueca de Peixe,75.0,2025-01-07,15:00:00
+505,Guaraná Antarctica,7.0,2025-01-02,13:00:00
+505,Feijoada Completa,55.0,2025-01-02,13:00:00
+506,Cerveja Artesanal,18.0,2025-01-22,20:00:00
+506,Café Coado,6.0,2025-01-22,20:00:00
+507,Cerveja Artesanal,18.0,2025-01-10,22:00:00
+508,Prato Feito (PF),28.0,2025-01-17,21:00:00
+508,Suco de Laranja,9.0,2025-01-17,21:00:00
+509,Caipirinha de Limão,22.0,2025-01-24,16:00:00
+509,Pudim de Leite,12.0,2025-01-24,16:00:00
+509,Café Coado,6.0,2025-01-24,16:00:00
+509,Feijoada Completa,55.0,2025-01-24,16:00:00
+510,Pão de Queijo (Porção),15.0,2025-01-06,19:00:00
+511,Pão de Queijo (Porção),15.0,2025-01-04,17:00:00
+512,Caipirinha de Limão,22.0,2025-01-28,14:00:00
+512,Café Coado,6.0,2025-01-28,14:00:00
+512,Feijoada Completa,55.0,2025-01-28,14:00:00
+513,Prato Feito (PF),28.0,2025-01-22,17:00:00
+513,Coxinha de Frango,10.0,2025-01-22,17:00:00
+513,Pudim de Leite,12.0,2025-01-22,17:00:00
+513,Água de Coco,10.0,2025-01-22,17:00:00
+514,Prato Feito (PF),28.0,2025-01-15,19:00:00
+514,Cerveja Artesanal,18.0,2025-01-15,19:00:00
+514,Pudim de Leite,12.0,2025-01-15,19:00:00
+514,Suco de Laranja,9.0,2025-01-15,19:00:00
+515,Guaraná Antarctica,7.0,2025-01-13,16:00:00
+515,Pudim de Leite,12.0,2025-01-13,16:00:00
+515,Caipirinha de Limão,22.0,2025-01-13,16:00:00
+515,Feijoada Completa,55.0,2025-01-13,16:00:00
+515,Prato Feito (PF),28.0,2025-01-13,16:00:00
+516,Pudim de Leite,12.0,2025-01-10,11:00:00
+517,Suco de Laranja,9.0,2025-01-04,22:00:00
+517,Feijoada Completa,55.0,2025-01-04,22:00:00
+518,Guaraná Antarctica,7.0,2025-01-28,16:00:00
+518,Água de Coco,10.0,2025-01-28,16:00:00
+518,Feijoada Completa,55.0,2025-01-28,16:00:00
+519,Pão de Queijo (Porção),15.0,2025-01-25,11:00:00
+519,Moqueca de Peixe,75.0,2025-01-25,11:00:00
+519,Coxinha de Frango,10.0,2025-01-25,11:00:00
+520,Coxinha de Frango,10.0,2025-01-01,11:00:00
+520,Cerveja Artesanal,18.0,2025-01-01,11:00:00
+521,Caipirinha de Limão,22.0,2025-01-30,21:00:00
+521,Café Coado,6.0,2025-01-30,21:00:00
+521,Feijoada Completa,55.0,2025-01-30,21:00:00
+522,Prato Feito (PF),28.0,2025-01-08,14:00:00
+522,Suco de Laranja,9.0,2025-01-08,14:00:00
+522,Café Coado,6.0,2025-01-08,14:00:00
+522,Água de Coco,10.0,2025-01-08,14:00:00
+523,Brigadeiro Gourmet,8.0,2025-01-12,17:00:00
+523,Feijoada Completa,55.0,2025-01-12,17:00:00
+523,Caipirinha de Limão,22.0,2025-01-12,17:00:00
+524,Pudim de Leite,12.0,2025-01-20,14:00:00
+525,Prato Feito (PF),28.0,2025-01-06,20:00:00
+525,Coxinha de Frango,10.0,2025-01-06,20:00:00
+525,Pudim de Leite,12.0,2025-01-06,20:00:00
+526,Arroz Carreteiro,38.0,2025-01-26,21:00:00
+526,Água de Coco,10.0,2025-01-26,21:00:00
+526,Feijoada Completa,55.0,2025-01-26,21:00:00
+527,Pudim de Leite,12.0,2025-01-01,20:00:00
+528,Brigadeiro Gourmet,8.0,2025-01-04,19:00:00
+528,Água de Coco,10.0,2025-01-04,19:00:00
+528,Caipirinha de Limão,22.0,2025-01-04,19:00:00
+529,Prato Feito (PF),28.0,2025-01-22,11:00:00
+529,Coxinha de Frango,10.0,2025-01-22,11:00:00
+529,Água de Coco,10.0,2025-01-22,11:00:00
+530,Arroz Carreteiro,38.0,2025-01-23,19:00:00
+530,Pão de Queijo (Porção),15.0,2025-01-23,19:00:00
+530,Pudim de Leite,12.0,2025-01-23,19:00:00
+531,Arroz Carreteiro,38.0,2025-01-17,14:00:00
+531,Coxinha de Frango,10.0,2025-01-17,14:00:00
+532,Caipirinha de Limão,22.0,2025-01-11,12:00:00
+532,Prato Feito (PF),28.0,2025-01-11,12:00:00
+532,Cerveja Artesanal,18.0,2025-01-11,12:00:00
+532,Feijoada Completa,55.0,2025-01-11,12:00:00
+533,Moqueca de Peixe,75.0,2025-01-09,17:00:00
+533,Água de Coco,10.0,2025-01-09,17:00:00
+534,Pão de Queijo (Porção),15.0,2025-01-19,13:00:00
+535,Brigadeiro Gourmet,8.0,2025-01-26,18:00:00
+535,Coxinha de Frango,10.0,2025-01-26,18:00:00
+536,Prato Feito (PF),28.0,2025-01-04,20:00:00
+537,Prato Feito (PF),28.0,2025-01-20,17:00:00
+537,Suco de Laranja,9.0,2025-01-20,17:00:00
+537,Guaraná Antarctica,7.0,2025-01-20,17:00:00
+537,Feijoada Completa,55.0,2025-01-20,17:00:00
+538,Água de Coco,10.0,2025-01-30,17:00:00
+539,Prato Feito (PF),28.0,2025-01-30,14:00:00
+539,Suco de Laranja,9.0,2025-01-30,14:00:00
+540,Água de Coco,10.0,2025-01-21,22:00:00
+540,Pudim de Leite,12.0,2025-01-21,22:00:00
+540,Caipirinha de Limão,22.0,2025-01-21,22:00:00
+540,Feijoada Completa,55.0,2025-01-21,22:00:00
+540,Cerveja Artesanal,18.0,2025-01-21,22:00:00
+541,Brigadeiro Gourmet,8.0,2025-01-11,14:00:00
+541,Feijoada Completa,55.0,2025-01-11,14:00:00
+542,Guaraná Antarctica,7.0,2025-01-02,19:00:00
+542,Caipirinha de Limão,22.0,2025-01-02,19:00:00
+542,Café Coado,6.0,2025-01-02,19:00:00
+542,Feijoada Completa,55.0,2025-01-02,19:00:00
+542,Cerveja Artesanal,18.0,2025-01-02,19:00:00
+543,Prato Feito (PF),28.0,2025-01-08,11:00:00
+543,Pão de Queijo (Porção),15.0,2025-01-08,11:00:00
+543,Pudim de Leite,12.0,2025-01-08,11:00:00
+544,Café Coado,6.0,2025-01-03,13:00:00
+545,Prato Feito (PF),28.0,2025-01-18,16:00:00
+545,Arroz Carreteiro,38.0,2025-01-18,16:00:00
+545,Pão de Queijo (Porção),15.0,2025-01-18,16:00:00
+545,Pudim de Leite,12.0,2025-01-18,16:00:00
+546,Prato Feito (PF),28.0,2025-01-13,22:00:00
+546,Brigadeiro Gourmet,8.0,2025-01-13,22:00:00
+546,Suco de Laranja,9.0,2025-01-13,22:00:00
+547,Café Coado,6.0,2025-01-21,16:00:00
+547,Caipirinha de Limão,22.0,2025-01-21,16:00:00
+548,Caipirinha de Limão,22.0,2025-01-23,15:00:00
+548,Feijoada Completa,55.0,2025-01-23,15:00:00
+548,Prato Feito (PF),28.0,2025-01-23,15:00:00
+548,Arroz Carreteiro,38.0,2025-01-23,15:00:00
+548,Moqueca de Peixe,75.0,2025-01-23,15:00:00
+549,Pão de Queijo (Porção),15.0,2025-01-12,21:00:00
+550,Caipirinha de Limão,22.0,2025-01-10,11:00:00
+550,Prato Feito (PF),28.0,2025-01-10,11:00:00
+550,Água de Coco,10.0,2025-01-10,11:00:00
+550,Feijoada Completa,55.0,2025-01-10,11:00:00
+551,Prato Feito (PF),28.0,2025-01-26,16:00:00
+551,Moqueca de Peixe,75.0,2025-01-26,16:00:00
+551,Pudim de Leite,12.0,2025-01-26,16:00:00
+552,Caipirinha de Limão,22.0,2025-01-24,18:00:00
+552,Pão de Queijo (Porção),15.0,2025-01-24,18:00:00
+552,Feijoada Completa,55.0,2025-01-24,18:00:00
+553,Guaraná Antarctica,7.0,2025-01-08,19:00:00
+553,Moqueca de Peixe,75.0,2025-01-08,19:00:00
+553,Caipirinha de Limão,22.0,2025-01-08,19:00:00
+554,Prato Feito (PF),28.0,2025-01-10,13:00:00
+554,Pudim de Leite,12.0,2025-01-10,13:00:00
+554,Feijoada Completa,55.0,2025-01-10,13:00:00
+555,Pudim de Leite,12.0,2025-01-20,21:00:00
+555,Prato Feito (PF),28.0,2025-01-20,21:00:00
+555,Coxinha de Frango,10.0,2025-01-20,21:00:00
+555,Suco de Laranja,9.0,2025-01-20,21:00:00
+555,Arroz Carreteiro,38.0,2025-01-20,21:00:00
+556,Prato Feito (PF),28.0,2025-01-05,12:00:00
+556,Pudim de Leite,12.0,2025-01-05,12:00:00
+556,Feijoada Completa,55.0,2025-01-05,12:00:00
+557,Brigadeiro Gourmet,8.0,2025-01-23,11:00:00
+557,Pão de Queijo (Porção),15.0,2025-01-23,11:00:00
+557,Água de Coco,10.0,2025-01-23,11:00:00
+558,Brigadeiro Gourmet,8.0,2025-01-08,12:00:00
+558,Moqueca de Peixe,75.0,2025-01-08,12:00:00
+558,Café Coado,6.0,2025-01-08,12:00:00
+559,Prato Feito (PF),28.0,2025-01-24,11:00:00
+559,Pudim de Leite,12.0,2025-01-24,11:00:00
+560,Prato Feito (PF),28.0,2025-01-09,16:00:00
+560,Água de Coco,10.0,2025-01-09,16:00:00
+560,Pudim de Leite,12.0,2025-01-09,16:00:00
+560,Caipirinha de Limão,22.0,2025-01-09,16:00:00
+561,Brigadeiro Gourmet,8.0,2025-01-22,20:00:00
+561,Caipirinha de Limão,22.0,2025-01-22,20:00:00
+562,Caipirinha de Limão,22.0,2025-01-06,19:00:00
+562,Café Coado,6.0,2025-01-06,19:00:00
+562,Feijoada Completa,55.0,2025-01-06,19:00:00
+562,Brigadeiro Gourmet,8.0,2025-01-06,19:00:00
+562,Moqueca de Peixe,75.0,2025-01-06,19:00:00
+563,Prato Feito (PF),28.0,2025-01-01,18:00:00
+563,Pudim de Leite,12.0,2025-01-01,18:00:00
+563,Caipirinha de Limão,22.0,2025-01-01,18:00:00
+564,Caipirinha de Limão,22.0,2025-01-19,18:00:00
+564,Prato Feito (PF),28.0,2025-01-19,18:00:00
+564,Feijoada Completa,55.0,2025-01-19,18:00:00
+565,Cerveja Artesanal,18.0,2025-01-17,11:00:00
+566,Caipirinha de Limão,22.0,2025-01-13,21:00:00
+566,Arroz Carreteiro,38.0,2025-01-13,21:00:00
+566,Feijoada Completa,55.0,2025-01-13,21:00:00
+567,Água de Coco,10.0,2025-01-05,20:00:00
+567,Pudim de Leite,12.0,2025-01-05,20:00:00
+567,Feijoada Completa,55.0,2025-01-05,20:00:00
+568,Caipirinha de Limão,22.0,2025-01-04,22:00:00
+568,Brigadeiro Gourmet,8.0,2025-01-04,22:00:00
+568,Pudim de Leite,12.0,2025-01-04,22:00:00
+568,Feijoada Completa,55.0,2025-01-04,22:00:00
+569,Caipirinha de Limão,22.0,2025-01-28,22:00:00
+569,Brigadeiro Gourmet,8.0,2025-01-28,22:00:00
+569,Pudim de Leite,12.0,2025-01-28,22:00:00
+569,Feijoada Completa,55.0,2025-01-28,22:00:00
+570,Caipirinha de Limão,22.0,2025-01-18,16:00:00
+570,Arroz Carreteiro,38.0,2025-01-18,16:00:00
+570,Moqueca de Peixe,75.0,2025-01-18,16:00:00
+570,Feijoada Completa,55.0,2025-01-18,16:00:00
+571,Caipirinha de Limão,22.0,2025-01-01,16:00:00
+572,Brigadeiro Gourmet,8.0,2025-01-13,14:00:00
+572,Suco de Laranja,9.0,2025-01-13,14:00:00
+572,Pudim de Leite,12.0,2025-01-13,14:00:00
+573,Caipirinha de Limão,22.0,2025-01-19,18:00:00
+573,Cerveja Artesanal,18.0,2025-01-19,18:00:00
+573,Feijoada Completa,55.0,2025-01-19,18:00:00
+574,Cerveja Artesanal,18.0,2025-01-20,11:00:00
+575,Suco de Laranja,9.0,2025-01-09,18:00:00
+575,Pudim de Leite,12.0,2025-01-09,18:00:00
+575,Água de Coco,10.0,2025-01-09,18:00:00
+576,Prato Feito (PF),28.0,2025-01-10,14:00:00
+577,Pudim de Leite,12.0,2025-01-28,11:00:00
+577,Caipirinha de Limão,22.0,2025-01-28,11:00:00
+577,Feijoada Completa,55.0,2025-01-28,11:00:00
+577,Cerveja Artesanal,18.0,2025-01-28,11:00:00
+577,Brigadeiro Gourmet,8.0,2025-01-28,11:00:00
+578,Prato Feito (PF),28.0,2025-01-10,22:00:00
+578,Cerveja Artesanal,18.0,2025-01-10,22:00:00
+578,Pudim de Leite,12.0,2025-01-10,22:00:00
+578,Feijoada Completa,55.0,2025-01-10,22:00:00
+579,Suco de Laranja,9.0,2025-01-10,22:00:00
+579,Pudim de Leite,12.0,2025-01-10,22:00:00
+579,Caipirinha de Limão,22.0,2025-01-10,22:00:00
+580,Caipirinha de Limão,22.0,2025-01-18,17:00:00
+580,Arroz Carreteiro,38.0,2025-01-18,17:00:00
+580,Feijoada Completa,55.0,2025-01-18,17:00:00
+581,Guaraná Antarctica,7.0,2025-01-19,12:00:00
+582,Brigadeiro Gourmet,8.0,2025-01-18,17:00:00
+582,Cerveja Artesanal,18.0,2025-01-18,17:00:00
+582,Feijoada Completa,55.0,2025-01-18,17:00:00
+583,Caipirinha de Limão,22.0,2025-01-08,15:00:00
+583,Feijoada Completa,55.0,2025-01-08,15:00:00
+584,Guaraná Antarctica,7.0,2025-01-11,21:00:00
+584,Água de Coco,10.0,2025-01-11,21:00:00
+584,Caipirinha de Limão,22.0,2025-01-11,21:00:00
+584,Feijoada Completa,55.0,2025-01-11,21:00:00
+584,Suco de Laranja,9.0,2025-01-11,21:00:00
+585,Caipirinha de Limão,22.0,2025-01-20,19:00:00
+585,Arroz Carreteiro,38.0,2025-01-20,19:00:00
+585,Cerveja Artesanal,18.0,2025-01-20,19:00:00
+585,Feijoada Completa,55.0,2025-01-20,19:00:00
+586,Guaraná Antarctica,7.0,2025-01-06,16:00:00
+586,Pudim de Leite,12.0,2025-01-06,16:00:00
+586,Prato Feito (PF),28.0,2025-01-06,16:00:00
+586,Arroz Carreteiro,38.0,2025-01-06,16:00:00
+586,Moqueca de Peixe,75.0,2025-01-06,16:00:00
+587,Prato Feito (PF),28.0,2025-01-20,22:00:00
+587,Pão de Queijo (Porção),15.0,2025-01-20,22:00:00
+587,Moqueca de Peixe,75.0,2025-01-20,22:00:00
+588,Prato Feito (PF),28.0,2025-01-02,18:00:00
+588,Moqueca de Peixe,75.0,2025-01-02,18:00:00
+588,Coxinha de Frango,10.0,2025-01-02,18:00:00
+588,Feijoada Completa,55.0,2025-01-02,18:00:00
+589,Guaraná Antarctica,7.0,2025-01-28,16:00:00
+589,Moqueca de Peixe,75.0,2025-01-28,16:00:00
+590,Brigadeiro Gourmet,8.0,2025-01-10,22:00:00
+590,Água de Coco,10.0,2025-01-10,22:00:00
+590,Feijoada Completa,55.0,2025-01-10,22:00:00
+591,Arroz Carreteiro,38.0,2025-01-03,11:00:00
+591,Feijoada Completa,55.0,2025-01-03,11:00:00
+592,Caipirinha de Limão,22.0,2025-01-02,19:00:00
+592,Café Coado,6.0,2025-01-02,19:00:00
+592,Feijoada Completa,55.0,2025-01-02,19:00:00
+593,Prato Feito (PF),28.0,2025-01-10,18:00:00
+593,Pão de Queijo (Porção),15.0,2025-01-10,18:00:00
+593,Moqueca de Peixe,75.0,2025-01-10,18:00:00
+593,Guaraná Antarctica,7.0,2025-01-10,18:00:00
+594,Pão de Queijo (Porção),15.0,2025-01-02,21:00:00
+594,Moqueca de Peixe,75.0,2025-01-02,21:00:00
+594,Água de Coco,10.0,2025-01-02,21:00:00
+595,Arroz Carreteiro,38.0,2025-01-28,17:00:00
+595,Café Coado,6.0,2025-01-28,17:00:00
+596,Guaraná Antarctica,7.0,2025-01-21,11:00:00
+596,Pão de Queijo (Porção),15.0,2025-01-21,11:00:00
+597,Prato Feito (PF),28.0,2025-01-09,15:00:00
+597,Cerveja Artesanal,18.0,2025-01-09,15:00:00
+598,Pão de Queijo (Porção),15.0,2025-01-16,11:00:00
+598,Caipirinha de Limão,22.0,2025-01-16,11:00:00
+599,Prato Feito (PF),28.0,2025-01-18,22:00:00
+599,Pudim de Leite,12.0,2025-01-18,22:00:00
+600,Prato Feito (PF),28.0,2025-01-13,18:00:00
+600,Cerveja Artesanal,18.0,2025-01-13,18:00:00
+601,Caipirinha de Limão,22.0,2025-01-23,22:00:00
+601,Arroz Carreteiro,38.0,2025-01-23,22:00:00
+601,Feijoada Completa,55.0,2025-01-23,22:00:00
+602,Prato Feito (PF),28.0,2025-01-10,13:00:00
+602,Pudim de Leite,12.0,2025-01-10,13:00:00
+602,Caipirinha de Limão,22.0,2025-01-10,13:00:00
+602,Feijoada Completa,55.0,2025-01-10,13:00:00
+603,Caipirinha de Limão,22.0,2025-01-06,11:00:00
+603,Água de Coco,10.0,2025-01-06,11:00:00
+603,Cerveja Artesanal,18.0,2025-01-06,11:00:00
+603,Feijoada Completa,55.0,2025-01-06,11:00:00
+604,Brigadeiro Gourmet,8.0,2025-01-20,17:00:00
+604,Feijoada Completa,55.0,2025-01-20,17:00:00
+605,Arroz Carreteiro,38.0,2025-01-18,20:00:00
+605,Pão de Queijo (Porção),15.0,2025-01-18,20:00:00
+606,Caipirinha de Limão,22.0,2025-01-04,16:00:00
+606,Moqueca de Peixe,75.0,2025-01-04,16:00:00
+606,Feijoada Completa,55.0,2025-01-04,16:00:00
+607,Pão de Queijo (Porção),15.0,2025-01-10,13:00:00
+607,Café Coado,6.0,2025-01-10,13:00:00
+607,Caipirinha de Limão,22.0,2025-01-10,13:00:00
+608,Prato Feito (PF),28.0,2025-01-24,21:00:00
+608,Moqueca de Peixe,75.0,2025-01-24,21:00:00
+608,Pudim de Leite,12.0,2025-01-24,21:00:00
+609,Prato Feito (PF),28.0,2025-01-31,22:00:00
+610,Guaraná Antarctica,7.0,2025-01-24,14:00:00
+610,Coxinha de Frango,10.0,2025-01-24,14:00:00
+611,Suco de Laranja,9.0,2025-01-15,14:00:00
+611,Cerveja Artesanal,18.0,2025-01-15,14:00:00
+612,Caipirinha de Limão,22.0,2025-01-19,19:00:00
+612,Água de Coco,10.0,2025-01-19,19:00:00
+612,Pudim de Leite,12.0,2025-01-19,19:00:00
+612,Feijoada Completa,55.0,2025-01-19,19:00:00
+613,Pão de Queijo (Porção),15.0,2025-01-14,16:00:00
+614,Prato Feito (PF),28.0,2025-01-24,20:00:00
+614,Brigadeiro Gourmet,8.0,2025-01-24,20:00:00
+614,Cerveja Artesanal,18.0,2025-01-24,20:00:00
+614,Pudim de Leite,12.0,2025-01-24,20:00:00
+615,Prato Feito (PF),28.0,2025-01-11,16:00:00
+615,Arroz Carreteiro,38.0,2025-01-11,16:00:00
+615,Suco de Laranja,9.0,2025-01-11,16:00:00
+615,Guaraná Antarctica,7.0,2025-01-11,16:00:00
+616,Prato Feito (PF),28.0,2025-01-26,20:00:00
+616,Guaraná Antarctica,7.0,2025-01-26,20:00:00
+616,Pudim de Leite,12.0,2025-01-26,20:00:00
+616,Arroz Carreteiro,38.0,2025-01-26,20:00:00
+617,Arroz Carreteiro,38.0,2025-01-04,11:00:00
+618,Prato Feito (PF),28.0,2025-01-23,21:00:00
+619,Caipirinha de Limão,22.0,2025-01-06,19:00:00
+619,Suco de Laranja,9.0,2025-01-06,19:00:00
+619,Feijoada Completa,55.0,2025-01-06,19:00:00
+620,Prato Feito (PF),28.0,2025-01-24,22:00:00
+620,Feijoada Completa,55.0,2025-01-24,22:00:00
+621,Prato Feito (PF),28.0,2025-01-03,21:00:00
+621,Arroz Carreteiro,38.0,2025-01-03,21:00:00
+621,Água de Coco,10.0,2025-01-03,21:00:00
+622,Suco de Laranja,9.0,2025-01-30,20:00:00
+623,Prato Feito (PF),28.0,2025-01-13,14:00:00
+623,Pudim de Leite,12.0,2025-01-13,14:00:00
+624,Coxinha de Frango,10.0,2025-01-20,15:00:00
+624,Suco de Laranja,9.0,2025-01-20,15:00:00
+624,Caipirinha de Limão,22.0,2025-01-20,15:00:00
+625,Caipirinha de Limão,22.0,2025-01-13,17:00:00
+625,Cerveja Artesanal,18.0,2025-01-13,17:00:00
+625,Feijoada Completa,55.0,2025-01-13,17:00:00
+626,Caipirinha de Limão,22.0,2025-01-14,13:00:00
+626,Pão de Queijo (Porção),15.0,2025-01-14,13:00:00
+626,Café Coado,6.0,2025-01-14,13:00:00
+626,Feijoada Completa,55.0,2025-01-14,13:00:00
+627,Caipirinha de Limão,22.0,2025-01-24,14:00:00
+627,Pão de Queijo (Porção),15.0,2025-01-24,14:00:00
+627,Feijoada Completa,55.0,2025-01-24,14:00:00
+628,Brigadeiro Gourmet,8.0,2025-01-30,13:00:00
+629,Moqueca de Peixe,75.0,2025-01-04,21:00:00
+629,Água de Coco,10.0,2025-01-04,21:00:00
+630,Cerveja Artesanal,18.0,2025-01-20,14:00:00
+631,Prato Feito (PF),28.0,2025-01-10,11:00:00
+631,Água de Coco,10.0,2025-01-10,11:00:00
+631,Café Coado,6.0,2025-01-10,11:00:00
+632,Feijoada Completa,55.0,2025-01-23,15:00:00
+633,Moqueca de Peixe,75.0,2025-01-13,14:00:00
+633,Suco de Laranja,9.0,2025-01-13,14:00:00
+633,Cerveja Artesanal,18.0,2025-01-13,14:00:00
+634,Prato Feito (PF),28.0,2025-01-12,20:00:00
+634,Água de Coco,10.0,2025-01-12,20:00:00
+634,Pudim de Leite,12.0,2025-01-12,20:00:00
+634,Feijoada Completa,55.0,2025-01-12,20:00:00
+635,Coxinha de Frango,10.0,2025-01-09,12:00:00
+636,Pão de Queijo (Porção),15.0,2025-01-28,14:00:00
+636,Cerveja Artesanal,18.0,2025-01-28,14:00:00
+636,Pudim de Leite,12.0,2025-01-28,14:00:00
+637,Pudim de Leite,12.0,2025-01-12,19:00:00
+637,Caipirinha de Limão,22.0,2025-01-12,19:00:00
+637,Feijoada Completa,55.0,2025-01-12,19:00:00
+637,Cerveja Artesanal,18.0,2025-01-12,19:00:00
+637,Moqueca de Peixe,75.0,2025-01-12,19:00:00
+638,Brigadeiro Gourmet,8.0,2025-01-13,12:00:00
+638,Arroz Carreteiro,38.0,2025-01-13,12:00:00
+638,Água de Coco,10.0,2025-01-13,12:00:00
+639,Brigadeiro Gourmet,8.0,2025-01-29,15:00:00
+640,Prato Feito (PF),28.0,2025-01-10,13:00:00
+640,Brigadeiro Gourmet,8.0,2025-01-10,13:00:00
+640,Pudim de Leite,12.0,2025-01-10,13:00:00
+641,Guaraná Antarctica,7.0,2025-01-31,16:00:00
+642,Caipirinha de Limão,22.0,2025-01-23,12:00:00
+642,Arroz Carreteiro,38.0,2025-01-23,12:00:00
+642,Café Coado,6.0,2025-01-23,12:00:00
+642,Feijoada Completa,55.0,2025-01-23,12:00:00
+643,Moqueca de Peixe,75.0,2025-01-07,13:00:00
+644,Arroz Carreteiro,38.0,2025-01-20,22:00:00
+644,Cerveja Artesanal,18.0,2025-01-20,22:00:00
+644,Café Coado,6.0,2025-01-20,22:00:00
+645,Caipirinha de Limão,22.0,2025-01-04,12:00:00
+645,Moqueca de Peixe,75.0,2025-01-04,12:00:00
+645,Água de Coco,10.0,2025-01-04,12:00:00
+645,Feijoada Completa,55.0,2025-01-04,12:00:00
+646,Caipirinha de Limão,22.0,2025-01-26,15:00:00
+646,Feijoada Completa,55.0,2025-01-26,15:00:00
+647,Brigadeiro Gourmet,8.0,2025-01-19,17:00:00
+647,Pão de Queijo (Porção),15.0,2025-01-19,17:00:00
+647,Água de Coco,10.0,2025-01-19,17:00:00
+648,Guaraná Antarctica,7.0,2025-01-26,22:00:00
+648,Caipirinha de Limão,22.0,2025-01-26,22:00:00
+648,Feijoada Completa,55.0,2025-01-26,22:00:00
+648,Coxinha de Frango,10.0,2025-01-26,22:00:00
+648,Pão de Queijo (Porção),15.0,2025-01-26,22:00:00
+649,Brigadeiro Gourmet,8.0,2025-01-26,19:00:00
+649,Suco de Laranja,9.0,2025-01-26,19:00:00
+649,Caipirinha de Limão,22.0,2025-01-26,19:00:00
+650,Caipirinha de Limão,22.0,2025-01-08,20:00:00
+650,Café Coado,6.0,2025-01-08,20:00:00
+650,Feijoada Completa,55.0,2025-01-08,20:00:00
+651,Caipirinha de Limão,22.0,2025-01-24,11:00:00
+651,Arroz Carreteiro,38.0,2025-01-24,11:00:00
+651,Brigadeiro Gourmet,8.0,2025-01-24,11:00:00
+651,Feijoada Completa,55.0,2025-01-24,11:00:00
+652,Prato Feito (PF),28.0,2025-01-22,11:00:00
+652,Pão de Queijo (Porção),15.0,2025-01-22,11:00:00
+652,Feijoada Completa,55.0,2025-01-22,11:00:00
+652,Caipirinha de Limão,22.0,2025-01-22,11:00:00
+653,Pão de Queijo (Porção),15.0,2025-01-11,18:00:00
+654,Água de Coco,10.0,2025-01-05,16:00:00
+655,Prato Feito (PF),28.0,2025-01-14,21:00:00
+655,Pão de Queijo (Porção),15.0,2025-01-14,21:00:00
+655,Suco de Laranja,9.0,2025-01-14,21:00:00
+656,Caipirinha de Limão,22.0,2025-01-03,17:00:00
+656,Prato Feito (PF),28.0,2025-01-03,17:00:00
+656,Feijoada Completa,55.0,2025-01-03,17:00:00
+657,Caipirinha de Limão,22.0,2025-01-27,19:00:00
+658,Prato Feito (PF),28.0,2025-01-07,17:00:00
+658,Brigadeiro Gourmet,8.0,2025-01-07,17:00:00
+658,Moqueca de Peixe,75.0,2025-01-07,17:00:00
+659,Pudim de Leite,12.0,2025-01-25,11:00:00
+659,Caipirinha de Limão,22.0,2025-01-25,11:00:00
+660,Prato Feito (PF),28.0,2025-01-20,22:00:00
+660,Pão de Queijo (Porção),15.0,2025-01-20,22:00:00
+661,Arroz Carreteiro,38.0,2025-01-25,17:00:00
+661,Coxinha de Frango,10.0,2025-01-25,17:00:00
+662,Prato Feito (PF),28.0,2025-01-27,16:00:00
+662,Arroz Carreteiro,38.0,2025-01-27,16:00:00
+662,Guaraná Antarctica,7.0,2025-01-27,16:00:00
+662,Caipirinha de Limão,22.0,2025-01-27,16:00:00
+663,Brigadeiro Gourmet,8.0,2025-01-07,19:00:00
+663,Suco de Laranja,9.0,2025-01-07,19:00:00
+663,Café Coado,6.0,2025-01-07,19:00:00
+664,Pudim de Leite,12.0,2025-01-26,20:00:00
+665,Pão de Queijo (Porção),15.0,2025-01-19,14:00:00
+665,Moqueca de Peixe,75.0,2025-01-19,14:00:00
+666,Prato Feito (PF),28.0,2025-01-25,18:00:00
+666,Cerveja Artesanal,18.0,2025-01-25,18:00:00
+666,Suco de Laranja,9.0,2025-01-25,18:00:00
+666,Pudim de Leite,12.0,2025-01-25,18:00:00
+667,Prato Feito (PF),28.0,2025-01-02,11:00:00
+667,Brigadeiro Gourmet,8.0,2025-01-02,11:00:00
+667,Coxinha de Frango,10.0,2025-01-02,11:00:00
+667,Pudim de Leite,12.0,2025-01-02,11:00:00
+668,Prato Feito (PF),28.0,2025-01-02,12:00:00
+669,Caipirinha de Limão,22.0,2025-01-15,16:00:00
+669,Moqueca de Peixe,75.0,2025-01-15,16:00:00
+669,Feijoada Completa,55.0,2025-01-15,16:00:00
+670,Coxinha de Frango,10.0,2025-01-07,20:00:00
+671,Brigadeiro Gourmet,8.0,2025-01-07,12:00:00
+671,Pão de Queijo (Porção),15.0,2025-01-07,12:00:00
+672,Caipirinha de Limão,22.0,2025-01-19,22:00:00
+672,Guaraná Antarctica,7.0,2025-01-19,22:00:00
+672,Café Coado,6.0,2025-01-19,22:00:00
+672,Feijoada Completa,55.0,2025-01-19,22:00:00
+673,Brigadeiro Gourmet,8.0,2025-01-24,13:00:00
+674,Caipirinha de Limão,22.0,2025-01-10,11:00:00
+674,Brigadeiro Gourmet,8.0,2025-01-10,11:00:00
+674,Feijoada Completa,55.0,2025-01-10,11:00:00
+675,Guaraná Antarctica,7.0,2025-01-12,15:00:00
+675,Moqueca de Peixe,75.0,2025-01-12,15:00:00
+675,Prato Feito (PF),28.0,2025-01-12,15:00:00
+676,Caipirinha de Limão,22.0,2025-01-04,11:00:00
+676,Guaraná Antarctica,7.0,2025-01-04,11:00:00
+676,Feijoada Completa,55.0,2025-01-04,11:00:00
+677,Moqueca de Peixe,75.0,2025-01-02,22:00:00
+677,Cerveja Artesanal,18.0,2025-01-02,22:00:00
+678,Pão de Queijo (Porção),15.0,2025-01-19,16:00:00
+678,Moqueca de Peixe,75.0,2025-01-19,16:00:00
+678,Feijoada Completa,55.0,2025-01-19,16:00:00
+679,Caipirinha de Limão,22.0,2025-01-21,12:00:00
+679,Pudim de Leite,12.0,2025-01-21,12:00:00
+679,Feijoada Completa,55.0,2025-01-21,12:00:00
+680,Caipirinha de Limão,22.0,2025-01-16,21:00:00
+680,Feijoada Completa,55.0,2025-01-16,21:00:00
+680,Prato Feito (PF),28.0,2025-01-16,21:00:00
+680,Coxinha de Frango,10.0,2025-01-16,21:00:00
+680,Pão de Queijo (Porção),15.0,2025-01-16,21:00:00
+681,Caipirinha de Limão,22.0,2025-01-16,15:00:00
+681,Moqueca de Peixe,75.0,2025-01-16,15:00:00
+681,Pudim de Leite,12.0,2025-01-16,15:00:00
+681,Feijoada Completa,55.0,2025-01-16,15:00:00
+682,Brigadeiro Gourmet,8.0,2025-01-20,18:00:00
+682,Caipirinha de Limão,22.0,2025-01-20,18:00:00
+683,Arroz Carreteiro,38.0,2025-01-20,15:00:00
+683,Moqueca de Peixe,75.0,2025-01-20,15:00:00
+683,Café Coado,6.0,2025-01-20,15:00:00
+684,Cerveja Artesanal,18.0,2025-01-01,21:00:00
+684,Café Coado,6.0,2025-01-01,21:00:00
+685,Prato Feito (PF),28.0,2025-01-11,19:00:00
+685,Brigadeiro Gourmet,8.0,2025-01-11,19:00:00
+686,Prato Feito (PF),28.0,2025-01-17,17:00:00
+686,Moqueca de Peixe,75.0,2025-01-17,17:00:00
+686,Feijoada Completa,55.0,2025-01-17,17:00:00
+687,Prato Feito (PF),28.0,2025-01-10,11:00:00
+687,Suco de Laranja,9.0,2025-01-10,11:00:00
+687,Pudim de Leite,12.0,2025-01-10,11:00:00
+687,Café Coado,6.0,2025-01-10,11:00:00
+688,Prato Feito (PF),28.0,2025-01-07,13:00:00
+688,Guaraná Antarctica,7.0,2025-01-07,13:00:00
+688,Pudim de Leite,12.0,2025-01-07,13:00:00
+688,Feijoada Completa,55.0,2025-01-07,13:00:00
+689,Caipirinha de Limão,22.0,2025-01-15,22:00:00
+689,Feijoada Completa,55.0,2025-01-15,22:00:00
+690,Caipirinha de Limão,22.0,2025-01-30,13:00:00
+690,Pão de Queijo (Porção),15.0,2025-01-30,13:00:00
+690,Café Coado,6.0,2025-01-30,13:00:00
+690,Feijoada Completa,55.0,2025-01-30,13:00:00
+691,Coxinha de Frango,10.0,2025-01-03,20:00:00
+691,Cerveja Artesanal,18.0,2025-01-03,20:00:00
+691,Caipirinha de Limão,22.0,2025-01-03,20:00:00
+692,Caipirinha de Limão,22.0,2025-01-08,14:00:00
+692,Brigadeiro Gourmet,8.0,2025-01-08,14:00:00
+692,Cerveja Artesanal,18.0,2025-01-08,14:00:00
+692,Feijoada Completa,55.0,2025-01-08,14:00:00
+693,Pudim de Leite,12.0,2025-01-20,18:00:00
+693,Caipirinha de Limão,22.0,2025-01-20,18:00:00
+693,Feijoada Completa,55.0,2025-01-20,18:00:00
+693,Cerveja Artesanal,18.0,2025-01-20,18:00:00
+693,Brigadeiro Gourmet,8.0,2025-01-20,18:00:00
+694,Prato Feito (PF),28.0,2025-01-04,11:00:00
+694,Moqueca de Peixe,75.0,2025-01-04,11:00:00
+694,Suco de Laranja,9.0,2025-01-04,11:00:00
+694,Pudim de Leite,12.0,2025-01-04,11:00:00
+695,Caipirinha de Limão,22.0,2025-01-03,19:00:00
+695,Feijoada Completa,55.0,2025-01-03,19:00:00
+695,Prato Feito (PF),28.0,2025-01-03,19:00:00
+695,Coxinha de Frango,10.0,2025-01-03,19:00:00
+695,Suco de Laranja,9.0,2025-01-03,19:00:00
+696,Guaraná Antarctica,7.0,2025-01-16,11:00:00
+696,Cerveja Artesanal,18.0,2025-01-16,11:00:00
+697,Brigadeiro Gourmet,8.0,2025-01-07,15:00:00
+698,Caipirinha de Limão,22.0,2025-01-08,12:00:00
+698,Coxinha de Frango,10.0,2025-01-08,12:00:00
+698,Café Coado,6.0,2025-01-08,12:00:00
+698,Feijoada Completa,55.0,2025-01-08,12:00:00
+699,Água de Coco,10.0,2025-01-19,12:00:00
+699,Feijoada Completa,55.0,2025-01-19,12:00:00
+700,Guaraná Antarctica,7.0,2025-01-04,19:00:00
+700,Água de Coco,10.0,2025-01-04,19:00:00
+701,Prato Feito (PF),28.0,2025-01-06,18:00:00
+701,Arroz Carreteiro,38.0,2025-01-06,18:00:00
+701,Café Coado,6.0,2025-01-06,18:00:00
+702,Caipirinha de Limão,22.0,2025-01-20,21:00:00
+702,Moqueca de Peixe,75.0,2025-01-20,21:00:00
+702,Suco de Laranja,9.0,2025-01-20,21:00:00
+702,Feijoada Completa,55.0,2025-01-20,21:00:00
+703,Prato Feito (PF),28.0,2025-01-30,22:00:00
+703,Feijoada Completa,55.0,2025-01-30,22:00:00
+704,Arroz Carreteiro,38.0,2025-01-05,21:00:00
+704,Água de Coco,10.0,2025-01-05,21:00:00
+704,Feijoada Completa,55.0,2025-01-05,21:00:00
+705,Brigadeiro Gourmet,8.0,2025-01-09,16:00:00
+705,Pão de Queijo (Porção),15.0,2025-01-09,16:00:00
+705,Feijoada Completa,55.0,2025-01-09,16:00:00
+706,Caipirinha de Limão,22.0,2025-01-14,22:00:00
+706,Feijoada Completa,55.0,2025-01-14,22:00:00
+707,Caipirinha de Limão,22.0,2025-01-04,16:00:00
+707,Café Coado,6.0,2025-01-04,16:00:00
+707,Feijoada Completa,55.0,2025-01-04,16:00:00
+707,Cerveja Artesanal,18.0,2025-01-04,16:00:00
+707,Brigadeiro Gourmet,8.0,2025-01-04,16:00:00
+708,Brigadeiro Gourmet,8.0,2025-01-19,17:00:00
+709,Guaraná Antarctica,7.0,2025-01-22,22:00:00
+709,Arroz Carreteiro,38.0,2025-01-22,22:00:00
+709,Suco de Laranja,9.0,2025-01-22,22:00:00
+710,Guaraná Antarctica,7.0,2025-01-30,21:00:00
+710,Caipirinha de Limão,22.0,2025-01-30,21:00:00
+710,Feijoada Completa,55.0,2025-01-30,21:00:00
+710,Arroz Carreteiro,38.0,2025-01-30,21:00:00
+710,Moqueca de Peixe,75.0,2025-01-30,21:00:00
+711,Prato Feito (PF),28.0,2025-01-28,13:00:00
+711,Cerveja Artesanal,18.0,2025-01-28,13:00:00
+711,Pudim de Leite,12.0,2025-01-28,13:00:00
+712,Pão de Queijo (Porção),15.0,2025-01-22,19:00:00
+712,Café Coado,6.0,2025-01-22,19:00:00
+712,Feijoada Completa,55.0,2025-01-22,19:00:00
+713,Moqueca de Peixe,75.0,2025-01-20,11:00:00
+713,Caipirinha de Limão,22.0,2025-01-20,11:00:00
+714,Prato Feito (PF),28.0,2025-01-23,17:00:00
+714,Suco de Laranja,9.0,2025-01-23,17:00:00
+714,Pudim de Leite,12.0,2025-01-23,17:00:00
+715,Brigadeiro Gourmet,8.0,2025-01-09,21:00:00
+715,Guaraná Antarctica,7.0,2025-01-09,21:00:00
+716,Caipirinha de Limão,22.0,2025-01-07,21:00:00
+716,Cerveja Artesanal,18.0,2025-01-07,21:00:00
+716,Água de Coco,10.0,2025-01-07,21:00:00
+716,Feijoada Completa,55.0,2025-01-07,21:00:00
+717,Prato Feito (PF),28.0,2025-01-06,14:00:00
+717,Guaraná Antarctica,7.0,2025-01-06,14:00:00
+717,Pudim de Leite,12.0,2025-01-06,14:00:00
+718,Prato Feito (PF),28.0,2025-01-10,15:00:00
+718,Guaraná Antarctica,7.0,2025-01-10,15:00:00
+718,Pudim de Leite,12.0,2025-01-10,15:00:00
+718,Feijoada Completa,55.0,2025-01-10,15:00:00
+719,Coxinha de Frango,10.0,2025-01-13,14:00:00
+719,Feijoada Completa,55.0,2025-01-13,14:00:00
+720,Brigadeiro Gourmet,8.0,2025-01-09,18:00:00
+720,Água de Coco,10.0,2025-01-09,18:00:00
+721,Feijoada Completa,55.0,2025-01-04,16:00:00
+722,Prato Feito (PF),28.0,2025-01-21,11:00:00
+722,Pão de Queijo (Porção),15.0,2025-01-21,11:00:00
+722,Água de Coco,10.0,2025-01-21,11:00:00
+722,Pudim de Leite,12.0,2025-01-21,11:00:00
+723,Pão de Queijo (Porção),15.0,2025-01-15,18:00:00
+723,Pudim de Leite,12.0,2025-01-15,18:00:00
+723,Caipirinha de Limão,22.0,2025-01-15,18:00:00
+724,Prato Feito (PF),28.0,2025-01-24,18:00:00
+724,Água de Coco,10.0,2025-01-24,18:00:00
+724,Pudim de Leite,12.0,2025-01-24,18:00:00
+725,Brigadeiro Gourmet,8.0,2025-01-28,11:00:00
+725,Suco de Laranja,9.0,2025-01-28,11:00:00
+726,Moqueca de Peixe,75.0,2025-01-05,22:00:00
+726,Cerveja Artesanal,18.0,2025-01-05,22:00:00
+727,Prato Feito (PF),28.0,2025-01-20,17:00:00
+727,Pão de Queijo (Porção),15.0,2025-01-20,17:00:00
+727,Cerveja Artesanal,18.0,2025-01-20,17:00:00
+727,Pudim de Leite,12.0,2025-01-20,17:00:00
+728,Caipirinha de Limão,22.0,2025-01-15,11:00:00
+729,Guaraná Antarctica,7.0,2025-01-27,19:00:00
+729,Moqueca de Peixe,75.0,2025-01-27,19:00:00
+729,Suco de Laranja,9.0,2025-01-27,19:00:00
+730,Prato Feito (PF),28.0,2025-01-04,13:00:00
+730,Brigadeiro Gourmet,8.0,2025-01-04,13:00:00
+730,Pão de Queijo (Porção),15.0,2025-01-04,13:00:00
+731,Pão de Queijo (Porção),15.0,2025-01-06,14:00:00
+731,Caipirinha de Limão,22.0,2025-01-06,14:00:00
+731,Feijoada Completa,55.0,2025-01-06,14:00:00
+731,Prato Feito (PF),28.0,2025-01-06,14:00:00
+731,Moqueca de Peixe,75.0,2025-01-06,14:00:00
+732,Arroz Carreteiro,38.0,2025-01-13,16:00:00
+732,Feijoada Completa,55.0,2025-01-13,16:00:00
+733,Prato Feito (PF),28.0,2025-01-12,14:00:00
+733,Coxinha de Frango,10.0,2025-01-12,14:00:00
+733,Pudim de Leite,12.0,2025-01-12,14:00:00
+734,Café Coado,6.0,2025-01-16,17:00:00
+734,Caipirinha de Limão,22.0,2025-01-16,17:00:00
+735,Guaraná Antarctica,7.0,2025-01-10,22:00:00
+735,Pão de Queijo (Porção),15.0,2025-01-10,22:00:00
+735,Cerveja Artesanal,18.0,2025-01-10,22:00:00
+736,Coxinha de Frango,10.0,2025-01-05,16:00:00
+737,Prato Feito (PF),28.0,2025-01-11,19:00:00
+737,Suco de Laranja,9.0,2025-01-11,19:00:00
+738,Pão de Queijo (Porção),15.0,2025-01-03,13:00:00
+738,Cerveja Artesanal,18.0,2025-01-03,13:00:00
+738,Água de Coco,10.0,2025-01-03,13:00:00
+739,Caipirinha de Limão,22.0,2025-01-01,12:00:00
+739,Suco de Laranja,9.0,2025-01-01,12:00:00
+739,Café Coado,6.0,2025-01-01,12:00:00
+739,Feijoada Completa,55.0,2025-01-01,12:00:00
+740,Moqueca de Peixe,75.0,2025-01-15,14:00:00
+741,Café Coado,6.0,2025-01-19,11:00:00
+741,Feijoada Completa,55.0,2025-01-19,11:00:00
+742,Prato Feito (PF),28.0,2025-01-30,14:00:00
+742,Pão de Queijo (Porção),15.0,2025-01-30,14:00:00
+742,Suco de Laranja,9.0,2025-01-30,14:00:00
+743,Moqueca de Peixe,75.0,2025-01-04,16:00:00
+744,Moqueca de Peixe,75.0,2025-01-14,14:00:00
+745,Prato Feito (PF),28.0,2025-01-31,13:00:00
+746,Brigadeiro Gourmet,8.0,2025-01-15,16:00:00
+747,Café Coado,6.0,2025-01-19,19:00:00
+748,Prato Feito (PF),28.0,2025-01-10,16:00:00
+748,Arroz Carreteiro,38.0,2025-01-10,16:00:00
+748,Pudim de Leite,12.0,2025-01-10,16:00:00
+749,Prato Feito (PF),28.0,2025-01-20,18:00:00
+749,Água de Coco,10.0,2025-01-20,18:00:00
+749,Guaraná Antarctica,7.0,2025-01-20,18:00:00
+750,Prato Feito (PF),28.0,2025-01-31,15:00:00
+750,Suco de Laranja,9.0,2025-01-31,15:00:00
+750,Pudim de Leite,12.0,2025-01-31,15:00:00
+751,Guaraná Antarctica,7.0,2025-01-21,19:00:00
+751,Arroz Carreteiro,38.0,2025-01-21,19:00:00
+751,Caipirinha de Limão,22.0,2025-01-21,19:00:00
+752,Café Coado,6.0,2025-01-21,14:00:00
+753,Caipirinha de Limão,22.0,2025-01-29,17:00:00
+753,Café Coado,6.0,2025-01-29,17:00:00
+753,Feijoada Completa,55.0,2025-01-29,17:00:00
+753,Prato Feito (PF),28.0,2025-01-29,17:00:00
+753,Cerveja Artesanal,18.0,2025-01-29,17:00:00
+754,Suco de Laranja,9.0,2025-01-09,15:00:00
+754,Café Coado,6.0,2025-01-09,15:00:00
+754,Caipirinha de Limão,22.0,2025-01-09,15:00:00
+755,Prato Feito (PF),28.0,2025-01-20,18:00:00
+755,Cerveja Artesanal,18.0,2025-01-20,18:00:00
+755,Pudim de Leite,12.0,2025-01-20,18:00:00
+756,Guaraná Antarctica,7.0,2025-01-25,16:00:00
+756,Pudim de Leite,12.0,2025-01-25,16:00:00
+756,Feijoada Completa,55.0,2025-01-25,16:00:00
+756,Prato Feito (PF),28.0,2025-01-25,16:00:00
+756,Suco de Laranja,9.0,2025-01-25,16:00:00
+757,Brigadeiro Gourmet,8.0,2025-01-12,18:00:00
+757,Cerveja Artesanal,18.0,2025-01-12,18:00:00
+757,Feijoada Completa,55.0,2025-01-12,18:00:00
+758,Prato Feito (PF),28.0,2025-01-17,20:00:00
+758,Pudim de Leite,12.0,2025-01-17,20:00:00
+758,Café Coado,6.0,2025-01-17,20:00:00
+758,Caipirinha de Limão,22.0,2025-01-17,20:00:00
+759,Caipirinha de Limão,22.0,2025-01-25,14:00:00
+759,Moqueca de Peixe,75.0,2025-01-25,14:00:00
+759,Guaraná Antarctica,7.0,2025-01-25,14:00:00
+759,Feijoada Completa,55.0,2025-01-25,14:00:00
+760,Arroz Carreteiro,38.0,2025-01-20,22:00:00
+761,Cerveja Artesanal,18.0,2025-01-04,20:00:00
+762,Prato Feito (PF),28.0,2025-01-15,22:00:00
+762,Guaraná Antarctica,7.0,2025-01-15,22:00:00
+763,Moqueca de Peixe,75.0,2025-01-30,19:00:00
+764,Caipirinha de Limão,22.0,2025-01-24,15:00:00
+764,Pão de Queijo (Porção),15.0,2025-01-24,15:00:00
+764,Guaraná Antarctica,7.0,2025-01-24,15:00:00
+764,Feijoada Completa,55.0,2025-01-24,15:00:00
+765,Prato Feito (PF),28.0,2025-01-23,21:00:00
+765,Cerveja Artesanal,18.0,2025-01-23,21:00:00
+765,Pudim de Leite,12.0,2025-01-23,21:00:00
+766,Moqueca de Peixe,75.0,2025-01-11,16:00:00
+766,Pudim de Leite,12.0,2025-01-11,16:00:00
+766,Feijoada Completa,55.0,2025-01-11,16:00:00
+767,Caipirinha de Limão,22.0,2025-01-10,21:00:00
+767,Feijoada Completa,55.0,2025-01-10,21:00:00
+767,Coxinha de Frango,10.0,2025-01-10,21:00:00
+767,Suco de Laranja,9.0,2025-01-10,21:00:00
+767,Arroz Carreteiro,38.0,2025-01-10,21:00:00
+768,Prato Feito (PF),28.0,2025-01-17,21:00:00
+768,Pudim de Leite,12.0,2025-01-17,21:00:00
+768,Café Coado,6.0,2025-01-17,21:00:00
+769,Pão de Queijo (Porção),15.0,2025-01-29,17:00:00
+769,Cerveja Artesanal,18.0,2025-01-29,17:00:00
+769,Suco de Laranja,9.0,2025-01-29,17:00:00
+770,Cerveja Artesanal,18.0,2025-01-10,22:00:00
+771,Cerveja Artesanal,18.0,2025-01-04,15:00:00
+771,Pudim de Leite,12.0,2025-01-04,15:00:00
+772,Moqueca de Peixe,75.0,2025-01-28,17:00:00
+772,Coxinha de Frango,10.0,2025-01-28,17:00:00
+773,Moqueca de Peixe,75.0,2025-01-12,17:00:00
+774,Pão de Queijo (Porção),15.0,2025-01-02,18:00:00
+774,Água de Coco,10.0,2025-01-02,18:00:00
+775,Prato Feito (PF),28.0,2025-01-08,18:00:00
+775,Água de Coco,10.0,2025-01-08,18:00:00
+775,Pudim de Leite,12.0,2025-01-08,18:00:00
+776,Brigadeiro Gourmet,8.0,2025-01-12,20:00:00
+776,Arroz Carreteiro,38.0,2025-01-12,20:00:00
+776,Suco de Laranja,9.0,2025-01-12,20:00:00
+777,Arroz Carreteiro,38.0,2025-01-09,21:00:00
+777,Moqueca de Peixe,75.0,2025-01-09,21:00:00
+777,Café Coado,6.0,2025-01-09,21:00:00
+778,Guaraná Antarctica,7.0,2025-01-06,13:00:00
+778,Pudim de Leite,12.0,2025-01-06,13:00:00
+778,Caipirinha de Limão,22.0,2025-01-06,13:00:00
+778,Feijoada Completa,55.0,2025-01-06,13:00:00
+778,Prato Feito (PF),28.0,2025-01-06,13:00:00
+779,Prato Feito (PF),28.0,2025-01-29,13:00:00
+779,Moqueca de Peixe,75.0,2025-01-29,13:00:00
+779,Pudim de Leite,12.0,2025-01-29,13:00:00
+779,Café Coado,6.0,2025-01-29,13:00:00
+780,Arroz Carreteiro,38.0,2025-01-22,18:00:00
+780,Pudim de Leite,12.0,2025-01-22,18:00:00
+780,Feijoada Completa,55.0,2025-01-22,18:00:00
+781,Água de Coco,10.0,2025-01-26,12:00:00
+781,Caipirinha de Limão,22.0,2025-01-26,12:00:00
+781,Feijoada Completa,55.0,2025-01-26,12:00:00
+781,Suco de Laranja,9.0,2025-01-26,12:00:00
+781,Moqueca de Peixe,75.0,2025-01-26,12:00:00
+782,Pudim de Leite,12.0,2025-01-03,20:00:00
+782,Caipirinha de Limão,22.0,2025-01-03,20:00:00
+782,Feijoada Completa,55.0,2025-01-03,20:00:00
+782,Prato Feito (PF),28.0,2025-01-03,20:00:00
+782,Brigadeiro Gourmet,8.0,2025-01-03,20:00:00
+783,Prato Feito (PF),28.0,2025-01-02,22:00:00
+783,Brigadeiro Gourmet,8.0,2025-01-02,22:00:00
+783,Cerveja Artesanal,18.0,2025-01-02,22:00:00
+783,Pudim de Leite,12.0,2025-01-02,22:00:00
+784,Prato Feito (PF),28.0,2025-01-14,16:00:00
+784,Guaraná Antarctica,7.0,2025-01-14,16:00:00
+784,Cerveja Artesanal,18.0,2025-01-14,16:00:00
+784,Pudim de Leite,12.0,2025-01-14,16:00:00
+785,Coxinha de Frango,10.0,2025-01-18,15:00:00
+786,Prato Feito (PF),28.0,2025-01-10,11:00:00
+786,Moqueca de Peixe,75.0,2025-01-10,11:00:00
+786,Guaraná Antarctica,7.0,2025-01-10,11:00:00
+787,Prato Feito (PF),28.0,2025-01-24,11:00:00
+787,Café Coado,6.0,2025-01-24,11:00:00
+788,Brigadeiro Gourmet,8.0,2025-01-18,14:00:00
+789,Prato Feito (PF),28.0,2025-01-24,12:00:00
+789,Brigadeiro Gourmet,8.0,2025-01-24,12:00:00
+789,Cerveja Artesanal,18.0,2025-01-24,12:00:00
+789,Pudim de Leite,12.0,2025-01-24,12:00:00
+790,Suco de Laranja,9.0,2025-01-12,19:00:00
+790,Cerveja Artesanal,18.0,2025-01-12,19:00:00
+790,Feijoada Completa,55.0,2025-01-12,19:00:00
+791,Moqueca de Peixe,75.0,2025-01-17,22:00:00
+791,Café Coado,6.0,2025-01-17,22:00:00
+791,Feijoada Completa,55.0,2025-01-17,22:00:00
+792,Caipirinha de Limão,22.0,2025-01-21,19:00:00
+792,Prato Feito (PF),28.0,2025-01-21,19:00:00
+792,Cerveja Artesanal,18.0,2025-01-21,19:00:00
+792,Feijoada Completa,55.0,2025-01-21,19:00:00
+793,Brigadeiro Gourmet,8.0,2025-01-15,12:00:00
+793,Suco de Laranja,9.0,2025-01-15,12:00:00
+793,Caipirinha de Limão,22.0,2025-01-15,12:00:00
+794,Caipirinha de Limão,22.0,2025-01-29,13:00:00
+794,Coxinha de Frango,10.0,2025-01-29,13:00:00
+794,Feijoada Completa,55.0,2025-01-29,13:00:00
+795,Prato Feito (PF),28.0,2025-01-23,18:00:00
+796,Caipirinha de Limão,22.0,2025-01-31,14:00:00
+796,Pão de Queijo (Porção),15.0,2025-01-31,14:00:00
+796,Pudim de Leite,12.0,2025-01-31,14:00:00
+796,Feijoada Completa,55.0,2025-01-31,14:00:00
+797,Caipirinha de Limão,22.0,2025-01-15,19:00:00
+797,Arroz Carreteiro,38.0,2025-01-15,19:00:00
+797,Feijoada Completa,55.0,2025-01-15,19:00:00
+798,Pão de Queijo (Porção),15.0,2025-01-23,19:00:00
+798,Água de Coco,10.0,2025-01-23,19:00:00
+798,Caipirinha de Limão,22.0,2025-01-23,19:00:00
+798,Feijoada Completa,55.0,2025-01-23,19:00:00
+798,Moqueca de Peixe,75.0,2025-01-23,19:00:00
+799,Arroz Carreteiro,38.0,2025-01-09,18:00:00
+799,Pão de Queijo (Porção),15.0,2025-01-09,18:00:00
+799,Cerveja Artesanal,18.0,2025-01-09,18:00:00
+800,Guaraná Antarctica,7.0,2025-01-22,16:00:00
+800,Prato Feito (PF),28.0,2025-01-22,16:00:00
+801,Cerveja Artesanal,18.0,2025-01-22,21:00:00
+801,Café Coado,6.0,2025-01-22,21:00:00
+802,Prato Feito (PF),28.0,2025-01-27,16:00:00
+802,Água de Coco,10.0,2025-01-27,16:00:00
+802,Cerveja Artesanal,18.0,2025-01-27,16:00:00
+803,Caipirinha de Limão,22.0,2025-01-17,11:00:00
+803,Arroz Carreteiro,38.0,2025-01-17,11:00:00
+803,Feijoada Completa,55.0,2025-01-17,11:00:00
+804,Caipirinha de Limão,22.0,2025-01-14,19:00:00
+804,Feijoada Completa,55.0,2025-01-14,19:00:00
+805,Pão de Queijo (Porção),15.0,2025-01-18,19:00:00
+806,Guaraná Antarctica,7.0,2025-01-29,15:00:00
+806,Cerveja Artesanal,18.0,2025-01-29,15:00:00
+806,Pudim de Leite,12.0,2025-01-29,15:00:00
+806,Feijoada Completa,55.0,2025-01-29,15:00:00
+807,Prato Feito (PF),28.0,2025-01-06,19:00:00
+807,Coxinha de Frango,10.0,2025-01-06,19:00:00
+808,Prato Feito (PF),28.0,2025-01-15,17:00:00
+808,Cerveja Artesanal,18.0,2025-01-15,17:00:00
+808,Pudim de Leite,12.0,2025-01-15,17:00:00
+809,Prato Feito (PF),28.0,2025-01-04,16:00:00
+809,Coxinha de Frango,10.0,2025-01-04,16:00:00
+809,Pudim de Leite,12.0,2025-01-04,16:00:00
+809,Suco de Laranja,9.0,2025-01-04,16:00:00
+810,Prato Feito (PF),28.0,2025-01-21,11:00:00
+810,Suco de Laranja,9.0,2025-01-21,11:00:00
+810,Água de Coco,10.0,2025-01-21,11:00:00
+811,Guaraná Antarctica,7.0,2025-01-17,21:00:00
+811,Café Coado,6.0,2025-01-17,21:00:00
+812,Prato Feito (PF),28.0,2025-01-25,16:00:00
+812,Arroz Carreteiro,38.0,2025-01-25,16:00:00
+813,Prato Feito (PF),28.0,2025-01-31,17:00:00
+813,Pudim de Leite,12.0,2025-01-31,17:00:00
+813,Café Coado,6.0,2025-01-31,17:00:00
+814,Prato Feito (PF),28.0,2025-01-04,13:00:00
+814,Coxinha de Frango,10.0,2025-01-04,13:00:00
+814,Pudim de Leite,12.0,2025-01-04,13:00:00
+814,Caipirinha de Limão,22.0,2025-01-04,13:00:00
+815,Prato Feito (PF),28.0,2025-01-14,13:00:00
+815,Moqueca de Peixe,75.0,2025-01-14,13:00:00
+815,Cerveja Artesanal,18.0,2025-01-14,13:00:00
+815,Pudim de Leite,12.0,2025-01-14,13:00:00
+816,Caipirinha de Limão,22.0,2025-01-16,21:00:00
+817,Prato Feito (PF),28.0,2025-01-18,22:00:00
+817,Suco de Laranja,9.0,2025-01-18,22:00:00
+817,Feijoada Completa,55.0,2025-01-18,22:00:00
+818,Pudim de Leite,12.0,2025-01-12,14:00:00
+819,Pudim de Leite,12.0,2025-01-24,17:00:00
+819,Caipirinha de Limão,22.0,2025-01-24,17:00:00
+819,Feijoada Completa,55.0,2025-01-24,17:00:00
+819,Prato Feito (PF),28.0,2025-01-24,17:00:00
+819,Cerveja Artesanal,18.0,2025-01-24,17:00:00
+820,Prato Feito (PF),28.0,2025-01-22,22:00:00
+820,Suco de Laranja,9.0,2025-01-22,22:00:00
+821,Prato Feito (PF),28.0,2025-01-08,19:00:00
+821,Guaraná Antarctica,7.0,2025-01-08,19:00:00
+821,Café Coado,6.0,2025-01-08,19:00:00
+822,Caipirinha de Limão,22.0,2025-01-15,15:00:00
+822,Feijoada Completa,55.0,2025-01-15,15:00:00
+822,Coxinha de Frango,10.0,2025-01-15,15:00:00
+822,Cerveja Artesanal,18.0,2025-01-15,15:00:00
+822,Pão de Queijo (Porção),15.0,2025-01-15,15:00:00
+823,Brigadeiro Gourmet,8.0,2025-01-09,18:00:00
+823,Caipirinha de Limão,22.0,2025-01-09,18:00:00
+823,Prato Feito (PF),28.0,2025-01-09,18:00:00
+824,Caipirinha de Limão,22.0,2025-01-12,12:00:00
+824,Brigadeiro Gourmet,8.0,2025-01-12,12:00:00
+824,Feijoada Completa,55.0,2025-01-12,12:00:00
+825,Pudim de Leite,12.0,2025-01-03,11:00:00
+825,Caipirinha de Limão,22.0,2025-01-03,11:00:00
+825,Feijoada Completa,55.0,2025-01-03,11:00:00
+825,Cerveja Artesanal,18.0,2025-01-03,11:00:00
+825,Suco de Laranja,9.0,2025-01-03,11:00:00
+826,Arroz Carreteiro,38.0,2025-01-31,20:00:00
+827,Suco de Laranja,9.0,2025-01-24,20:00:00
+827,Café Coado,6.0,2025-01-24,20:00:00
+827,Água de Coco,10.0,2025-01-24,20:00:00
+828,Arroz Carreteiro,38.0,2025-01-10,17:00:00
+829,Caipirinha de Limão,22.0,2025-01-28,17:00:00
+829,Feijoada Completa,55.0,2025-01-28,17:00:00
+830,Coxinha de Frango,10.0,2025-01-26,11:00:00
+831,Arroz Carreteiro,38.0,2025-01-05,21:00:00
+832,Prato Feito (PF),28.0,2025-01-19,13:00:00
+832,Pudim de Leite,12.0,2025-01-19,13:00:00
+832,Feijoada Completa,55.0,2025-01-19,13:00:00
+833,Cerveja Artesanal,18.0,2025-01-08,11:00:00
+833,Pudim de Leite,12.0,2025-01-08,11:00:00
+833,Caipirinha de Limão,22.0,2025-01-08,11:00:00
+834,Coxinha de Frango,10.0,2025-01-26,22:00:00
+834,Pão de Queijo (Porção),15.0,2025-01-26,22:00:00
+834,Água de Coco,10.0,2025-01-26,22:00:00
+835,Arroz Carreteiro,38.0,2025-01-24,15:00:00
+835,Cerveja Artesanal,18.0,2025-01-24,15:00:00
+835,Café Coado,6.0,2025-01-24,15:00:00
+836,Caipirinha de Limão,22.0,2025-01-31,11:00:00
+836,Água de Coco,10.0,2025-01-31,11:00:00
+836,Feijoada Completa,55.0,2025-01-31,11:00:00
+837,Moqueca de Peixe,75.0,2025-01-02,16:00:00
+837,Cerveja Artesanal,18.0,2025-01-02,16:00:00
+838,Prato Feito (PF),28.0,2025-01-25,20:00:00
+838,Guaraná Antarctica,7.0,2025-01-25,20:00:00
+838,Pudim de Leite,12.0,2025-01-25,20:00:00
+838,Feijoada Completa,55.0,2025-01-25,20:00:00
+839,Prato Feito (PF),28.0,2025-01-23,20:00:00
+839,Cerveja Artesanal,18.0,2025-01-23,20:00:00
+839,Suco de Laranja,9.0,2025-01-23,20:00:00
+839,Pudim de Leite,12.0,2025-01-23,20:00:00
+840,Moqueca de Peixe,75.0,2025-01-12,19:00:00
+840,Pudim de Leite,12.0,2025-01-12,19:00:00
+840,Feijoada Completa,55.0,2025-01-12,19:00:00
+841,Guaraná Antarctica,7.0,2025-01-31,18:00:00
+841,Cerveja Artesanal,18.0,2025-01-31,18:00:00
+841,Caipirinha de Limão,22.0,2025-01-31,18:00:00
+842,Caipirinha de Limão,22.0,2025-01-17,15:00:00
+842,Prato Feito (PF),28.0,2025-01-17,15:00:00
+842,Feijoada Completa,55.0,2025-01-17,15:00:00
+843,Prato Feito (PF),28.0,2025-01-17,16:00:00
+843,Moqueca de Peixe,75.0,2025-01-17,16:00:00
+843,Água de Coco,10.0,2025-01-17,16:00:00
+843,Feijoada Completa,55.0,2025-01-17,16:00:00
+844,Prato Feito (PF),28.0,2025-01-04,20:00:00
+844,Brigadeiro Gourmet,8.0,2025-01-04,20:00:00
+845,Pão de Queijo (Porção),15.0,2025-01-24,13:00:00
+846,Prato Feito (PF),28.0,2025-01-10,13:00:00
+846,Arroz Carreteiro,38.0,2025-01-10,13:00:00
+846,Pudim de Leite,12.0,2025-01-10,13:00:00
+847,Coxinha de Frango,10.0,2025-01-02,18:00:00
+848,Guaraná Antarctica,7.0,2025-01-07,19:00:00
+848,Coxinha de Frango,10.0,2025-01-07,19:00:00
+849,Guaraná Antarctica,7.0,2025-01-31,20:00:00
+850,Moqueca de Peixe,75.0,2025-01-01,15:00:00
+850,Café Coado,6.0,2025-01-01,15:00:00
+850,Caipirinha de Limão,22.0,2025-01-01,15:00:00
+851,Caipirinha de Limão,22.0,2025-01-28,11:00:00
+851,Coxinha de Frango,10.0,2025-01-28,11:00:00
+851,Guaraná Antarctica,7.0,2025-01-28,11:00:00
+851,Feijoada Completa,55.0,2025-01-28,11:00:00
+852,Prato Feito (PF),28.0,2025-01-02,14:00:00
+852,Água de Coco,10.0,2025-01-02,14:00:00
+852,Pudim de Leite,12.0,2025-01-02,14:00:00
+853,Água de Coco,10.0,2025-01-19,21:00:00
+853,Pudim de Leite,12.0,2025-01-19,21:00:00
+853,Feijoada Completa,55.0,2025-01-19,21:00:00
+854,Suco de Laranja,9.0,2025-01-06,12:00:00
+855,Prato Feito (PF),28.0,2025-01-13,20:00:00
+855,Guaraná Antarctica,7.0,2025-01-13,20:00:00
+855,Pudim de Leite,12.0,2025-01-13,20:00:00
+855,Feijoada Completa,55.0,2025-01-13,20:00:00
+856,Caipirinha de Limão,22.0,2025-01-12,19:00:00
+856,Prato Feito (PF),28.0,2025-01-12,19:00:00
+856,Suco de Laranja,9.0,2025-01-12,19:00:00
+856,Feijoada Completa,55.0,2025-01-12,19:00:00
+857,Caipirinha de Limão,22.0,2025-01-01,14:00:00
+857,Pão de Queijo (Porção),15.0,2025-01-01,14:00:00
+857,Feijoada Completa,55.0,2025-01-01,14:00:00
+858,Suco de Laranja,9.0,2025-01-09,14:00:00
+859,Prato Feito (PF),28.0,2025-01-19,18:00:00
+859,Pudim de Leite,12.0,2025-01-19,18:00:00
+859,Feijoada Completa,55.0,2025-01-19,18:00:00
+860,Caipirinha de Limão,22.0,2025-01-19,17:00:00
+860,Brigadeiro Gourmet,8.0,2025-01-19,17:00:00
+860,Suco de Laranja,9.0,2025-01-19,17:00:00
+860,Feijoada Completa,55.0,2025-01-19,17:00:00
+861,Caipirinha de Limão,22.0,2025-01-26,12:00:00
+861,Prato Feito (PF),28.0,2025-01-26,12:00:00
+861,Brigadeiro Gourmet,8.0,2025-01-26,12:00:00
+861,Feijoada Completa,55.0,2025-01-26,12:00:00
+862,Pudim de Leite,12.0,2025-01-17,14:00:00
+862,Caipirinha de Limão,22.0,2025-01-17,14:00:00
+862,Feijoada Completa,55.0,2025-01-17,14:00:00
+862,Coxinha de Frango,10.0,2025-01-17,14:00:00
+862,Brigadeiro Gourmet,8.0,2025-01-17,14:00:00
+863,Prato Feito (PF),28.0,2025-01-25,15:00:00
+863,Pão de Queijo (Porção),15.0,2025-01-25,15:00:00
+864,Caipirinha de Limão,22.0,2025-01-04,20:00:00
+864,Feijoada Completa,55.0,2025-01-04,20:00:00
+865,Suco de Laranja,9.0,2025-01-21,15:00:00
+865,Água de Coco,10.0,2025-01-21,15:00:00
+866,Pão de Queijo (Porção),15.0,2025-01-24,12:00:00
+866,Suco de Laranja,9.0,2025-01-24,12:00:00
+867,Guaraná Antarctica,7.0,2025-01-16,22:00:00
+867,Pudim de Leite,12.0,2025-01-16,22:00:00
+868,Suco de Laranja,9.0,2025-01-12,19:00:00
+868,Água de Coco,10.0,2025-01-12,19:00:00
+869,Prato Feito (PF),28.0,2025-01-06,13:00:00
+869,Guaraná Antarctica,7.0,2025-01-06,13:00:00
+869,Suco de Laranja,9.0,2025-01-06,13:00:00
+869,Pudim de Leite,12.0,2025-01-06,13:00:00
+870,Água de Coco,10.0,2025-01-27,11:00:00
+870,Caipirinha de Limão,22.0,2025-01-27,11:00:00
+870,Feijoada Completa,55.0,2025-01-27,11:00:00
+870,Coxinha de Frango,10.0,2025-01-27,11:00:00
+870,Moqueca de Peixe,75.0,2025-01-27,11:00:00
+871,Caipirinha de Limão,22.0,2025-01-06,16:00:00
+871,Suco de Laranja,9.0,2025-01-06,16:00:00
+871,Feijoada Completa,55.0,2025-01-06,16:00:00
+872,Prato Feito (PF),28.0,2025-01-15,16:00:00
+872,Pão de Queijo (Porção),15.0,2025-01-15,16:00:00
+872,Coxinha de Frango,10.0,2025-01-15,16:00:00
+873,Pão de Queijo (Porção),15.0,2025-01-29,19:00:00
+873,Feijoada Completa,55.0,2025-01-29,19:00:00
+874,Prato Feito (PF),28.0,2025-01-03,18:00:00
+874,Coxinha de Frango,10.0,2025-01-03,18:00:00
+875,Guaraná Antarctica,7.0,2025-01-13,17:00:00
+875,Água de Coco,10.0,2025-01-13,17:00:00
+875,Caipirinha de Limão,22.0,2025-01-13,17:00:00
+876,Caipirinha de Limão,22.0,2025-01-25,19:00:00
+876,Cerveja Artesanal,18.0,2025-01-25,19:00:00
+876,Suco de Laranja,9.0,2025-01-25,19:00:00
+876,Feijoada Completa,55.0,2025-01-25,19:00:00
+877,Guaraná Antarctica,7.0,2025-01-01,14:00:00
+877,Coxinha de Frango,10.0,2025-01-01,14:00:00
+878,Arroz Carreteiro,38.0,2025-01-04,11:00:00
+879,Prato Feito (PF),28.0,2025-01-21,16:00:00
+880,Caipirinha de Limão,22.0,2025-01-18,12:00:00
+880,Arroz Carreteiro,38.0,2025-01-18,12:00:00
+880,Pudim de Leite,12.0,2025-01-18,12:00:00
+880,Feijoada Completa,55.0,2025-01-18,12:00:00
+881,Caipirinha de Limão,22.0,2025-01-28,22:00:00
+881,Pudim de Leite,12.0,2025-01-28,22:00:00
+881,Feijoada Completa,55.0,2025-01-28,22:00:00
+882,Prato Feito (PF),28.0,2025-01-12,15:00:00
+882,Água de Coco,10.0,2025-01-12,15:00:00
+882,Pudim de Leite,12.0,2025-01-12,15:00:00
+883,Prato Feito (PF),28.0,2025-01-04,16:00:00
+883,Moqueca de Peixe,75.0,2025-01-04,16:00:00
+883,Suco de Laranja,9.0,2025-01-04,16:00:00
+884,Caipirinha de Limão,22.0,2025-01-03,12:00:00
+884,Pão de Queijo (Porção),15.0,2025-01-03,12:00:00
+884,Feijoada Completa,55.0,2025-01-03,12:00:00
+885,Prato Feito (PF),28.0,2025-01-28,18:00:00
+885,Pudim de Leite,12.0,2025-01-28,18:00:00
+886,Caipirinha de Limão,22.0,2025-01-21,17:00:00
+886,Feijoada Completa,55.0,2025-01-21,17:00:00
+887,Caipirinha de Limão,22.0,2025-01-02,21:00:00
+887,Guaraná Antarctica,7.0,2025-01-02,21:00:00
+887,Feijoada Completa,55.0,2025-01-02,21:00:00
+888,Guaraná Antarctica,7.0,2025-01-06,15:00:00
+889,Caipirinha de Limão,22.0,2025-01-11,15:00:00
+889,Moqueca de Peixe,75.0,2025-01-11,15:00:00
+889,Guaraná Antarctica,7.0,2025-01-11,15:00:00
+889,Feijoada Completa,55.0,2025-01-11,15:00:00
+890,Cerveja Artesanal,18.0,2025-01-29,13:00:00
+890,Feijoada Completa,55.0,2025-01-29,13:00:00
+890,Caipirinha de Limão,22.0,2025-01-29,13:00:00
+891,Prato Feito (PF),28.0,2025-01-13,18:00:00
+892,Prato Feito (PF),28.0,2025-01-23,16:00:00
+892,Coxinha de Frango,10.0,2025-01-23,16:00:00
+892,Pudim de Leite,12.0,2025-01-23,16:00:00
+893,Arroz Carreteiro,38.0,2025-01-01,11:00:00
+894,Arroz Carreteiro,38.0,2025-01-21,18:00:00
+895,Prato Feito (PF),28.0,2025-01-10,12:00:00
+895,Cerveja Artesanal,18.0,2025-01-10,12:00:00
+895,Pudim de Leite,12.0,2025-01-10,12:00:00
+895,Café Coado,6.0,2025-01-10,12:00:00
+896,Pão de Queijo (Porção),15.0,2025-01-04,12:00:00
+896,Pudim de Leite,12.0,2025-01-04,12:00:00
+896,Prato Feito (PF),28.0,2025-01-04,12:00:00
+896,Coxinha de Frango,10.0,2025-01-04,12:00:00
+896,Moqueca de Peixe,75.0,2025-01-04,12:00:00
+897,Caipirinha de Limão,22.0,2025-01-23,14:00:00
+897,Brigadeiro Gourmet,8.0,2025-01-23,14:00:00
+897,Feijoada Completa,55.0,2025-01-23,14:00:00
+898,Prato Feito (PF),28.0,2025-01-30,18:00:00
+898,Pudim de Leite,12.0,2025-01-30,18:00:00
+898,Guaraná Antarctica,7.0,2025-01-30,18:00:00
+898,Café Coado,6.0,2025-01-30,18:00:00
+899,Suco de Laranja,9.0,2025-01-10,15:00:00
+900,Caipirinha de Limão,22.0,2025-01-28,13:00:00
+900,Água de Coco,10.0,2025-01-28,13:00:00
+900,Feijoada Completa,55.0,2025-01-28,13:00:00
+901,Caipirinha de Limão,22.0,2025-01-16,11:00:00
+901,Moqueca de Peixe,75.0,2025-01-16,11:00:00
+901,Coxinha de Frango,10.0,2025-01-16,11:00:00
+901,Feijoada Completa,55.0,2025-01-16,11:00:00
+902,Prato Feito (PF),28.0,2025-01-02,14:00:00
+902,Brigadeiro Gourmet,8.0,2025-01-02,14:00:00
+903,Água de Coco,10.0,2025-01-21,17:00:00
+903,Suco de Laranja,9.0,2025-01-21,17:00:00
+904,Coxinha de Frango,10.0,2025-01-12,17:00:00
+904,Pudim de Leite,12.0,2025-01-12,17:00:00
+905,Caipirinha de Limão,22.0,2025-01-20,14:00:00
+905,Guaraná Antarctica,7.0,2025-01-20,14:00:00
+905,Feijoada Completa,55.0,2025-01-20,14:00:00
+906,Caipirinha de Limão,22.0,2025-01-31,22:00:00
+907,Cerveja Artesanal,18.0,2025-01-07,11:00:00
+907,Feijoada Completa,55.0,2025-01-07,11:00:00
+908,Prato Feito (PF),28.0,2025-01-09,12:00:00
+908,Caipirinha de Limão,22.0,2025-01-09,12:00:00
+909,Caipirinha de Limão,22.0,2025-01-06,12:00:00
+909,Pão de Queijo (Porção),15.0,2025-01-06,12:00:00
+909,Suco de Laranja,9.0,2025-01-06,12:00:00
+909,Feijoada Completa,55.0,2025-01-06,12:00:00
+910,Guaraná Antarctica,7.0,2025-01-28,11:00:00
+910,Arroz Carreteiro,38.0,2025-01-28,11:00:00
+911,Caipirinha de Limão,22.0,2025-01-31,13:00:00
+911,Prato Feito (PF),28.0,2025-01-31,13:00:00
+911,Água de Coco,10.0,2025-01-31,13:00:00
+911,Feijoada Completa,55.0,2025-01-31,13:00:00
+912,Água de Coco,10.0,2025-01-23,14:00:00
+912,Feijoada Completa,55.0,2025-01-23,14:00:00
+913,Prato Feito (PF),28.0,2025-01-31,18:00:00
+913,Pão de Queijo (Porção),15.0,2025-01-31,18:00:00
+913,Pudim de Leite,12.0,2025-01-31,18:00:00
+914,Guaraná Antarctica,7.0,2025-01-19,22:00:00
+914,Caipirinha de Limão,22.0,2025-01-19,22:00:00
+914,Feijoada Completa,55.0,2025-01-19,22:00:00
+914,Suco de Laranja,9.0,2025-01-19,22:00:00
+914,Cerveja Artesanal,18.0,2025-01-19,22:00:00
+915,Coxinha de Frango,10.0,2025-01-15,17:00:00
+915,Pudim de Leite,12.0,2025-01-15,17:00:00
+915,Água de Coco,10.0,2025-01-15,17:00:00
+916,Pudim de Leite,12.0,2025-01-11,17:00:00
+917,Suco de Laranja,9.0,2025-01-30,12:00:00
+918,Arroz Carreteiro,38.0,2025-01-02,15:00:00
+918,Suco de Laranja,9.0,2025-01-02,15:00:00
+918,Feijoada Completa,55.0,2025-01-02,15:00:00
+919,Suco de Laranja,9.0,2025-01-25,12:00:00
+920,Prato Feito (PF),28.0,2025-01-23,17:00:00
+920,Caipirinha de Limão,22.0,2025-01-23,17:00:00
+921,Brigadeiro Gourmet,8.0,2025-01-13,20:00:00
+921,Coxinha de Frango,10.0,2025-01-13,20:00:00
+921,Café Coado,6.0,2025-01-13,20:00:00
+922,Brigadeiro Gourmet,8.0,2025-01-21,16:00:00
+922,Arroz Carreteiro,38.0,2025-01-21,16:00:00
+922,Cerveja Artesanal,18.0,2025-01-21,16:00:00
+923,Brigadeiro Gourmet,8.0,2025-01-05,12:00:00
+924,Caipirinha de Limão,22.0,2025-01-26,20:00:00
+924,Pão de Queijo (Porção),15.0,2025-01-26,20:00:00
+924,Feijoada Completa,55.0,2025-01-26,20:00:00
+925,Coxinha de Frango,10.0,2025-01-12,13:00:00
+926,Caipirinha de Limão,22.0,2025-01-28,17:00:00
+926,Moqueca de Peixe,75.0,2025-01-28,17:00:00
+926,Guaraná Antarctica,7.0,2025-01-28,17:00:00
+926,Feijoada Completa,55.0,2025-01-28,17:00:00
+927,Guaraná Antarctica,7.0,2025-01-31,18:00:00
+927,Moqueca de Peixe,75.0,2025-01-31,18:00:00
+927,Cerveja Artesanal,18.0,2025-01-31,18:00:00
+927,Feijoada Completa,55.0,2025-01-31,18:00:00
+928,Prato Feito (PF),28.0,2025-01-17,18:00:00
+928,Caipirinha de Limão,22.0,2025-01-17,18:00:00
+929,Prato Feito (PF),28.0,2025-01-10,20:00:00
+929,Água de Coco,10.0,2025-01-10,20:00:00
+929,Pudim de Leite,12.0,2025-01-10,20:00:00
+930,Arroz Carreteiro,38.0,2025-01-04,15:00:00
+931,Feijoada Completa,55.0,2025-01-15,22:00:00
+932,Guaraná Antarctica,7.0,2025-01-10,12:00:00
+932,Feijoada Completa,55.0,2025-01-10,12:00:00
+933,Pão de Queijo (Porção),15.0,2025-01-18,18:00:00
+934,Moqueca de Peixe,75.0,2025-01-16,11:00:00
+934,Feijoada Completa,55.0,2025-01-16,11:00:00
+935,Caipirinha de Limão,22.0,2025-01-09,12:00:00
+935,Arroz Carreteiro,38.0,2025-01-09,12:00:00
+935,Guaraná Antarctica,7.0,2025-01-09,12:00:00
+935,Feijoada Completa,55.0,2025-01-09,12:00:00
+936,Pão de Queijo (Porção),15.0,2025-01-25,19:00:00
+936,Moqueca de Peixe,75.0,2025-01-25,19:00:00
+936,Feijoada Completa,55.0,2025-01-25,19:00:00
+937,Guaraná Antarctica,7.0,2025-01-23,18:00:00
+937,Água de Coco,10.0,2025-01-23,18:00:00
+937,Pudim de Leite,12.0,2025-01-23,18:00:00
+937,Prato Feito (PF),28.0,2025-01-23,18:00:00
+937,Arroz Carreteiro,38.0,2025-01-23,18:00:00
+938,Caipirinha de Limão,22.0,2025-01-14,16:00:00
+938,Suco de Laranja,9.0,2025-01-14,16:00:00
+938,Feijoada Completa,55.0,2025-01-14,16:00:00
+939,Água de Coco,10.0,2025-01-11,12:00:00
+940,Brigadeiro Gourmet,8.0,2025-01-12,17:00:00
+940,Feijoada Completa,55.0,2025-01-12,17:00:00
+941,Caipirinha de Limão,22.0,2025-01-12,16:00:00
+941,Prato Feito (PF),28.0,2025-01-12,16:00:00
+941,Feijoada Completa,55.0,2025-01-12,16:00:00
+942,Brigadeiro Gourmet,8.0,2025-01-21,19:00:00
+942,Água de Coco,10.0,2025-01-21,19:00:00
+942,Feijoada Completa,55.0,2025-01-21,19:00:00
+943,Caipirinha de Limão,22.0,2025-01-24,15:00:00
+943,Água de Coco,10.0,2025-01-24,15:00:00
+943,Feijoada Completa,55.0,2025-01-24,15:00:00
+944,Prato Feito (PF),28.0,2025-01-07,15:00:00
+944,Pão de Queijo (Porção),15.0,2025-01-07,15:00:00
+944,Coxinha de Frango,10.0,2025-01-07,15:00:00
+944,Pudim de Leite,12.0,2025-01-07,15:00:00
+945,Moqueca de Peixe,75.0,2025-01-23,16:00:00
+945,Café Coado,6.0,2025-01-23,16:00:00
+946,Pudim de Leite,12.0,2025-01-21,20:00:00
+946,Prato Feito (PF),28.0,2025-01-21,20:00:00
+946,Suco de Laranja,9.0,2025-01-21,20:00:00
+946,Arroz Carreteiro,38.0,2025-01-21,20:00:00
+946,Pão de Queijo (Porção),15.0,2025-01-21,20:00:00
+947,Prato Feito (PF),28.0,2025-01-18,14:00:00
+947,Brigadeiro Gourmet,8.0,2025-01-18,14:00:00
+947,Cerveja Artesanal,18.0,2025-01-18,14:00:00
+948,Prato Feito (PF),28.0,2025-01-31,17:00:00
+948,Coxinha de Frango,10.0,2025-01-31,17:00:00
+948,Caipirinha de Limão,22.0,2025-01-31,17:00:00
+949,Caipirinha de Limão,22.0,2025-01-05,12:00:00
+949,Brigadeiro Gourmet,8.0,2025-01-05,12:00:00
+949,Feijoada Completa,55.0,2025-01-05,12:00:00
+950,Prato Feito (PF),28.0,2025-01-01,21:00:00
+950,Cerveja Artesanal,18.0,2025-01-01,21:00:00
+950,Caipirinha de Limão,22.0,2025-01-01,21:00:00
+951,Caipirinha de Limão,22.0,2025-01-09,15:00:00
+951,Pão de Queijo (Porção),15.0,2025-01-09,15:00:00
+951,Feijoada Completa,55.0,2025-01-09,15:00:00
+952,Moqueca de Peixe,75.0,2025-01-12,17:00:00
+952,Feijoada Completa,55.0,2025-01-12,17:00:00
+953,Caipirinha de Limão,22.0,2025-01-09,22:00:00
+953,Moqueca de Peixe,75.0,2025-01-09,22:00:00
+953,Feijoada Completa,55.0,2025-01-09,22:00:00
+954,Prato Feito (PF),28.0,2025-01-21,19:00:00
+954,Pudim de Leite,12.0,2025-01-21,19:00:00
+954,Café Coado,6.0,2025-01-21,19:00:00
+955,Pudim de Leite,12.0,2025-01-20,16:00:00
+955,Café Coado,6.0,2025-01-20,16:00:00
+955,Feijoada Completa,55.0,2025-01-20,16:00:00
+955,Prato Feito (PF),28.0,2025-01-20,16:00:00
+955,Brigadeiro Gourmet,8.0,2025-01-20,16:00:00
+956,Guaraná Antarctica,7.0,2025-01-01,13:00:00
+956,Arroz Carreteiro,38.0,2025-01-01,13:00:00
+956,Coxinha de Frango,10.0,2025-01-01,13:00:00
+957,Prato Feito (PF),28.0,2025-01-28,13:00:00
+957,Feijoada Completa,55.0,2025-01-28,13:00:00
+958,Caipirinha de Limão,22.0,2025-01-04,15:00:00
+958,Água de Coco,10.0,2025-01-04,15:00:00
+958,Feijoada Completa,55.0,2025-01-04,15:00:00
+959,Suco de Laranja,9.0,2025-01-17,14:00:00
+960,Caipirinha de Limão,22.0,2025-01-17,15:00:00
+960,Cerveja Artesanal,18.0,2025-01-17,15:00:00
+960,Guaraná Antarctica,7.0,2025-01-17,15:00:00
+960,Feijoada Completa,55.0,2025-01-17,15:00:00
+961,Pudim de Leite,12.0,2025-01-26,22:00:00
+961,Feijoada Completa,55.0,2025-01-26,22:00:00
+962,Suco de Laranja,9.0,2025-01-28,18:00:00
+963,Guaraná Antarctica,7.0,2025-01-16,14:00:00
+963,Moqueca de Peixe,75.0,2025-01-16,14:00:00
+964,Guaraná Antarctica,7.0,2025-01-18,11:00:00
+964,Coxinha de Frango,10.0,2025-01-18,11:00:00
+965,Moqueca de Peixe,75.0,2025-01-28,20:00:00
+965,Cerveja Artesanal,18.0,2025-01-28,20:00:00
+965,Café Coado,6.0,2025-01-28,20:00:00
+966,Arroz Carreteiro,38.0,2025-01-09,13:00:00
+966,Água de Coco,10.0,2025-01-09,13:00:00
+966,Pudim de Leite,12.0,2025-01-09,13:00:00
+967,Prato Feito (PF),28.0,2025-01-30,19:00:00
+967,Água de Coco,10.0,2025-01-30,19:00:00
+967,Pudim de Leite,12.0,2025-01-30,19:00:00
+968,Guaraná Antarctica,7.0,2025-01-23,19:00:00
+968,Café Coado,6.0,2025-01-23,19:00:00
+969,Prato Feito (PF),28.0,2025-01-23,12:00:00
+969,Água de Coco,10.0,2025-01-23,12:00:00
+969,Feijoada Completa,55.0,2025-01-23,12:00:00
+970,Prato Feito (PF),28.0,2025-01-16,19:00:00
+970,Pudim de Leite,12.0,2025-01-16,19:00:00
+970,Caipirinha de Limão,22.0,2025-01-16,19:00:00
+971,Brigadeiro Gourmet,8.0,2025-01-21,21:00:00
+971,Café Coado,6.0,2025-01-21,21:00:00
+971,Prato Feito (PF),28.0,2025-01-21,21:00:00
+972,Caipirinha de Limão,22.0,2025-01-23,11:00:00
+972,Brigadeiro Gourmet,8.0,2025-01-23,11:00:00
+972,Feijoada Completa,55.0,2025-01-23,11:00:00
+973,Prato Feito (PF),28.0,2025-01-29,16:00:00
+973,Suco de Laranja,9.0,2025-01-29,16:00:00
+974,Prato Feito (PF),28.0,2025-01-14,15:00:00
+974,Pudim de Leite,12.0,2025-01-14,15:00:00
+975,Caipirinha de Limão,22.0,2025-01-02,13:00:00
+975,Coxinha de Frango,10.0,2025-01-02,13:00:00
+975,Feijoada Completa,55.0,2025-01-02,13:00:00
+976,Arroz Carreteiro,38.0,2025-01-07,15:00:00
+976,Coxinha de Frango,10.0,2025-01-07,15:00:00
+977,Pão de Queijo (Porção),15.0,2025-01-22,16:00:00
+977,Água de Coco,10.0,2025-01-22,16:00:00
+978,Brigadeiro Gourmet,8.0,2025-01-03,12:00:00
+978,Arroz Carreteiro,38.0,2025-01-03,12:00:00
+979,Pudim de Leite,12.0,2025-01-23,22:00:00
+979,Caipirinha de Limão,22.0,2025-01-23,22:00:00
+979,Feijoada Completa,55.0,2025-01-23,22:00:00
+979,Suco de Laranja,9.0,2025-01-23,22:00:00
+979,Moqueca de Peixe,75.0,2025-01-23,22:00:00
+980,Prato Feito (PF),28.0,2025-01-31,21:00:00
+980,Pudim de Leite,12.0,2025-01-31,21:00:00
+980,Café Coado,6.0,2025-01-31,21:00:00
+981,Prato Feito (PF),28.0,2025-01-03,15:00:00
+981,Arroz Carreteiro,38.0,2025-01-03,15:00:00
+981,Pudim de Leite,12.0,2025-01-03,15:00:00
+982,Brigadeiro Gourmet,8.0,2025-01-22,19:00:00
+982,Pudim de Leite,12.0,2025-01-22,19:00:00
+982,Feijoada Completa,55.0,2025-01-22,19:00:00
+983,Prato Feito (PF),28.0,2025-01-11,11:00:00
+983,Guaraná Antarctica,7.0,2025-01-11,11:00:00
+983,Pudim de Leite,12.0,2025-01-11,11:00:00
+984,Caipirinha de Limão,22.0,2025-01-16,12:00:00
+984,Coxinha de Frango,10.0,2025-01-16,12:00:00
+984,Feijoada Completa,55.0,2025-01-16,12:00:00
+985,Coxinha de Frango,10.0,2025-01-05,17:00:00
+985,Feijoada Completa,55.0,2025-01-05,17:00:00
+986,Prato Feito (PF),28.0,2025-01-01,16:00:00
+986,Pudim de Leite,12.0,2025-01-01,16:00:00
+986,Feijoada Completa,55.0,2025-01-01,16:00:00
+987,Caipirinha de Limão,22.0,2025-01-11,15:00:00
+987,Cerveja Artesanal,18.0,2025-01-11,15:00:00
+987,Feijoada Completa,55.0,2025-01-11,15:00:00
+988,Água de Coco,10.0,2025-01-24,19:00:00
+988,Caipirinha de Limão,22.0,2025-01-24,19:00:00
+988,Feijoada Completa,55.0,2025-01-24,19:00:00
+988,Cerveja Artesanal,18.0,2025-01-24,19:00:00
+988,Moqueca de Peixe,75.0,2025-01-24,19:00:00
+989,Prato Feito (PF),28.0,2025-01-26,11:00:00
+989,Coxinha de Frango,10.0,2025-01-26,11:00:00
+989,Café Coado,6.0,2025-01-26,11:00:00
+989,Feijoada Completa,55.0,2025-01-26,11:00:00
+990,Prato Feito (PF),28.0,2025-01-16,20:00:00
+990,Arroz Carreteiro,38.0,2025-01-16,20:00:00
+990,Pudim de Leite,12.0,2025-01-16,20:00:00
+991,Prato Feito (PF),28.0,2025-01-19,21:00:00
+991,Arroz Carreteiro,38.0,2025-01-19,21:00:00
+991,Pão de Queijo (Porção),15.0,2025-01-19,21:00:00
+991,Café Coado,6.0,2025-01-19,21:00:00
+992,Prato Feito (PF),28.0,2025-01-12,21:00:00
+992,Moqueca de Peixe,75.0,2025-01-12,21:00:00
+992,Pudim de Leite,12.0,2025-01-12,21:00:00
+993,Prato Feito (PF),28.0,2025-01-01,18:00:00
+993,Cerveja Artesanal,18.0,2025-01-01,18:00:00
+993,Pudim de Leite,12.0,2025-01-01,18:00:00
+993,Feijoada Completa,55.0,2025-01-01,18:00:00
+994,Prato Feito (PF),28.0,2025-01-04,13:00:00
+994,Cerveja Artesanal,18.0,2025-01-04,13:00:00
+994,Feijoada Completa,55.0,2025-01-04,13:00:00
+995,Caipirinha de Limão,22.0,2025-01-20,14:00:00
+995,Água de Coco,10.0,2025-01-20,14:00:00
+995,Feijoada Completa,55.0,2025-01-20,14:00:00
+996,Guaraná Antarctica,7.0,2025-01-24,15:00:00
+996,Cerveja Artesanal,18.0,2025-01-24,15:00:00
+996,Caipirinha de Limão,22.0,2025-01-24,15:00:00
+997,Prato Feito (PF),28.0,2025-01-03,18:00:00
+997,Pudim de Leite,12.0,2025-01-03,18:00:00
+998,Prato Feito (PF),28.0,2025-01-25,14:00:00
+998,Guaraná Antarctica,7.0,2025-01-25,14:00:00
+998,Pudim de Leite,12.0,2025-01-25,14:00:00
+999,Suco de Laranja,9.0,2025-01-16,12:00:00
+1000,Pudim de Leite,12.0,2025-01-28,16:00:00
+1000,Caipirinha de Limão,22.0,2025-01-28,16:00:00
+1000,Feijoada Completa,55.0,2025-01-28,16:00:00
+1000,Prato Feito (PF),28.0,2025-01-28,16:00:00
+1000,Cerveja Artesanal,18.0,2025-01-28,16:00:00
+1001,Caipirinha de Limão,22.0,2025-01-09,11:00:00
+1001,Prato Feito (PF),28.0,2025-01-09,11:00:00
+1001,Feijoada Completa,55.0,2025-01-09,11:00:00
+1002,Prato Feito (PF),28.0,2025-01-16,13:00:00
+1002,Arroz Carreteiro,38.0,2025-01-16,13:00:00
+1002,Cerveja Artesanal,18.0,2025-01-16,13:00:00
+1003,Pudim de Leite,12.0,2025-01-31,22:00:00
+1003,Café Coado,6.0,2025-01-31,22:00:00
+1004,Suco de Laranja,9.0,2025-01-05,13:00:00
+1004,Pudim de Leite,12.0,2025-01-05,13:00:00
+1005,Brigadeiro Gourmet,8.0,2025-01-22,20:00:00
+1005,Guaraná Antarctica,7.0,2025-01-22,20:00:00
+1005,Pudim de Leite,12.0,2025-01-22,20:00:00
+1005,Feijoada Completa,55.0,2025-01-22,20:00:00
+1006,Pudim de Leite,12.0,2025-01-19,18:00:00
+1006,Café Coado,6.0,2025-01-19,18:00:00
+1006,Feijoada Completa,55.0,2025-01-19,18:00:00
+1007,Caipirinha de Limão,22.0,2025-01-18,14:00:00
+1007,Pudim de Leite,12.0,2025-01-18,14:00:00
+1007,Feijoada Completa,55.0,2025-01-18,14:00:00
+1008,Caipirinha de Limão,22.0,2025-01-02,16:00:00
+1008,Água de Coco,10.0,2025-01-02,16:00:00
+1008,Feijoada Completa,55.0,2025-01-02,16:00:00
+1009,Prato Feito (PF),28.0,2025-01-03,20:00:00
+1009,Moqueca de Peixe,75.0,2025-01-03,20:00:00
+1009,Cerveja Artesanal,18.0,2025-01-03,20:00:00
+1009,Pudim de Leite,12.0,2025-01-03,20:00:00
+1010,Arroz Carreteiro,38.0,2025-01-11,15:00:00
+1010,Suco de Laranja,9.0,2025-01-11,15:00:00
+1010,Pudim de Leite,12.0,2025-01-11,15:00:00
+1011,Água de Coco,10.0,2025-01-05,11:00:00
+1012,Brigadeiro Gourmet,8.0,2025-01-15,19:00:00
+1012,Pão de Queijo (Porção),15.0,2025-01-15,19:00:00
+1012,Feijoada Completa,55.0,2025-01-15,19:00:00
+1013,Prato Feito (PF),28.0,2025-01-09,21:00:00
+1013,Arroz Carreteiro,38.0,2025-01-09,21:00:00
+1013,Pudim de Leite,12.0,2025-01-09,21:00:00
+1014,Guaraná Antarctica,7.0,2025-01-06,21:00:00
+1014,Cerveja Artesanal,18.0,2025-01-06,21:00:00
+1014,Água de Coco,10.0,2025-01-06,21:00:00
+1015,Arroz Carreteiro,38.0,2025-01-01,22:00:00
+1015,Pão de Queijo (Porção),15.0,2025-01-01,22:00:00
+1015,Água de Coco,10.0,2025-01-01,22:00:00
+1016,Cerveja Artesanal,18.0,2025-01-11,19:00:00
+1016,Feijoada Completa,55.0,2025-01-11,19:00:00
+1017,Prato Feito (PF),28.0,2025-01-17,14:00:00
+1017,Moqueca de Peixe,75.0,2025-01-17,14:00:00
+1018,Prato Feito (PF),28.0,2025-01-21,20:00:00
+1018,Água de Coco,10.0,2025-01-21,20:00:00
+1018,Pudim de Leite,12.0,2025-01-21,20:00:00
+1019,Pudim de Leite,12.0,2025-01-22,18:00:00
+1020,Prato Feito (PF),28.0,2025-01-24,20:00:00
+1020,Brigadeiro Gourmet,8.0,2025-01-24,20:00:00
+1020,Suco de Laranja,9.0,2025-01-24,20:00:00
+1021,Guaraná Antarctica,7.0,2025-01-06,11:00:00
+1021,Pão de Queijo (Porção),15.0,2025-01-06,11:00:00
+1021,Café Coado,6.0,2025-01-06,11:00:00
+1022,Pão de Queijo (Porção),15.0,2025-01-08,18:00:00
+1022,Caipirinha de Limão,22.0,2025-01-08,18:00:00
+1022,Feijoada Completa,55.0,2025-01-08,18:00:00
+1022,Cerveja Artesanal,18.0,2025-01-08,18:00:00
+1022,Moqueca de Peixe,75.0,2025-01-08,18:00:00
+1023,Coxinha de Frango,10.0,2025-01-19,18:00:00
+1023,Pão de Queijo (Porção),15.0,2025-01-19,18:00:00
+1023,Suco de Laranja,9.0,2025-01-19,18:00:00
+1024,Arroz Carreteiro,38.0,2025-01-19,18:00:00
+1024,Coxinha de Frango,10.0,2025-01-19,18:00:00
+1025,Arroz Carreteiro,38.0,2025-01-06,12:00:00
+1025,Caipirinha de Limão,22.0,2025-01-06,12:00:00
+1026,Água de Coco,10.0,2025-01-20,21:00:00
+1027,Brigadeiro Gourmet,8.0,2025-01-16,14:00:00
+1027,Pão de Queijo (Porção),15.0,2025-01-16,14:00:00
+1027,Suco de Laranja,9.0,2025-01-16,14:00:00
+1028,Suco de Laranja,9.0,2025-01-25,18:00:00
+1029,Suco de Laranja,9.0,2025-01-05,18:00:00
+1029,Pudim de Leite,12.0,2025-01-05,18:00:00
+1030,Suco de Laranja,9.0,2025-01-25,11:00:00
+1030,Feijoada Completa,55.0,2025-01-25,11:00:00
+1031,Caipirinha de Limão,22.0,2025-01-06,21:00:00
+1031,Brigadeiro Gourmet,8.0,2025-01-06,21:00:00
+1031,Pudim de Leite,12.0,2025-01-06,21:00:00
+1031,Feijoada Completa,55.0,2025-01-06,21:00:00
+1032,Caipirinha de Limão,22.0,2025-01-16,15:00:00
+1032,Feijoada Completa,55.0,2025-01-16,15:00:00
+1033,Prato Feito (PF),28.0,2025-01-29,22:00:00
+1033,Moqueca de Peixe,75.0,2025-01-29,22:00:00
+1033,Pudim de Leite,12.0,2025-01-29,22:00:00
+1034,Prato Feito (PF),28.0,2025-01-08,14:00:00
+1034,Cerveja Artesanal,18.0,2025-01-08,14:00:00
+1034,Pudim de Leite,12.0,2025-01-08,14:00:00
+1034,Feijoada Completa,55.0,2025-01-08,14:00:00
+1035,Prato Feito (PF),28.0,2025-01-03,18:00:00
+1035,Pudim de Leite,12.0,2025-01-03,18:00:00
+1035,Feijoada Completa,55.0,2025-01-03,18:00:00
+1036,Guaraná Antarctica,7.0,2025-01-20,14:00:00
+1036,Brigadeiro Gourmet,8.0,2025-01-20,14:00:00
+1036,Coxinha de Frango,10.0,2025-01-20,14:00:00
+1036,Feijoada Completa,55.0,2025-01-20,14:00:00
+1037,Prato Feito (PF),28.0,2025-01-27,21:00:00
+1038,Prato Feito (PF),28.0,2025-01-04,22:00:00
+1038,Suco de Laranja,9.0,2025-01-04,22:00:00
+1038,Pudim de Leite,12.0,2025-01-04,22:00:00
+1039,Caipirinha de Limão,22.0,2025-01-02,16:00:00
+1039,Arroz Carreteiro,38.0,2025-01-02,16:00:00
+1039,Brigadeiro Gourmet,8.0,2025-01-02,16:00:00
+1039,Feijoada Completa,55.0,2025-01-02,16:00:00
+1040,Brigadeiro Gourmet,8.0,2025-01-16,14:00:00
+1040,Moqueca de Peixe,75.0,2025-01-16,14:00:00
+1040,Feijoada Completa,55.0,2025-01-16,14:00:00
+1041,Caipirinha de Limão,22.0,2025-01-08,12:00:00
+1041,Feijoada Completa,55.0,2025-01-08,12:00:00
+1042,Coxinha de Frango,10.0,2025-01-13,13:00:00
+1043,Brigadeiro Gourmet,8.0,2025-01-31,13:00:00
+1043,Café Coado,6.0,2025-01-31,13:00:00
+1043,Feijoada Completa,55.0,2025-01-31,13:00:00
+1044,Brigadeiro Gourmet,8.0,2025-01-22,20:00:00
+1045,Arroz Carreteiro,38.0,2025-01-25,12:00:00
+1045,Café Coado,6.0,2025-01-25,12:00:00
+1046,Água de Coco,10.0,2025-01-23,15:00:00
+1046,Pudim de Leite,12.0,2025-01-23,15:00:00
+1046,Caipirinha de Limão,22.0,2025-01-23,15:00:00
+1046,Prato Feito (PF),28.0,2025-01-23,15:00:00
+1046,Brigadeiro Gourmet,8.0,2025-01-23,15:00:00
+1047,Caipirinha de Limão,22.0,2025-01-13,11:00:00
+1047,Feijoada Completa,55.0,2025-01-13,11:00:00
+1048,Cerveja Artesanal,18.0,2025-01-23,17:00:00
+1049,Pudim de Leite,12.0,2025-01-17,19:00:00
+1049,Feijoada Completa,55.0,2025-01-17,19:00:00
+1050,Guaraná Antarctica,7.0,2025-01-08,22:00:00
+1050,Coxinha de Frango,10.0,2025-01-08,22:00:00
+1051,Prato Feito (PF),28.0,2025-01-18,20:00:00
+1051,Brigadeiro Gourmet,8.0,2025-01-18,20:00:00
+1051,Água de Coco,10.0,2025-01-18,20:00:00
+1052,Caipirinha de Limão,22.0,2025-01-22,11:00:00
+1052,Feijoada Completa,55.0,2025-01-22,11:00:00
+1053,Moqueca de Peixe,75.0,2025-01-11,12:00:00
+1054,Prato Feito (PF),28.0,2025-01-05,15:00:00
+1054,Moqueca de Peixe,75.0,2025-01-05,15:00:00
+1054,Pudim de Leite,12.0,2025-01-05,15:00:00
+1055,Prato Feito (PF),28.0,2025-01-29,19:00:00
+1055,Café Coado,6.0,2025-01-29,19:00:00
+1055,Feijoada Completa,55.0,2025-01-29,19:00:00
+1056,Brigadeiro Gourmet,8.0,2025-01-04,16:00:00
+1056,Arroz Carreteiro,38.0,2025-01-04,16:00:00
+1057,Guaraná Antarctica,7.0,2025-01-06,14:00:00
+1057,Arroz Carreteiro,38.0,2025-01-06,14:00:00
+1058,Caipirinha de Limão,22.0,2025-01-04,18:00:00
+1058,Guaraná Antarctica,7.0,2025-01-04,18:00:00
+1058,Feijoada Completa,55.0,2025-01-04,18:00:00
+1059,Arroz Carreteiro,38.0,2025-01-12,15:00:00
+1059,Suco de Laranja,9.0,2025-01-12,15:00:00
+1060,Água de Coco,10.0,2025-01-02,18:00:00
+1060,Pudim de Leite,12.0,2025-01-02,18:00:00
+1060,Prato Feito (PF),28.0,2025-01-02,18:00:00
+1060,Brigadeiro Gourmet,8.0,2025-01-02,18:00:00
+1060,Pão de Queijo (Porção),15.0,2025-01-02,18:00:00
+1061,Caipirinha de Limão,22.0,2025-01-11,14:00:00
+1061,Água de Coco,10.0,2025-01-11,14:00:00
+1061,Cerveja Artesanal,18.0,2025-01-11,14:00:00
+1061,Feijoada Completa,55.0,2025-01-11,14:00:00
+1062,Guaraná Antarctica,7.0,2025-01-11,13:00:00
+1062,Água de Coco,10.0,2025-01-11,13:00:00
+1062,Pudim de Leite,12.0,2025-01-11,13:00:00
+1063,Prato Feito (PF),28.0,2025-01-22,11:00:00
+1063,Feijoada Completa,55.0,2025-01-22,11:00:00
+1064,Moqueca de Peixe,75.0,2025-01-18,19:00:00
+1065,Prato Feito (PF),28.0,2025-01-31,12:00:00
+1065,Pão de Queijo (Porção),15.0,2025-01-31,12:00:00
+1065,Suco de Laranja,9.0,2025-01-31,12:00:00
+1066,Suco de Laranja,9.0,2025-01-12,12:00:00
+1066,Café Coado,6.0,2025-01-12,12:00:00
+1066,Feijoada Completa,55.0,2025-01-12,12:00:00
+1067,Caipirinha de Limão,22.0,2025-01-20,14:00:00
+1067,Cerveja Artesanal,18.0,2025-01-20,14:00:00
+1067,Feijoada Completa,55.0,2025-01-20,14:00:00
+1068,Prato Feito (PF),28.0,2025-01-13,17:00:00
+1068,Pão de Queijo (Porção),15.0,2025-01-13,17:00:00
+1068,Cerveja Artesanal,18.0,2025-01-13,17:00:00
+1069,Cerveja Artesanal,18.0,2025-01-08,15:00:00
+1070,Prato Feito (PF),28.0,2025-01-03,20:00:00
+1070,Arroz Carreteiro,38.0,2025-01-03,20:00:00
+1070,Água de Coco,10.0,2025-01-03,20:00:00
+1070,Feijoada Completa,55.0,2025-01-03,20:00:00
+1071,Pudim de Leite,12.0,2025-01-26,16:00:00
+1072,Brigadeiro Gourmet,8.0,2025-01-09,16:00:00
+1072,Café Coado,6.0,2025-01-09,16:00:00
+1072,Caipirinha de Limão,22.0,2025-01-09,16:00:00
+1073,Pudim de Leite,12.0,2025-01-16,13:00:00
+1073,Caipirinha de Limão,22.0,2025-01-16,13:00:00
+1073,Feijoada Completa,55.0,2025-01-16,13:00:00
+1073,Brigadeiro Gourmet,8.0,2025-01-16,13:00:00
+1073,Pão de Queijo (Porção),15.0,2025-01-16,13:00:00
+1074,Prato Feito (PF),28.0,2025-01-10,21:00:00
+1074,Pão de Queijo (Porção),15.0,2025-01-10,21:00:00
+1074,Moqueca de Peixe,75.0,2025-01-10,21:00:00
+1075,Pão de Queijo (Porção),15.0,2025-01-08,20:00:00
+1076,Prato Feito (PF),28.0,2025-01-06,11:00:00
+1076,Pão de Queijo (Porção),15.0,2025-01-06,11:00:00
+1076,Pudim de Leite,12.0,2025-01-06,11:00:00
+1077,Água de Coco,10.0,2025-01-30,13:00:00
+1077,Pudim de Leite,12.0,2025-01-30,13:00:00
+1077,Café Coado,6.0,2025-01-30,13:00:00
+1077,Prato Feito (PF),28.0,2025-01-30,13:00:00
+1077,Moqueca de Peixe,75.0,2025-01-30,13:00:00
+1078,Prato Feito (PF),28.0,2025-01-11,11:00:00
+1078,Água de Coco,10.0,2025-01-11,11:00:00
+1078,Pudim de Leite,12.0,2025-01-11,11:00:00
+1079,Prato Feito (PF),28.0,2025-01-18,14:00:00
+1079,Moqueca de Peixe,75.0,2025-01-18,14:00:00
+1079,Cerveja Artesanal,18.0,2025-01-18,14:00:00
+1079,Feijoada Completa,55.0,2025-01-18,14:00:00
+1080,Prato Feito (PF),28.0,2025-01-06,22:00:00
+1080,Guaraná Antarctica,7.0,2025-01-06,22:00:00
+1080,Pudim de Leite,12.0,2025-01-06,22:00:00
+1080,Café Coado,6.0,2025-01-06,22:00:00
+1081,Prato Feito (PF),28.0,2025-01-04,15:00:00
+1081,Guaraná Antarctica,7.0,2025-01-04,15:00:00
+1081,Pudim de Leite,12.0,2025-01-04,15:00:00
+1082,Prato Feito (PF),28.0,2025-01-31,22:00:00
+1082,Pudim de Leite,12.0,2025-01-31,22:00:00
+1082,Café Coado,6.0,2025-01-31,22:00:00
+1083,Coxinha de Frango,10.0,2025-01-16,21:00:00
+1084,Prato Feito (PF),28.0,2025-01-26,13:00:00
+1084,Guaraná Antarctica,7.0,2025-01-26,13:00:00
+1084,Cerveja Artesanal,18.0,2025-01-26,13:00:00
+1084,Pudim de Leite,12.0,2025-01-26,13:00:00
+1085,Pão de Queijo (Porção),15.0,2025-01-17,15:00:00
+1085,Feijoada Completa,55.0,2025-01-17,15:00:00
+1086,Prato Feito (PF),28.0,2025-01-06,13:00:00
+1086,Pudim de Leite,12.0,2025-01-06,13:00:00
+1086,Caipirinha de Limão,22.0,2025-01-06,13:00:00
+1087,Prato Feito (PF),28.0,2025-01-24,12:00:00
+1087,Coxinha de Frango,10.0,2025-01-24,12:00:00
+1088,Pão de Queijo (Porção),15.0,2025-01-23,20:00:00
+1088,Pudim de Leite,12.0,2025-01-23,20:00:00
+1089,Café Coado,6.0,2025-01-24,12:00:00
+1089,Caipirinha de Limão,22.0,2025-01-24,12:00:00
+1090,Pudim de Leite,12.0,2025-01-25,18:00:00
+1091,Prato Feito (PF),28.0,2025-01-23,21:00:00
+1091,Guaraná Antarctica,7.0,2025-01-23,21:00:00
+1091,Feijoada Completa,55.0,2025-01-23,21:00:00
+1092,Prato Feito (PF),28.0,2025-01-08,16:00:00
+1092,Suco de Laranja,9.0,2025-01-08,16:00:00
+1093,Caipirinha de Limão,22.0,2025-01-08,14:00:00
+1093,Cerveja Artesanal,18.0,2025-01-08,14:00:00
+1093,Café Coado,6.0,2025-01-08,14:00:00
+1093,Feijoada Completa,55.0,2025-01-08,14:00:00
+1094,Brigadeiro Gourmet,8.0,2025-01-01,16:00:00
+1094,Arroz Carreteiro,38.0,2025-01-01,16:00:00
+1094,Água de Coco,10.0,2025-01-01,16:00:00
+1095,Pudim de Leite,12.0,2025-01-25,12:00:00
+1095,Caipirinha de Limão,22.0,2025-01-25,12:00:00
+1095,Prato Feito (PF),28.0,2025-01-25,12:00:00
+1095,Arroz Carreteiro,38.0,2025-01-25,12:00:00
+1095,Pão de Queijo (Porção),15.0,2025-01-25,12:00:00
+1096,Prato Feito (PF),28.0,2025-01-02,15:00:00
+1096,Moqueca de Peixe,75.0,2025-01-02,15:00:00
+1096,Coxinha de Frango,10.0,2025-01-02,15:00:00
+1097,Prato Feito (PF),28.0,2025-01-28,18:00:00
+1097,Moqueca de Peixe,75.0,2025-01-28,18:00:00
+1097,Coxinha de Frango,10.0,2025-01-28,18:00:00
+1097,Pudim de Leite,12.0,2025-01-28,18:00:00
+1098,Caipirinha de Limão,22.0,2025-01-06,20:00:00
+1098,Moqueca de Peixe,75.0,2025-01-06,20:00:00
+1098,Feijoada Completa,55.0,2025-01-06,20:00:00
+1099,Brigadeiro Gourmet,8.0,2025-01-21,21:00:00
+1099,Feijoada Completa,55.0,2025-01-21,21:00:00
+1100,Caipirinha de Limão,22.0,2025-01-02,11:00:00
+1100,Guaraná Antarctica,7.0,2025-01-02,11:00:00
+1100,Feijoada Completa,55.0,2025-01-02,11:00:00
+1101,Prato Feito (PF),28.0,2025-01-28,17:00:00
+1101,Feijoada Completa,55.0,2025-01-28,17:00:00
+1102,Caipirinha de Limão,22.0,2025-01-29,19:00:00
+1102,Guaraná Antarctica,7.0,2025-01-29,19:00:00
+1102,Café Coado,6.0,2025-01-29,19:00:00
+1102,Feijoada Completa,55.0,2025-01-29,19:00:00
+1103,Caipirinha de Limão,22.0,2025-01-13,13:00:00
+1103,Cerveja Artesanal,18.0,2025-01-13,13:00:00
+1103,Café Coado,6.0,2025-01-13,13:00:00
+1103,Feijoada Completa,55.0,2025-01-13,13:00:00
+1104,Prato Feito (PF),28.0,2025-01-30,18:00:00
+1104,Suco de Laranja,9.0,2025-01-30,18:00:00
+1104,Pudim de Leite,12.0,2025-01-30,18:00:00
+1105,Caipirinha de Limão,22.0,2025-01-21,12:00:00
+1105,Suco de Laranja,9.0,2025-01-21,12:00:00
+1105,Feijoada Completa,55.0,2025-01-21,12:00:00
+1106,Prato Feito (PF),28.0,2025-01-12,14:00:00
+1106,Caipirinha de Limão,22.0,2025-01-12,14:00:00
+1107,Água de Coco,10.0,2025-01-28,14:00:00
+1107,Pudim de Leite,12.0,2025-01-28,14:00:00
+1107,Prato Feito (PF),28.0,2025-01-28,14:00:00
+1107,Brigadeiro Gourmet,8.0,2025-01-28,14:00:00
+1107,Pão de Queijo (Porção),15.0,2025-01-28,14:00:00
+1108,Água de Coco,10.0,2025-01-05,17:00:00
+1109,Suco de Laranja,9.0,2025-01-31,20:00:00
+1110,Guaraná Antarctica,7.0,2025-01-30,12:00:00
+1110,Coxinha de Frango,10.0,2025-01-30,12:00:00
+1110,Suco de Laranja,9.0,2025-01-30,12:00:00
+1111,Prato Feito (PF),28.0,2025-01-13,21:00:00
+1111,Pão de Queijo (Porção),15.0,2025-01-13,21:00:00
+1111,Pudim de Leite,12.0,2025-01-13,21:00:00
+1111,Caipirinha de Limão,22.0,2025-01-13,21:00:00
+1112,Caipirinha de Limão,22.0,2025-01-04,12:00:00
+1112,Guaraná Antarctica,7.0,2025-01-04,12:00:00
+1112,Feijoada Completa,55.0,2025-01-04,12:00:00
+1113,Caipirinha de Limão,22.0,2025-01-26,18:00:00
+1113,Pão de Queijo (Porção),15.0,2025-01-26,18:00:00
+1113,Cerveja Artesanal,18.0,2025-01-26,18:00:00
+1113,Feijoada Completa,55.0,2025-01-26,18:00:00
+1114,Coxinha de Frango,10.0,2025-01-08,22:00:00
+1114,Café Coado,6.0,2025-01-08,22:00:00
+1114,Caipirinha de Limão,22.0,2025-01-08,22:00:00
+1115,Brigadeiro Gourmet,8.0,2025-01-26,14:00:00
+1115,Água de Coco,10.0,2025-01-26,14:00:00
+1116,Água de Coco,10.0,2025-01-18,18:00:00
+1116,Suco de Laranja,9.0,2025-01-18,18:00:00
+1117,Suco de Laranja,9.0,2025-01-22,22:00:00
+1118,Prato Feito (PF),28.0,2025-01-20,18:00:00
+1118,Água de Coco,10.0,2025-01-20,18:00:00
+1118,Pudim de Leite,12.0,2025-01-20,18:00:00
+1119,Moqueca de Peixe,75.0,2025-01-15,14:00:00
+1120,Caipirinha de Limão,22.0,2025-01-14,14:00:00
+1121,Guaraná Antarctica,7.0,2025-01-20,12:00:00
+1121,Brigadeiro Gourmet,8.0,2025-01-20,12:00:00
+1122,Guaraná Antarctica,7.0,2025-01-08,13:00:00
+1122,Moqueca de Peixe,75.0,2025-01-08,13:00:00
+1123,Caipirinha de Limão,22.0,2025-01-26,13:00:00
+1123,Feijoada Completa,55.0,2025-01-26,13:00:00
+1124,Arroz Carreteiro,38.0,2025-01-27,18:00:00
+1124,Cerveja Artesanal,18.0,2025-01-27,18:00:00
+1125,Brigadeiro Gourmet,8.0,2025-01-24,20:00:00
+1126,Caipirinha de Limão,22.0,2025-01-23,12:00:00
+1126,Pudim de Leite,12.0,2025-01-23,12:00:00
+1126,Café Coado,6.0,2025-01-23,12:00:00
+1126,Feijoada Completa,55.0,2025-01-23,12:00:00
+1127,Prato Feito (PF),28.0,2025-01-01,13:00:00
+1127,Guaraná Antarctica,7.0,2025-01-01,13:00:00
+1127,Pudim de Leite,12.0,2025-01-01,13:00:00
+1127,Caipirinha de Limão,22.0,2025-01-01,13:00:00
+1128,Cerveja Artesanal,18.0,2025-01-29,13:00:00
+1128,Suco de Laranja,9.0,2025-01-29,13:00:00
+1128,Água de Coco,10.0,2025-01-29,13:00:00
+1129,Moqueca de Peixe,75.0,2025-01-31,19:00:00
+1129,Suco de Laranja,9.0,2025-01-31,19:00:00
+1130,Pudim de Leite,12.0,2025-01-28,19:00:00
+1130,Café Coado,6.0,2025-01-28,19:00:00
+1130,Feijoada Completa,55.0,2025-01-28,19:00:00
+1130,Prato Feito (PF),28.0,2025-01-28,19:00:00
+1130,Brigadeiro Gourmet,8.0,2025-01-28,19:00:00
+1131,Moqueca de Peixe,75.0,2025-01-19,16:00:00
+1131,Suco de Laranja,9.0,2025-01-19,16:00:00
+1131,Feijoada Completa,55.0,2025-01-19,16:00:00
+1132,Prato Feito (PF),28.0,2025-01-24,19:00:00
+1132,Pão de Queijo (Porção),15.0,2025-01-24,19:00:00
+1132,Suco de Laranja,9.0,2025-01-24,19:00:00
+1133,Pudim de Leite,12.0,2025-01-27,22:00:00
+1134,Cerveja Artesanal,18.0,2025-01-03,21:00:00
+1135,Moqueca de Peixe,75.0,2025-01-09,21:00:00
+1135,Coxinha de Frango,10.0,2025-01-09,21:00:00
+1135,Feijoada Completa,55.0,2025-01-09,21:00:00
+1136,Coxinha de Frango,10.0,2025-01-03,14:00:00
+1137,Guaraná Antarctica,7.0,2025-01-13,14:00:00
+1137,Arroz Carreteiro,38.0,2025-01-13,14:00:00
+1137,Café Coado,6.0,2025-01-13,14:00:00
+1138,Caipirinha de Limão,22.0,2025-01-16,20:00:00
+1138,Arroz Carreteiro,38.0,2025-01-16,20:00:00
+1138,Suco de Laranja,9.0,2025-01-16,20:00:00
+1138,Feijoada Completa,55.0,2025-01-16,20:00:00
+1139,Prato Feito (PF),28.0,2025-01-10,15:00:00
+1139,Água de Coco,10.0,2025-01-10,15:00:00
+1140,Prato Feito (PF),28.0,2025-01-03,22:00:00
+1140,Pudim de Leite,12.0,2025-01-03,22:00:00
+1140,Caipirinha de Limão,22.0,2025-01-03,22:00:00
+1141,Brigadeiro Gourmet,8.0,2025-01-05,20:00:00
+1142,Caipirinha de Limão,22.0,2025-01-13,17:00:00
+1142,Prato Feito (PF),28.0,2025-01-13,17:00:00
+1142,Feijoada Completa,55.0,2025-01-13,17:00:00
+1143,Moqueca de Peixe,75.0,2025-01-28,21:00:00
+1143,Suco de Laranja,9.0,2025-01-28,21:00:00
+1144,Guaraná Antarctica,7.0,2025-01-31,18:00:00
+1144,Água de Coco,10.0,2025-01-31,18:00:00
+1144,Caipirinha de Limão,22.0,2025-01-31,18:00:00
+1144,Feijoada Completa,55.0,2025-01-31,18:00:00
+1144,Moqueca de Peixe,75.0,2025-01-31,18:00:00
+1145,Guaraná Antarctica,7.0,2025-01-24,21:00:00
+1145,Pão de Queijo (Porção),15.0,2025-01-24,21:00:00
+1145,Coxinha de Frango,10.0,2025-01-24,21:00:00
+1146,Guaraná Antarctica,7.0,2025-01-21,13:00:00
+1146,Pão de Queijo (Porção),15.0,2025-01-21,13:00:00
+1147,Cerveja Artesanal,18.0,2025-01-05,17:00:00
+1148,Suco de Laranja,9.0,2025-01-06,18:00:00
+1149,Arroz Carreteiro,38.0,2025-01-08,20:00:00
+1149,Moqueca de Peixe,75.0,2025-01-08,20:00:00
+1149,Caipirinha de Limão,22.0,2025-01-08,20:00:00
+1150,Guaraná Antarctica,7.0,2025-01-22,11:00:00
+1151,Caipirinha de Limão,22.0,2025-01-18,20:00:00
+1151,Água de Coco,10.0,2025-01-18,20:00:00
+1151,Feijoada Completa,55.0,2025-01-18,20:00:00
+1152,Cerveja Artesanal,18.0,2025-01-23,18:00:00
+1153,Caipirinha de Limão,22.0,2025-01-13,14:00:00
+1153,Suco de Laranja,9.0,2025-01-13,14:00:00
+1153,Água de Coco,10.0,2025-01-13,14:00:00
+1153,Feijoada Completa,55.0,2025-01-13,14:00:00
+1154,Prato Feito (PF),28.0,2025-01-12,21:00:00
+1154,Arroz Carreteiro,38.0,2025-01-12,21:00:00
+1154,Moqueca de Peixe,75.0,2025-01-12,21:00:00
+1155,Prato Feito (PF),28.0,2025-01-23,17:00:00
+1155,Pudim de Leite,12.0,2025-01-23,17:00:00
+1155,Caipirinha de Limão,22.0,2025-01-23,17:00:00
+1156,Caipirinha de Limão,22.0,2025-01-30,15:00:00
+1156,Prato Feito (PF),28.0,2025-01-30,15:00:00
+1156,Suco de Laranja,9.0,2025-01-30,15:00:00
+1156,Feijoada Completa,55.0,2025-01-30,15:00:00
+1157,Prato Feito (PF),28.0,2025-01-19,21:00:00
+1157,Água de Coco,10.0,2025-01-19,21:00:00
+1157,Pudim de Leite,12.0,2025-01-19,21:00:00
+1157,Café Coado,6.0,2025-01-19,21:00:00
+1158,Pão de Queijo (Porção),15.0,2025-01-01,15:00:00
+1158,Cerveja Artesanal,18.0,2025-01-01,15:00:00
+1158,Café Coado,6.0,2025-01-01,15:00:00
+1159,Arroz Carreteiro,38.0,2025-01-23,22:00:00
+1159,Pão de Queijo (Porção),15.0,2025-01-23,22:00:00
+1159,Coxinha de Frango,10.0,2025-01-23,22:00:00
+1160,Arroz Carreteiro,38.0,2025-01-20,14:00:00
+1161,Prato Feito (PF),28.0,2025-01-04,15:00:00
+1161,Feijoada Completa,55.0,2025-01-04,15:00:00
+1162,Prato Feito (PF),28.0,2025-01-30,16:00:00
+1162,Coxinha de Frango,10.0,2025-01-30,16:00:00
+1162,Cerveja Artesanal,18.0,2025-01-30,16:00:00
+1162,Feijoada Completa,55.0,2025-01-30,16:00:00
+1163,Pão de Queijo (Porção),15.0,2025-01-31,15:00:00
+1163,Coxinha de Frango,10.0,2025-01-31,15:00:00
+1163,Feijoada Completa,55.0,2025-01-31,15:00:00
+1164,Pudim de Leite,12.0,2025-01-18,18:00:00
+1165,Prato Feito (PF),28.0,2025-01-17,13:00:00
+1165,Guaraná Antarctica,7.0,2025-01-17,13:00:00
+1165,Pudim de Leite,12.0,2025-01-17,13:00:00
+1166,Guaraná Antarctica,7.0,2025-01-30,22:00:00
+1166,Feijoada Completa,55.0,2025-01-30,22:00:00
+1167,Caipirinha de Limão,22.0,2025-01-11,20:00:00
+1167,Brigadeiro Gourmet,8.0,2025-01-11,20:00:00
+1167,Água de Coco,10.0,2025-01-11,20:00:00
+1167,Feijoada Completa,55.0,2025-01-11,20:00:00
+1168,Guaraná Antarctica,7.0,2025-01-03,20:00:00
+1168,Água de Coco,10.0,2025-01-03,20:00:00
+1168,Suco de Laranja,9.0,2025-01-03,20:00:00
+1169,Brigadeiro Gourmet,8.0,2025-01-15,22:00:00
+1169,Cerveja Artesanal,18.0,2025-01-15,22:00:00
+1169,Água de Coco,10.0,2025-01-15,22:00:00
+1170,Caipirinha de Limão,22.0,2025-01-27,21:00:00
+1170,Arroz Carreteiro,38.0,2025-01-27,21:00:00
+1170,Coxinha de Frango,10.0,2025-01-27,21:00:00
+1170,Feijoada Completa,55.0,2025-01-27,21:00:00
+1171,Prato Feito (PF),28.0,2025-01-01,11:00:00
+1171,Pão de Queijo (Porção),15.0,2025-01-01,11:00:00
+1171,Pudim de Leite,12.0,2025-01-01,11:00:00
+1172,Caipirinha de Limão,22.0,2025-01-31,22:00:00
+1172,Moqueca de Peixe,75.0,2025-01-31,22:00:00
+1172,Guaraná Antarctica,7.0,2025-01-31,22:00:00
+1172,Feijoada Completa,55.0,2025-01-31,22:00:00
+1173,Pudim de Leite,12.0,2025-01-11,21:00:00
+1174,Prato Feito (PF),28.0,2025-01-18,20:00:00
+1174,Moqueca de Peixe,75.0,2025-01-18,20:00:00
+1174,Pudim de Leite,12.0,2025-01-18,20:00:00
+1174,Caipirinha de Limão,22.0,2025-01-18,20:00:00
+1175,Cerveja Artesanal,18.0,2025-01-20,16:00:00
+1176,Prato Feito (PF),28.0,2025-01-22,16:00:00
+1176,Guaraná Antarctica,7.0,2025-01-22,16:00:00
+1176,Coxinha de Frango,10.0,2025-01-22,16:00:00
+1176,Pudim de Leite,12.0,2025-01-22,16:00:00
+1177,Caipirinha de Limão,22.0,2025-01-04,16:00:00
+1177,Moqueca de Peixe,75.0,2025-01-04,16:00:00
+1177,Feijoada Completa,55.0,2025-01-04,16:00:00
+1178,Prato Feito (PF),28.0,2025-01-31,20:00:00
+1178,Coxinha de Frango,10.0,2025-01-31,20:00:00
+1178,Pudim de Leite,12.0,2025-01-31,20:00:00
+1178,Feijoada Completa,55.0,2025-01-31,20:00:00
+1179,Caipirinha de Limão,22.0,2025-01-04,19:00:00
+1179,Prato Feito (PF),28.0,2025-01-04,19:00:00
+1179,Cerveja Artesanal,18.0,2025-01-04,19:00:00
+1179,Feijoada Completa,55.0,2025-01-04,19:00:00
+1180,Guaraná Antarctica,7.0,2025-01-16,14:00:00
+1180,Água de Coco,10.0,2025-01-16,14:00:00
+1180,Caipirinha de Limão,22.0,2025-01-16,14:00:00
+1180,Feijoada Completa,55.0,2025-01-16,14:00:00
+1180,Brigadeiro Gourmet,8.0,2025-01-16,14:00:00
+1181,Prato Feito (PF),28.0,2025-01-20,17:00:00
+1181,Moqueca de Peixe,75.0,2025-01-20,17:00:00
+1181,Água de Coco,10.0,2025-01-20,17:00:00
+1182,Prato Feito (PF),28.0,2025-01-23,16:00:00
+1182,Pão de Queijo (Porção),15.0,2025-01-23,16:00:00
+1182,Moqueca de Peixe,75.0,2025-01-23,16:00:00
+1183,Guaraná Antarctica,7.0,2025-01-02,17:00:00
+1183,Moqueca de Peixe,75.0,2025-01-02,17:00:00
+1183,Café Coado,6.0,2025-01-02,17:00:00
+1184,Caipirinha de Limão,22.0,2025-01-29,19:00:00
+1184,Arroz Carreteiro,38.0,2025-01-29,19:00:00
+1184,Pudim de Leite,12.0,2025-01-29,19:00:00
+1184,Feijoada Completa,55.0,2025-01-29,19:00:00
+1185,Guaraná Antarctica,7.0,2025-01-22,15:00:00
+1185,Pudim de Leite,12.0,2025-01-22,15:00:00
+1185,Feijoada Completa,55.0,2025-01-22,15:00:00
+1185,Prato Feito (PF),28.0,2025-01-22,15:00:00
+1185,Moqueca de Peixe,75.0,2025-01-22,15:00:00
+1186,Prato Feito (PF),28.0,2025-01-22,13:00:00
+1186,Arroz Carreteiro,38.0,2025-01-22,13:00:00
+1186,Pudim de Leite,12.0,2025-01-22,13:00:00
+1187,Prato Feito (PF),28.0,2025-01-18,14:00:00
+1187,Arroz Carreteiro,38.0,2025-01-18,14:00:00
+1187,Pudim de Leite,12.0,2025-01-18,14:00:00
+1188,Pão de Queijo (Porção),15.0,2025-01-20,21:00:00
+1189,Feijoada Completa,55.0,2025-01-27,15:00:00
+1190,Prato Feito (PF),28.0,2025-01-05,19:00:00
+1190,Pudim de Leite,12.0,2025-01-05,19:00:00
+1190,Feijoada Completa,55.0,2025-01-05,19:00:00
+1191,Prato Feito (PF),28.0,2025-01-12,22:00:00
+1191,Arroz Carreteiro,38.0,2025-01-12,22:00:00
+1191,Pão de Queijo (Porção),15.0,2025-01-12,22:00:00
+1191,Café Coado,6.0,2025-01-12,22:00:00
+1192,Prato Feito (PF),28.0,2025-01-17,19:00:00
+1192,Pão de Queijo (Porção),15.0,2025-01-17,19:00:00
+1192,Pudim de Leite,12.0,2025-01-17,19:00:00
+1193,Caipirinha de Limão,22.0,2025-01-19,13:00:00
+1193,Brigadeiro Gourmet,8.0,2025-01-19,13:00:00
+1193,Pudim de Leite,12.0,2025-01-19,13:00:00
+1193,Feijoada Completa,55.0,2025-01-19,13:00:00
+1194,Prato Feito (PF),28.0,2025-01-26,22:00:00
+1194,Café Coado,6.0,2025-01-26,22:00:00
+1195,Prato Feito (PF),28.0,2025-01-20,15:00:00
+1195,Arroz Carreteiro,38.0,2025-01-20,15:00:00
+1195,Pudim de Leite,12.0,2025-01-20,15:00:00
+1196,Caipirinha de Limão,22.0,2025-01-18,18:00:00
+1196,Prato Feito (PF),28.0,2025-01-18,18:00:00
+1196,Feijoada Completa,55.0,2025-01-18,18:00:00
+1197,Caipirinha de Limão,22.0,2025-01-16,17:00:00
+1197,Feijoada Completa,55.0,2025-01-16,17:00:00
+1198,Prato Feito (PF),28.0,2025-01-10,19:00:00
+1198,Feijoada Completa,55.0,2025-01-10,19:00:00
+1199,Coxinha de Frango,10.0,2025-01-11,21:00:00
+1199,Café Coado,6.0,2025-01-11,21:00:00
+1200,Arroz Carreteiro,38.0,2025-01-29,15:00:00
+1200,Moqueca de Peixe,75.0,2025-01-29,15:00:00
+1200,Caipirinha de Limão,22.0,2025-01-29,15:00:00
+1201,Prato Feito (PF),28.0,2025-01-15,16:00:00
+1201,Água de Coco,10.0,2025-01-15,16:00:00
+1201,Pudim de Leite,12.0,2025-01-15,16:00:00
+1201,Suco de Laranja,9.0,2025-01-15,16:00:00
+1202,Caipirinha de Limão,22.0,2025-01-11,15:00:00
+1202,Cerveja Artesanal,18.0,2025-01-11,15:00:00
+1202,Feijoada Completa,55.0,2025-01-11,15:00:00
+1203,Prato Feito (PF),28.0,2025-01-15,16:00:00
+1203,Pudim de Leite,12.0,2025-01-15,16:00:00
+1203,Caipirinha de Limão,22.0,2025-01-15,16:00:00
+1204,Pudim de Leite,12.0,2025-01-10,14:00:00
+1204,Café Coado,6.0,2025-01-10,14:00:00
+1204,Prato Feito (PF),28.0,2025-01-10,14:00:00
+1204,Coxinha de Frango,10.0,2025-01-10,14:00:00
+1204,Pão de Queijo (Porção),15.0,2025-01-10,14:00:00
+1205,Prato Feito (PF),28.0,2025-01-26,20:00:00
+1205,Guaraná Antarctica,7.0,2025-01-26,20:00:00
+1206,Caipirinha de Limão,22.0,2025-01-25,13:00:00
+1206,Feijoada Completa,55.0,2025-01-25,13:00:00
+1207,Prato Feito (PF),28.0,2025-01-21,19:00:00
+1207,Água de Coco,10.0,2025-01-21,19:00:00
+1207,Pudim de Leite,12.0,2025-01-21,19:00:00
+1208,Prato Feito (PF),28.0,2025-01-04,16:00:00
+1208,Caipirinha de Limão,22.0,2025-01-04,16:00:00
+1209,Pão de Queijo (Porção),15.0,2025-01-03,15:00:00
+1209,Caipirinha de Limão,22.0,2025-01-03,15:00:00
+1210,Caipirinha de Limão,22.0,2025-01-09,13:00:00
+1210,Prato Feito (PF),28.0,2025-01-09,13:00:00
+1210,Feijoada Completa,55.0,2025-01-09,13:00:00
+1211,Pão de Queijo (Porção),15.0,2025-01-22,12:00:00
+1211,Feijoada Completa,55.0,2025-01-22,12:00:00
+1212,Coxinha de Frango,10.0,2025-01-14,14:00:00
+1213,Moqueca de Peixe,75.0,2025-01-13,14:00:00
+1214,Guaraná Antarctica,7.0,2025-01-26,15:00:00
+1214,Pudim de Leite,12.0,2025-01-26,15:00:00
+1214,Prato Feito (PF),28.0,2025-01-26,15:00:00
+1215,Pão de Queijo (Porção),15.0,2025-01-01,17:00:00
+1216,Guaraná Antarctica,7.0,2025-01-23,17:00:00
+1217,Arroz Carreteiro,38.0,2025-01-08,12:00:00
+1218,Coxinha de Frango,10.0,2025-01-14,21:00:00
+1219,Caipirinha de Limão,22.0,2025-01-08,11:00:00
+1219,Coxinha de Frango,10.0,2025-01-08,11:00:00
+1219,Pudim de Leite,12.0,2025-01-08,11:00:00
+1219,Feijoada Completa,55.0,2025-01-08,11:00:00
+1220,Prato Feito (PF),28.0,2025-01-11,20:00:00
+1220,Água de Coco,10.0,2025-01-11,20:00:00
+1220,Pudim de Leite,12.0,2025-01-11,20:00:00
+1221,Prato Feito (PF),28.0,2025-01-18,14:00:00
+1221,Pão de Queijo (Porção),15.0,2025-01-18,14:00:00
+1221,Pudim de Leite,12.0,2025-01-18,14:00:00
+1222,Caipirinha de Limão,22.0,2025-01-09,22:00:00
+1222,Café Coado,6.0,2025-01-09,22:00:00
+1222,Feijoada Completa,55.0,2025-01-09,22:00:00
+1222,Moqueca de Peixe,75.0,2025-01-09,22:00:00
+1222,Pão de Queijo (Porção),15.0,2025-01-09,22:00:00
+1223,Pudim de Leite,12.0,2025-01-09,13:00:00
+1224,Caipirinha de Limão,22.0,2025-01-16,13:00:00
+1224,Coxinha de Frango,10.0,2025-01-16,13:00:00
+1224,Feijoada Completa,55.0,2025-01-16,13:00:00
+1225,Prato Feito (PF),28.0,2025-01-20,12:00:00
+1225,Pão de Queijo (Porção),15.0,2025-01-20,12:00:00
+1225,Caipirinha de Limão,22.0,2025-01-20,12:00:00
+1226,Prato Feito (PF),28.0,2025-01-15,18:00:00
+1226,Brigadeiro Gourmet,8.0,2025-01-15,18:00:00
+1226,Pudim de Leite,12.0,2025-01-15,18:00:00
+1226,Feijoada Completa,55.0,2025-01-15,18:00:00
+1227,Guaraná Antarctica,7.0,2025-01-07,18:00:00
+1227,Cerveja Artesanal,18.0,2025-01-07,18:00:00
+1228,Água de Coco,10.0,2025-01-13,19:00:00
+1229,Caipirinha de Limão,22.0,2025-01-04,13:00:00
+1229,Arroz Carreteiro,38.0,2025-01-04,13:00:00
+1229,Água de Coco,10.0,2025-01-04,13:00:00
+1229,Feijoada Completa,55.0,2025-01-04,13:00:00
+1230,Moqueca de Peixe,75.0,2025-01-15,13:00:00
+1230,Água de Coco,10.0,2025-01-15,13:00:00
+1231,Prato Feito (PF),28.0,2025-01-31,14:00:00
+1231,Pudim de Leite,12.0,2025-01-31,14:00:00
+1232,Cerveja Artesanal,18.0,2025-01-21,16:00:00
+1232,Feijoada Completa,55.0,2025-01-21,16:00:00
+1233,Água de Coco,10.0,2025-01-27,15:00:00
+1233,Caipirinha de Limão,22.0,2025-01-27,15:00:00
+1233,Feijoada Completa,55.0,2025-01-27,15:00:00
+1233,Moqueca de Peixe,75.0,2025-01-27,15:00:00
+1233,Pão de Queijo (Porção),15.0,2025-01-27,15:00:00
+1234,Caipirinha de Limão,22.0,2025-01-25,14:00:00
+1234,Arroz Carreteiro,38.0,2025-01-25,14:00:00
+1234,Água de Coco,10.0,2025-01-25,14:00:00
+1234,Feijoada Completa,55.0,2025-01-25,14:00:00
+1235,Prato Feito (PF),28.0,2025-01-09,14:00:00
+1235,Arroz Carreteiro,38.0,2025-01-09,14:00:00
+1235,Água de Coco,10.0,2025-01-09,14:00:00
+1235,Caipirinha de Limão,22.0,2025-01-09,14:00:00
+1236,Água de Coco,10.0,2025-01-23,12:00:00
+1236,Pudim de Leite,12.0,2025-01-23,12:00:00
+1236,Caipirinha de Limão,22.0,2025-01-23,12:00:00
+1236,Feijoada Completa,55.0,2025-01-23,12:00:00
+1236,Moqueca de Peixe,75.0,2025-01-23,12:00:00
+1237,Prato Feito (PF),28.0,2025-01-19,11:00:00
+1238,Cerveja Artesanal,18.0,2025-01-21,11:00:00
+1239,Prato Feito (PF),28.0,2025-01-08,22:00:00
+1239,Arroz Carreteiro,38.0,2025-01-08,22:00:00
+1239,Coxinha de Frango,10.0,2025-01-08,22:00:00
+1240,Suco de Laranja,9.0,2025-01-21,12:00:00
+1241,Caipirinha de Limão,22.0,2025-01-08,13:00:00
+1241,Cerveja Artesanal,18.0,2025-01-08,13:00:00
+1241,Feijoada Completa,55.0,2025-01-08,13:00:00
+1242,Arroz Carreteiro,38.0,2025-01-25,20:00:00
+1243,Cerveja Artesanal,18.0,2025-01-07,19:00:00
+1243,Pudim de Leite,12.0,2025-01-07,19:00:00
+1243,Feijoada Completa,55.0,2025-01-07,19:00:00
+1244,Coxinha de Frango,10.0,2025-01-10,13:00:00
+1244,Cerveja Artesanal,18.0,2025-01-10,13:00:00
+1244,Feijoada Completa,55.0,2025-01-10,13:00:00
+1245,Prato Feito (PF),28.0,2025-01-20,11:00:00
+1245,Água de Coco,10.0,2025-01-20,11:00:00
+1246,Pão de Queijo (Porção),15.0,2025-01-09,19:00:00
+1246,Coxinha de Frango,10.0,2025-01-09,19:00:00
+1246,Água de Coco,10.0,2025-01-09,19:00:00
+1247,Caipirinha de Limão,22.0,2025-01-13,11:00:00
+1247,Feijoada Completa,55.0,2025-01-13,11:00:00
+1248,Caipirinha de Limão,22.0,2025-01-08,12:00:00
+1248,Feijoada Completa,55.0,2025-01-08,12:00:00
+1248,Suco de Laranja,9.0,2025-01-08,12:00:00
+1248,Brigadeiro Gourmet,8.0,2025-01-08,12:00:00
+1248,Pão de Queijo (Porção),15.0,2025-01-08,12:00:00
+1249,Caipirinha de Limão,22.0,2025-01-13,21:00:00
+1249,Prato Feito (PF),28.0,2025-01-13,21:00:00
+1249,Brigadeiro Gourmet,8.0,2025-01-13,21:00:00
+1249,Feijoada Completa,55.0,2025-01-13,21:00:00
+1250,Arroz Carreteiro,38.0,2025-01-04,19:00:00
+1250,Pão de Queijo (Porção),15.0,2025-01-04,19:00:00
+1250,Coxinha de Frango,10.0,2025-01-04,19:00:00
+1251,Prato Feito (PF),28.0,2025-01-24,21:00:00
+1251,Coxinha de Frango,10.0,2025-01-24,21:00:00
+1251,Água de Coco,10.0,2025-01-24,21:00:00
+1251,Pudim de Leite,12.0,2025-01-24,21:00:00
+1252,Caipirinha de Limão,22.0,2025-01-31,14:00:00
+1253,Prato Feito (PF),28.0,2025-01-23,17:00:00
+1253,Cerveja Artesanal,18.0,2025-01-23,17:00:00
+1253,Pudim de Leite,12.0,2025-01-23,17:00:00
+1254,Pudim de Leite,12.0,2025-01-09,14:00:00
+1255,Caipirinha de Limão,22.0,2025-01-28,16:00:00
+1255,Arroz Carreteiro,38.0,2025-01-28,16:00:00
+1255,Feijoada Completa,55.0,2025-01-28,16:00:00
+1256,Prato Feito (PF),28.0,2025-01-02,11:00:00
+1256,Cerveja Artesanal,18.0,2025-01-02,11:00:00
+1256,Pudim de Leite,12.0,2025-01-02,11:00:00
+1257,Prato Feito (PF),28.0,2025-01-05,15:00:00
+1257,Pudim de Leite,12.0,2025-01-05,15:00:00
+1258,Brigadeiro Gourmet,8.0,2025-01-05,18:00:00
+1258,Arroz Carreteiro,38.0,2025-01-05,18:00:00
+1258,Moqueca de Peixe,75.0,2025-01-05,18:00:00
+1259,Prato Feito (PF),28.0,2025-01-26,20:00:00
+1259,Pudim de Leite,12.0,2025-01-26,20:00:00
+1259,Feijoada Completa,55.0,2025-01-26,20:00:00
+1260,Caipirinha de Limão,22.0,2025-01-16,12:00:00
+1260,Coxinha de Frango,10.0,2025-01-16,12:00:00
+1260,Feijoada Completa,55.0,2025-01-16,12:00:00
+1261,Prato Feito (PF),28.0,2025-01-25,22:00:00
+1261,Água de Coco,10.0,2025-01-25,22:00:00
+1261,Pudim de Leite,12.0,2025-01-25,22:00:00
+1262,Água de Coco,10.0,2025-01-01,20:00:00
+1262,Pudim de Leite,12.0,2025-01-01,20:00:00
+1262,Caipirinha de Limão,22.0,2025-01-01,20:00:00
+1262,Prato Feito (PF),28.0,2025-01-01,20:00:00
+1262,Moqueca de Peixe,75.0,2025-01-01,20:00:00
+1263,Prato Feito (PF),28.0,2025-01-20,11:00:00
+1263,Pudim de Leite,12.0,2025-01-20,11:00:00
+1264,Guaraná Antarctica,7.0,2025-01-27,12:00:00
+1264,Feijoada Completa,55.0,2025-01-27,12:00:00
+1265,Pão de Queijo (Porção),15.0,2025-01-13,17:00:00
+1265,Coxinha de Frango,10.0,2025-01-13,17:00:00
+1266,Brigadeiro Gourmet,8.0,2025-01-20,17:00:00
+1267,Arroz Carreteiro,38.0,2025-01-17,20:00:00
+1267,Coxinha de Frango,10.0,2025-01-17,20:00:00
+1267,Pudim de Leite,12.0,2025-01-17,20:00:00
+1268,Prato Feito (PF),28.0,2025-01-06,15:00:00
+1268,Pão de Queijo (Porção),15.0,2025-01-06,15:00:00
+1268,Pudim de Leite,12.0,2025-01-06,15:00:00
+1268,Feijoada Completa,55.0,2025-01-06,15:00:00
+1269,Prato Feito (PF),28.0,2025-01-16,19:00:00
+1269,Pudim de Leite,12.0,2025-01-16,19:00:00
+1270,Pudim de Leite,12.0,2025-01-13,18:00:00
+1271,Prato Feito (PF),28.0,2025-01-28,19:00:00
+1271,Pão de Queijo (Porção),15.0,2025-01-28,19:00:00
+1271,Pudim de Leite,12.0,2025-01-28,19:00:00
+1271,Caipirinha de Limão,22.0,2025-01-28,19:00:00
+1272,Pudim de Leite,12.0,2025-01-02,12:00:00
+1272,Caipirinha de Limão,22.0,2025-01-02,12:00:00
+1272,Feijoada Completa,55.0,2025-01-02,12:00:00
+1272,Prato Feito (PF),28.0,2025-01-02,12:00:00
+1272,Coxinha de Frango,10.0,2025-01-02,12:00:00
+1273,Café Coado,6.0,2025-01-31,21:00:00
+1273,Caipirinha de Limão,22.0,2025-01-31,21:00:00
+1274,Arroz Carreteiro,38.0,2025-01-06,16:00:00
+1274,Água de Coco,10.0,2025-01-06,16:00:00
+1274,Cerveja Artesanal,18.0,2025-01-06,16:00:00
+1275,Arroz Carreteiro,38.0,2025-01-10,12:00:00
+1276,Prato Feito (PF),28.0,2025-01-30,21:00:00
+1276,Pudim de Leite,12.0,2025-01-30,21:00:00
+1276,Caipirinha de Limão,22.0,2025-01-30,21:00:00
+1277,Prato Feito (PF),28.0,2025-01-01,14:00:00
+1277,Brigadeiro Gourmet,8.0,2025-01-01,14:00:00
+1277,Cerveja Artesanal,18.0,2025-01-01,14:00:00
+1278,Caipirinha de Limão,22.0,2025-01-05,21:00:00
+1278,Arroz Carreteiro,38.0,2025-01-05,21:00:00
+1278,Água de Coco,10.0,2025-01-05,21:00:00
+1278,Feijoada Completa,55.0,2025-01-05,21:00:00
+1279,Pão de Queijo (Porção),15.0,2025-01-08,19:00:00
+1280,Pão de Queijo (Porção),15.0,2025-01-14,11:00:00
+1280,Moqueca de Peixe,75.0,2025-01-14,11:00:00
+1280,Pudim de Leite,12.0,2025-01-14,11:00:00
+1281,Prato Feito (PF),28.0,2025-01-27,18:00:00
+1281,Moqueca de Peixe,75.0,2025-01-27,18:00:00
+1281,Guaraná Antarctica,7.0,2025-01-27,18:00:00
+1281,Café Coado,6.0,2025-01-27,18:00:00
+1282,Pudim de Leite,12.0,2025-01-27,14:00:00
+1283,Prato Feito (PF),28.0,2025-01-18,14:00:00
+1283,Guaraná Antarctica,7.0,2025-01-18,14:00:00
+1283,Pudim de Leite,12.0,2025-01-18,14:00:00
+1284,Cerveja Artesanal,18.0,2025-01-02,17:00:00
+1284,Feijoada Completa,55.0,2025-01-02,17:00:00
+1285,Prato Feito (PF),28.0,2025-01-18,11:00:00
+1285,Brigadeiro Gourmet,8.0,2025-01-18,11:00:00
+1286,Arroz Carreteiro,38.0,2025-01-02,12:00:00
+1287,Caipirinha de Limão,22.0,2025-01-25,16:00:00
+1287,Coxinha de Frango,10.0,2025-01-25,16:00:00
+1287,Feijoada Completa,55.0,2025-01-25,16:00:00
+1288,Pudim de Leite,12.0,2025-01-03,16:00:00
+1288,Caipirinha de Limão,22.0,2025-01-03,16:00:00
+1288,Feijoada Completa,55.0,2025-01-03,16:00:00
+1288,Suco de Laranja,9.0,2025-01-03,16:00:00
+1288,Moqueca de Peixe,75.0,2025-01-03,16:00:00
+1289,Pão de Queijo (Porção),15.0,2025-01-03,21:00:00
+1289,Coxinha de Frango,10.0,2025-01-03,21:00:00
+1289,Água de Coco,10.0,2025-01-03,21:00:00
+1290,Prato Feito (PF),28.0,2025-01-04,12:00:00
+1290,Guaraná Antarctica,7.0,2025-01-04,12:00:00
+1290,Pudim de Leite,12.0,2025-01-04,12:00:00
+1290,Café Coado,6.0,2025-01-04,12:00:00
+1291,Brigadeiro Gourmet,8.0,2025-01-14,14:00:00
+1291,Suco de Laranja,9.0,2025-01-14,14:00:00
+1291,Prato Feito (PF),28.0,2025-01-14,14:00:00
+1292,Caipirinha de Limão,22.0,2025-01-03,12:00:00
+1292,Suco de Laranja,9.0,2025-01-03,12:00:00
+1292,Água de Coco,10.0,2025-01-03,12:00:00
+1292,Feijoada Completa,55.0,2025-01-03,12:00:00
+1293,Feijoada Completa,55.0,2025-01-11,16:00:00
+1294,Arroz Carreteiro,38.0,2025-01-17,20:00:00
+1294,Coxinha de Frango,10.0,2025-01-17,20:00:00
+1294,Caipirinha de Limão,22.0,2025-01-17,20:00:00
+1295,Caipirinha de Limão,22.0,2025-01-18,21:00:00
+1295,Feijoada Completa,55.0,2025-01-18,21:00:00
+1296,Arroz Carreteiro,38.0,2025-01-19,12:00:00
+1296,Moqueca de Peixe,75.0,2025-01-19,12:00:00
+1297,Pão de Queijo (Porção),15.0,2025-01-15,15:00:00
+1298,Caipirinha de Limão,22.0,2025-01-24,13:00:00
+1298,Arroz Carreteiro,38.0,2025-01-24,13:00:00
+1298,Pudim de Leite,12.0,2025-01-24,13:00:00
+1298,Feijoada Completa,55.0,2025-01-24,13:00:00
+1299,Prato Feito (PF),28.0,2025-01-25,15:00:00
+1299,Arroz Carreteiro,38.0,2025-01-25,15:00:00
+1299,Pão de Queijo (Porção),15.0,2025-01-25,15:00:00
+1299,Pudim de Leite,12.0,2025-01-25,15:00:00
+1300,Caipirinha de Limão,22.0,2025-01-09,18:00:00
+1300,Coxinha de Frango,10.0,2025-01-09,18:00:00
+1300,Suco de Laranja,9.0,2025-01-09,18:00:00
+1300,Feijoada Completa,55.0,2025-01-09,18:00:00
+1301,Arroz Carreteiro,38.0,2025-01-07,19:00:00
+1301,Água de Coco,10.0,2025-01-07,19:00:00
+1301,Feijoada Completa,55.0,2025-01-07,19:00:00
+1302,Prato Feito (PF),28.0,2025-01-08,19:00:00
+1302,Pão de Queijo (Porção),15.0,2025-01-08,19:00:00
+1302,Coxinha de Frango,10.0,2025-01-08,19:00:00
+1302,Pudim de Leite,12.0,2025-01-08,19:00:00
+1303,Caipirinha de Limão,22.0,2025-01-21,12:00:00
+1303,Prato Feito (PF),28.0,2025-01-21,12:00:00
+1303,Feijoada Completa,55.0,2025-01-21,12:00:00
+1304,Caipirinha de Limão,22.0,2025-01-17,19:00:00
+1304,Brigadeiro Gourmet,8.0,2025-01-17,19:00:00
+1304,Pudim de Leite,12.0,2025-01-17,19:00:00
+1304,Feijoada Completa,55.0,2025-01-17,19:00:00
+1305,Prato Feito (PF),28.0,2025-01-28,20:00:00
+1305,Coxinha de Frango,10.0,2025-01-28,20:00:00
+1306,Guaraná Antarctica,7.0,2025-01-31,11:00:00
+1306,Brigadeiro Gourmet,8.0,2025-01-31,11:00:00
+1306,Feijoada Completa,55.0,2025-01-31,11:00:00
+1307,Prato Feito (PF),28.0,2025-01-06,13:00:00
+1307,Feijoada Completa,55.0,2025-01-06,13:00:00
+1308,Prato Feito (PF),28.0,2025-01-10,21:00:00
+1309,Caipirinha de Limão,22.0,2025-01-24,15:00:00
+1309,Feijoada Completa,55.0,2025-01-24,15:00:00
+1310,Cerveja Artesanal,18.0,2025-01-18,17:00:00
+1311,Caipirinha de Limão,22.0,2025-01-05,18:00:00
+1311,Coxinha de Frango,10.0,2025-01-05,18:00:00
+1311,Pudim de Leite,12.0,2025-01-05,18:00:00
+1311,Feijoada Completa,55.0,2025-01-05,18:00:00
+1312,Feijoada Completa,55.0,2025-01-25,22:00:00
+1313,Guaraná Antarctica,7.0,2025-01-15,15:00:00
+1313,Arroz Carreteiro,38.0,2025-01-15,15:00:00
+1313,Água de Coco,10.0,2025-01-15,15:00:00
+1314,Prato Feito (PF),28.0,2025-01-22,14:00:00
+1314,Pão de Queijo (Porção),15.0,2025-01-22,14:00:00
+1314,Pudim de Leite,12.0,2025-01-22,14:00:00
+1314,Feijoada Completa,55.0,2025-01-22,14:00:00
+1315,Cerveja Artesanal,18.0,2025-01-23,21:00:00
+1315,Café Coado,6.0,2025-01-23,21:00:00
+1316,Prato Feito (PF),28.0,2025-01-28,19:00:00
+1316,Arroz Carreteiro,38.0,2025-01-28,19:00:00
+1316,Moqueca de Peixe,75.0,2025-01-28,19:00:00
+1316,Café Coado,6.0,2025-01-28,19:00:00
+1317,Brigadeiro Gourmet,8.0,2025-01-28,15:00:00
+1317,Moqueca de Peixe,75.0,2025-01-28,15:00:00
+1317,Coxinha de Frango,10.0,2025-01-28,15:00:00
+1318,Prato Feito (PF),28.0,2025-01-21,19:00:00
+1318,Coxinha de Frango,10.0,2025-01-21,19:00:00
+1319,Coxinha de Frango,10.0,2025-01-23,13:00:00
+1320,Arroz Carreteiro,38.0,2025-01-31,11:00:00
+1320,Caipirinha de Limão,22.0,2025-01-31,11:00:00
+1321,Prato Feito (PF),28.0,2025-01-11,12:00:00
+1322,Prato Feito (PF),28.0,2025-01-14,12:00:00
+1322,Água de Coco,10.0,2025-01-14,12:00:00
+1323,Moqueca de Peixe,75.0,2025-01-07,18:00:00
+1323,Feijoada Completa,55.0,2025-01-07,18:00:00
+1324,Pão de Queijo (Porção),15.0,2025-01-31,13:00:00
+1324,Água de Coco,10.0,2025-01-31,13:00:00
+1324,Café Coado,6.0,2025-01-31,13:00:00
+1325,Brigadeiro Gourmet,8.0,2025-01-07,15:00:00
+1325,Cerveja Artesanal,18.0,2025-01-07,15:00:00
+1325,Caipirinha de Limão,22.0,2025-01-07,15:00:00
+1326,Café Coado,6.0,2025-01-10,20:00:00
+1326,Caipirinha de Limão,22.0,2025-01-10,20:00:00
+1327,Prato Feito (PF),28.0,2025-01-03,21:00:00
+1327,Pudim de Leite,12.0,2025-01-03,21:00:00
+1327,Café Coado,6.0,2025-01-03,21:00:00
+1328,Prato Feito (PF),28.0,2025-01-13,21:00:00
+1328,Pudim de Leite,12.0,2025-01-13,21:00:00
+1328,Café Coado,6.0,2025-01-13,21:00:00
+1329,Prato Feito (PF),28.0,2025-01-21,13:00:00
+1329,Água de Coco,10.0,2025-01-21,13:00:00
+1329,Caipirinha de Limão,22.0,2025-01-21,13:00:00
+1330,Caipirinha de Limão,22.0,2025-01-13,20:00:00
+1330,Coxinha de Frango,10.0,2025-01-13,20:00:00
+1330,Feijoada Completa,55.0,2025-01-13,20:00:00
+1331,Prato Feito (PF),28.0,2025-01-05,14:00:00
+1331,Pudim de Leite,12.0,2025-01-05,14:00:00
+1331,Café Coado,6.0,2025-01-05,14:00:00
+1332,Prato Feito (PF),28.0,2025-01-10,22:00:00
+1332,Moqueca de Peixe,75.0,2025-01-10,22:00:00
+1333,Feijoada Completa,55.0,2025-01-02,15:00:00
+1334,Caipirinha de Limão,22.0,2025-01-03,13:00:00
+1334,Guaraná Antarctica,7.0,2025-01-03,13:00:00
+1334,Pudim de Leite,12.0,2025-01-03,13:00:00
+1334,Feijoada Completa,55.0,2025-01-03,13:00:00
+1335,Prato Feito (PF),28.0,2025-01-04,14:00:00
+1336,Água de Coco,10.0,2025-01-11,14:00:00
+1336,Caipirinha de Limão,22.0,2025-01-11,14:00:00
+1336,Feijoada Completa,55.0,2025-01-11,14:00:00
+1336,Coxinha de Frango,10.0,2025-01-11,14:00:00
+1336,Pão de Queijo (Porção),15.0,2025-01-11,14:00:00
+1337,Caipirinha de Limão,22.0,2025-01-30,13:00:00
+1337,Pudim de Leite,12.0,2025-01-30,13:00:00
+1337,Feijoada Completa,55.0,2025-01-30,13:00:00
+1338,Arroz Carreteiro,38.0,2025-01-29,13:00:00
+1338,Suco de Laranja,9.0,2025-01-29,13:00:00
+1338,Caipirinha de Limão,22.0,2025-01-29,13:00:00
+1339,Guaraná Antarctica,7.0,2025-01-08,17:00:00
+1339,Prato Feito (PF),28.0,2025-01-08,17:00:00
+1340,Caipirinha de Limão,22.0,2025-01-29,11:00:00
+1340,Arroz Carreteiro,38.0,2025-01-29,11:00:00
+1340,Prato Feito (PF),28.0,2025-01-29,11:00:00
+1340,Feijoada Completa,55.0,2025-01-29,11:00:00
+1341,Cerveja Artesanal,18.0,2025-01-24,18:00:00
+1341,Suco de Laranja,9.0,2025-01-24,18:00:00
+1342,Feijoada Completa,55.0,2025-01-03,16:00:00
+1343,Prato Feito (PF),28.0,2025-01-08,18:00:00
+1343,Guaraná Antarctica,7.0,2025-01-08,18:00:00
+1343,Brigadeiro Gourmet,8.0,2025-01-08,18:00:00
+1343,Pudim de Leite,12.0,2025-01-08,18:00:00
+1344,Suco de Laranja,9.0,2025-01-15,17:00:00
+1344,Caipirinha de Limão,22.0,2025-01-15,17:00:00
+1345,Caipirinha de Limão,22.0,2025-01-23,14:00:00
+1345,Moqueca de Peixe,75.0,2025-01-23,14:00:00
+1345,Guaraná Antarctica,7.0,2025-01-23,14:00:00
+1345,Feijoada Completa,55.0,2025-01-23,14:00:00
+1346,Café Coado,6.0,2025-01-20,13:00:00
+1346,Caipirinha de Limão,22.0,2025-01-20,13:00:00
+1347,Caipirinha de Limão,22.0,2025-01-03,16:00:00
+1347,Café Coado,6.0,2025-01-03,16:00:00
+1347,Feijoada Completa,55.0,2025-01-03,16:00:00
+1348,Água de Coco,10.0,2025-01-13,20:00:00
+1348,Cerveja Artesanal,18.0,2025-01-13,20:00:00
+1348,Caipirinha de Limão,22.0,2025-01-13,20:00:00
+1349,Prato Feito (PF),28.0,2025-01-16,14:00:00
+1349,Moqueca de Peixe,75.0,2025-01-16,14:00:00
+1349,Água de Coco,10.0,2025-01-16,14:00:00
+1350,Caipirinha de Limão,22.0,2025-01-03,22:00:00
+1350,Feijoada Completa,55.0,2025-01-03,22:00:00
+1351,Pão de Queijo (Porção),15.0,2025-01-09,11:00:00
+1351,Café Coado,6.0,2025-01-09,11:00:00
+1351,Caipirinha de Limão,22.0,2025-01-09,11:00:00
+1352,Caipirinha de Limão,22.0,2025-01-01,12:00:00
+1352,Pão de Queijo (Porção),15.0,2025-01-01,12:00:00
+1352,Feijoada Completa,55.0,2025-01-01,12:00:00
+1353,Pão de Queijo (Porção),15.0,2025-01-11,14:00:00
+1354,Prato Feito (PF),28.0,2025-01-08,20:00:00
+1355,Prato Feito (PF),28.0,2025-01-21,15:00:00
+1355,Arroz Carreteiro,38.0,2025-01-21,15:00:00
+1355,Cerveja Artesanal,18.0,2025-01-21,15:00:00
+1356,Pão de Queijo (Porção),15.0,2025-01-07,11:00:00
+1356,Cerveja Artesanal,18.0,2025-01-07,11:00:00
+1356,Caipirinha de Limão,22.0,2025-01-07,11:00:00
+1357,Prato Feito (PF),28.0,2025-01-19,19:00:00
+1357,Pudim de Leite,12.0,2025-01-19,19:00:00
+1357,Caipirinha de Limão,22.0,2025-01-19,19:00:00
+1358,Cerveja Artesanal,18.0,2025-01-31,18:00:00
+1358,Água de Coco,10.0,2025-01-31,18:00:00
+1359,Pudim de Leite,12.0,2025-01-30,16:00:00
+1360,Moqueca de Peixe,75.0,2025-01-29,14:00:00
+1361,Suco de Laranja,9.0,2025-01-30,16:00:00
+1362,Guaraná Antarctica,7.0,2025-01-14,18:00:00
+1363,Prato Feito (PF),28.0,2025-01-02,12:00:00
+1363,Coxinha de Frango,10.0,2025-01-02,12:00:00
+1363,Pudim de Leite,12.0,2025-01-02,12:00:00
+1364,Caipirinha de Limão,22.0,2025-01-26,21:00:00
+1364,Café Coado,6.0,2025-01-26,21:00:00
+1364,Feijoada Completa,55.0,2025-01-26,21:00:00
+1364,Suco de Laranja,9.0,2025-01-26,21:00:00
+1364,Moqueca de Peixe,75.0,2025-01-26,21:00:00
+1365,Caipirinha de Limão,22.0,2025-01-25,19:00:00
+1365,Pão de Queijo (Porção),15.0,2025-01-25,19:00:00
+1365,Feijoada Completa,55.0,2025-01-25,19:00:00
+1366,Prato Feito (PF),28.0,2025-01-24,18:00:00
+1366,Brigadeiro Gourmet,8.0,2025-01-24,18:00:00
+1366,Cerveja Artesanal,18.0,2025-01-24,18:00:00
+1367,Caipirinha de Limão,22.0,2025-01-24,20:00:00
+1367,Café Coado,6.0,2025-01-24,20:00:00
+1367,Feijoada Completa,55.0,2025-01-24,20:00:00
+1367,Cerveja Artesanal,18.0,2025-01-24,20:00:00
+1367,Brigadeiro Gourmet,8.0,2025-01-24,20:00:00
+1368,Moqueca de Peixe,75.0,2025-01-30,19:00:00
+1369,Moqueca de Peixe,75.0,2025-01-19,11:00:00
+1369,Café Coado,6.0,2025-01-19,11:00:00
+1370,Cerveja Artesanal,18.0,2025-01-17,20:00:00
+1370,Suco de Laranja,9.0,2025-01-17,20:00:00
+1371,Pão de Queijo (Porção),15.0,2025-01-22,11:00:00
+1371,Cerveja Artesanal,18.0,2025-01-22,11:00:00
+1371,Feijoada Completa,55.0,2025-01-22,11:00:00
+1372,Caipirinha de Limão,22.0,2025-01-28,19:00:00
+1372,Arroz Carreteiro,38.0,2025-01-28,19:00:00
+1372,Moqueca de Peixe,75.0,2025-01-28,19:00:00
+1372,Feijoada Completa,55.0,2025-01-28,19:00:00
+1373,Prato Feito (PF),28.0,2025-01-17,21:00:00
+1373,Água de Coco,10.0,2025-01-17,21:00:00
+1374,Prato Feito (PF),28.0,2025-01-10,19:00:00
+1374,Suco de Laranja,9.0,2025-01-10,19:00:00
+1374,Pudim de Leite,12.0,2025-01-10,19:00:00
+1375,Pudim de Leite,12.0,2025-01-01,20:00:00
+1375,Feijoada Completa,55.0,2025-01-01,20:00:00
+1376,Prato Feito (PF),28.0,2025-01-03,16:00:00
+1376,Cerveja Artesanal,18.0,2025-01-03,16:00:00
+1376,Feijoada Completa,55.0,2025-01-03,16:00:00
+1377,Prato Feito (PF),28.0,2025-01-28,13:00:00
+1377,Moqueca de Peixe,75.0,2025-01-28,13:00:00
+1377,Suco de Laranja,9.0,2025-01-28,13:00:00
+1377,Pudim de Leite,12.0,2025-01-28,13:00:00
+1378,Pudim de Leite,12.0,2025-01-03,21:00:00
+1378,Café Coado,6.0,2025-01-03,21:00:00
+1378,Feijoada Completa,55.0,2025-01-03,21:00:00
+1378,Prato Feito (PF),28.0,2025-01-03,21:00:00
+1378,Moqueca de Peixe,75.0,2025-01-03,21:00:00
+1379,Brigadeiro Gourmet,8.0,2025-01-25,12:00:00
+1379,Arroz Carreteiro,38.0,2025-01-25,12:00:00
+1380,Pão de Queijo (Porção),15.0,2025-01-27,21:00:00
+1380,Água de Coco,10.0,2025-01-27,21:00:00
+1381,Pão de Queijo (Porção),15.0,2025-01-20,12:00:00
+1381,Coxinha de Frango,10.0,2025-01-20,12:00:00
+1381,Feijoada Completa,55.0,2025-01-20,12:00:00
+1382,Água de Coco,10.0,2025-01-21,19:00:00
+1382,Caipirinha de Limão,22.0,2025-01-21,19:00:00
+1382,Café Coado,6.0,2025-01-21,19:00:00
+1382,Feijoada Completa,55.0,2025-01-21,19:00:00
+1382,Coxinha de Frango,10.0,2025-01-21,19:00:00
+1383,Café Coado,6.0,2025-01-01,13:00:00
+1384,Café Coado,6.0,2025-01-16,13:00:00
+1385,Prato Feito (PF),28.0,2025-01-14,22:00:00
+1385,Coxinha de Frango,10.0,2025-01-14,22:00:00
+1385,Pudim de Leite,12.0,2025-01-14,22:00:00
+1385,Feijoada Completa,55.0,2025-01-14,22:00:00
+1386,Caipirinha de Limão,22.0,2025-01-30,16:00:00
+1386,Água de Coco,10.0,2025-01-30,16:00:00
+1386,Cerveja Artesanal,18.0,2025-01-30,16:00:00
+1386,Feijoada Completa,55.0,2025-01-30,16:00:00
+1387,Caipirinha de Limão,22.0,2025-01-27,11:00:00
+1387,Brigadeiro Gourmet,8.0,2025-01-27,11:00:00
+1387,Feijoada Completa,55.0,2025-01-27,11:00:00
+1388,Pão de Queijo (Porção),15.0,2025-01-30,20:00:00
+1389,Prato Feito (PF),28.0,2025-01-01,14:00:00
+1389,Café Coado,6.0,2025-01-01,14:00:00
+1390,Prato Feito (PF),28.0,2025-01-10,16:00:00
+1390,Moqueca de Peixe,75.0,2025-01-10,16:00:00
+1390,Suco de Laranja,9.0,2025-01-10,16:00:00
+1390,Pudim de Leite,12.0,2025-01-10,16:00:00
+1391,Pudim de Leite,12.0,2025-01-03,14:00:00
+1391,Caipirinha de Limão,22.0,2025-01-03,14:00:00
+1391,Feijoada Completa,55.0,2025-01-03,14:00:00
+1391,Prato Feito (PF),28.0,2025-01-03,14:00:00
+1391,Brigadeiro Gourmet,8.0,2025-01-03,14:00:00
+1392,Água de Coco,10.0,2025-01-02,15:00:00
+1392,Café Coado,6.0,2025-01-02,15:00:00
+1393,Caipirinha de Limão,22.0,2025-01-14,20:00:00
+1393,Guaraná Antarctica,7.0,2025-01-14,20:00:00
+1393,Feijoada Completa,55.0,2025-01-14,20:00:00
+1394,Café Coado,6.0,2025-01-17,18:00:00
+1395,Caipirinha de Limão,22.0,2025-01-26,17:00:00
+1395,Prato Feito (PF),28.0,2025-01-26,17:00:00
+1395,Café Coado,6.0,2025-01-26,17:00:00
+1395,Feijoada Completa,55.0,2025-01-26,17:00:00
+1396,Suco de Laranja,9.0,2025-01-06,14:00:00
+1397,Arroz Carreteiro,38.0,2025-01-11,11:00:00
+1398,Moqueca de Peixe,75.0,2025-01-02,21:00:00
+1398,Cerveja Artesanal,18.0,2025-01-02,21:00:00
+1399,Caipirinha de Limão,22.0,2025-01-04,13:00:00
+1399,Cerveja Artesanal,18.0,2025-01-04,13:00:00
+1399,Café Coado,6.0,2025-01-04,13:00:00
+1399,Feijoada Completa,55.0,2025-01-04,13:00:00
+1400,Prato Feito (PF),28.0,2025-01-27,16:00:00
+1400,Cerveja Artesanal,18.0,2025-01-27,16:00:00
+1400,Guaraná Antarctica,7.0,2025-01-27,16:00:00
+1400,Café Coado,6.0,2025-01-27,16:00:00
+1401,Cerveja Artesanal,18.0,2025-01-21,15:00:00
+1402,Caipirinha de Limão,22.0,2025-01-28,16:00:00
+1402,Arroz Carreteiro,38.0,2025-01-28,16:00:00
+1402,Brigadeiro Gourmet,8.0,2025-01-28,16:00:00
+1402,Feijoada Completa,55.0,2025-01-28,16:00:00
+1403,Caipirinha de Limão,22.0,2025-01-07,14:00:00
+1403,Prato Feito (PF),28.0,2025-01-07,14:00:00
+1403,Feijoada Completa,55.0,2025-01-07,14:00:00
+1404,Prato Feito (PF),28.0,2025-01-23,14:00:00
+1405,Caipirinha de Limão,22.0,2025-01-27,11:00:00
+1405,Arroz Carreteiro,38.0,2025-01-27,11:00:00
+1405,Feijoada Completa,55.0,2025-01-27,11:00:00
+1406,Água de Coco,10.0,2025-01-19,18:00:00
+1406,Suco de Laranja,9.0,2025-01-19,18:00:00
+1407,Brigadeiro Gourmet,8.0,2025-01-10,15:00:00
+1408,Caipirinha de Limão,22.0,2025-01-07,16:00:00
+1408,Pudim de Leite,12.0,2025-01-07,16:00:00
+1408,Feijoada Completa,55.0,2025-01-07,16:00:00
+1409,Prato Feito (PF),28.0,2025-01-02,17:00:00
+1409,Guaraná Antarctica,7.0,2025-01-02,17:00:00
+1409,Pudim de Leite,12.0,2025-01-02,17:00:00
+1410,Caipirinha de Limão,22.0,2025-01-16,21:00:00
+1410,Feijoada Completa,55.0,2025-01-16,21:00:00
+1411,Caipirinha de Limão,22.0,2025-01-02,12:00:00
+1411,Feijoada Completa,55.0,2025-01-02,12:00:00
+1412,Prato Feito (PF),28.0,2025-01-09,11:00:00
+1412,Guaraná Antarctica,7.0,2025-01-09,11:00:00
+1412,Pudim de Leite,12.0,2025-01-09,11:00:00
+1413,Guaraná Antarctica,7.0,2025-01-28,14:00:00
+1413,Caipirinha de Limão,22.0,2025-01-28,14:00:00
+1413,Feijoada Completa,55.0,2025-01-28,14:00:00
+1413,Coxinha de Frango,10.0,2025-01-28,14:00:00
+1413,Pão de Queijo (Porção),15.0,2025-01-28,14:00:00
+1414,Prato Feito (PF),28.0,2025-01-01,21:00:00
+1414,Brigadeiro Gourmet,8.0,2025-01-01,21:00:00
+1414,Coxinha de Frango,10.0,2025-01-01,21:00:00
+1415,Arroz Carreteiro,38.0,2025-01-08,15:00:00
+1415,Coxinha de Frango,10.0,2025-01-08,15:00:00
+1415,Suco de Laranja,9.0,2025-01-08,15:00:00
+1416,Caipirinha de Limão,22.0,2025-01-06,21:00:00
+1416,Prato Feito (PF),28.0,2025-01-06,21:00:00
+1416,Feijoada Completa,55.0,2025-01-06,21:00:00
+1417,Prato Feito (PF),28.0,2025-01-30,17:00:00
+1417,Água de Coco,10.0,2025-01-30,17:00:00
+1417,Pudim de Leite,12.0,2025-01-30,17:00:00
+1418,Cerveja Artesanal,18.0,2025-01-22,11:00:00
+1418,Café Coado,6.0,2025-01-22,11:00:00
+1419,Prato Feito (PF),28.0,2025-01-18,13:00:00
+1419,Cerveja Artesanal,18.0,2025-01-18,13:00:00
+1419,Pudim de Leite,12.0,2025-01-18,13:00:00
+1419,Guaraná Antarctica,7.0,2025-01-18,13:00:00
+1420,Feijoada Completa,55.0,2025-01-23,21:00:00
+1421,Prato Feito (PF),28.0,2025-01-15,16:00:00
+1421,Moqueca de Peixe,75.0,2025-01-15,16:00:00
+1421,Café Coado,6.0,2025-01-15,16:00:00
+1421,Pão de Queijo (Porção),15.0,2025-01-15,16:00:00
+1422,Guaraná Antarctica,7.0,2025-01-24,21:00:00
+1422,Caipirinha de Limão,22.0,2025-01-24,21:00:00
+1422,Feijoada Completa,55.0,2025-01-24,21:00:00
+1422,Coxinha de Frango,10.0,2025-01-24,21:00:00
+1422,Brigadeiro Gourmet,8.0,2025-01-24,21:00:00
+1423,Arroz Carreteiro,38.0,2025-01-25,14:00:00
+1423,Pudim de Leite,12.0,2025-01-25,14:00:00
+1424,Caipirinha de Limão,22.0,2025-01-05,21:00:00
+1424,Guaraná Antarctica,7.0,2025-01-05,21:00:00
+1424,Café Coado,6.0,2025-01-05,21:00:00
+1424,Feijoada Completa,55.0,2025-01-05,21:00:00
+1425,Brigadeiro Gourmet,8.0,2025-01-30,15:00:00
+1425,Caipirinha de Limão,22.0,2025-01-30,15:00:00
+1425,Feijoada Completa,55.0,2025-01-30,15:00:00
+1426,Coxinha de Frango,10.0,2025-01-08,11:00:00
+1427,Prato Feito (PF),28.0,2025-01-23,12:00:00
+1427,Arroz Carreteiro,38.0,2025-01-23,12:00:00
+1427,Brigadeiro Gourmet,8.0,2025-01-23,12:00:00
+1428,Prato Feito (PF),28.0,2025-01-04,14:00:00
+1428,Suco de Laranja,9.0,2025-01-04,14:00:00
+1429,Prato Feito (PF),28.0,2025-01-08,20:00:00
+1429,Moqueca de Peixe,75.0,2025-01-08,20:00:00
+1429,Café Coado,6.0,2025-01-08,20:00:00
+1430,Prato Feito (PF),28.0,2025-01-29,17:00:00
+1430,Arroz Carreteiro,38.0,2025-01-29,17:00:00
+1430,Feijoada Completa,55.0,2025-01-29,17:00:00
+1431,Café Coado,6.0,2025-01-18,17:00:00
+1431,Feijoada Completa,55.0,2025-01-18,17:00:00
+1432,Guaraná Antarctica,7.0,2025-01-07,19:00:00
+1432,Pudim de Leite,12.0,2025-01-07,19:00:00
+1432,Prato Feito (PF),28.0,2025-01-07,19:00:00
+1432,Cerveja Artesanal,18.0,2025-01-07,19:00:00
+1432,Coxinha de Frango,10.0,2025-01-07,19:00:00
+1433,Prato Feito (PF),28.0,2025-01-02,16:00:00
+1433,Brigadeiro Gourmet,8.0,2025-01-02,16:00:00
+1433,Pudim de Leite,12.0,2025-01-02,16:00:00
+1434,Água de Coco,10.0,2025-01-16,15:00:00
+1435,Guaraná Antarctica,7.0,2025-01-13,22:00:00
+1435,Moqueca de Peixe,75.0,2025-01-13,22:00:00
+1435,Suco de Laranja,9.0,2025-01-13,22:00:00
+1436,Prato Feito (PF),28.0,2025-01-25,13:00:00
+1436,Brigadeiro Gourmet,8.0,2025-01-25,13:00:00
+1436,Pudim de Leite,12.0,2025-01-25,13:00:00
+1436,Feijoada Completa,55.0,2025-01-25,13:00:00
+1437,Prato Feito (PF),28.0,2025-01-13,19:00:00
+1437,Suco de Laranja,9.0,2025-01-13,19:00:00
+1437,Pudim de Leite,12.0,2025-01-13,19:00:00
+1437,Água de Coco,10.0,2025-01-13,19:00:00
+1438,Pudim de Leite,12.0,2025-01-30,12:00:00
+1438,Caipirinha de Limão,22.0,2025-01-30,12:00:00
+1438,Feijoada Completa,55.0,2025-01-30,12:00:00
+1438,Coxinha de Frango,10.0,2025-01-30,12:00:00
+1438,Moqueca de Peixe,75.0,2025-01-30,12:00:00
+1439,Arroz Carreteiro,38.0,2025-01-15,20:00:00
+1440,Prato Feito (PF),28.0,2025-01-20,12:00:00
+1440,Moqueca de Peixe,75.0,2025-01-20,12:00:00
+1440,Pudim de Leite,12.0,2025-01-20,12:00:00
+1441,Brigadeiro Gourmet,8.0,2025-01-22,16:00:00
+1441,Pão de Queijo (Porção),15.0,2025-01-22,16:00:00
+1441,Suco de Laranja,9.0,2025-01-22,16:00:00
+1442,Prato Feito (PF),28.0,2025-01-16,16:00:00
+1442,Café Coado,6.0,2025-01-16,16:00:00
+1442,Caipirinha de Limão,22.0,2025-01-16,16:00:00
+1443,Caipirinha de Limão,22.0,2025-01-18,22:00:00
+1443,Moqueca de Peixe,75.0,2025-01-18,22:00:00
+1443,Guaraná Antarctica,7.0,2025-01-18,22:00:00
+1443,Feijoada Completa,55.0,2025-01-18,22:00:00
+1444,Prato Feito (PF),28.0,2025-01-02,20:00:00
+1444,Feijoada Completa,55.0,2025-01-02,20:00:00
+1445,Prato Feito (PF),28.0,2025-01-19,19:00:00
+1445,Pudim de Leite,12.0,2025-01-19,19:00:00
+1446,Caipirinha de Limão,22.0,2025-01-13,19:00:00
+1446,Prato Feito (PF),28.0,2025-01-13,19:00:00
+1446,Moqueca de Peixe,75.0,2025-01-13,19:00:00
+1446,Feijoada Completa,55.0,2025-01-13,19:00:00
+1447,Pudim de Leite,12.0,2025-01-15,21:00:00
+1448,Coxinha de Frango,10.0,2025-01-04,14:00:00
+1449,Moqueca de Peixe,75.0,2025-01-11,20:00:00
+1450,Prato Feito (PF),28.0,2025-01-17,16:00:00
+1450,Brigadeiro Gourmet,8.0,2025-01-17,16:00:00
+1450,Moqueca de Peixe,75.0,2025-01-17,16:00:00
+1451,Feijoada Completa,55.0,2025-01-11,13:00:00
+1452,Guaraná Antarctica,7.0,2025-01-21,18:00:00
+1453,Arroz Carreteiro,38.0,2025-01-29,11:00:00
+1454,Caipirinha de Limão,22.0,2025-01-05,18:00:00
+1454,Arroz Carreteiro,38.0,2025-01-05,18:00:00
+1454,Coxinha de Frango,10.0,2025-01-05,18:00:00
+1454,Feijoada Completa,55.0,2025-01-05,18:00:00
+1455,Brigadeiro Gourmet,8.0,2025-01-23,17:00:00
+1455,Arroz Carreteiro,38.0,2025-01-23,17:00:00
+1456,Prato Feito (PF),28.0,2025-01-15,22:00:00
+1456,Arroz Carreteiro,38.0,2025-01-15,22:00:00
+1456,Água de Coco,10.0,2025-01-15,22:00:00
+1456,Pudim de Leite,12.0,2025-01-15,22:00:00
+1457,Prato Feito (PF),28.0,2025-01-30,19:00:00
+1457,Suco de Laranja,9.0,2025-01-30,19:00:00
+1457,Pudim de Leite,12.0,2025-01-30,19:00:00
+1458,Prato Feito (PF),28.0,2025-01-14,21:00:00
+1458,Pudim de Leite,12.0,2025-01-14,21:00:00
+1459,Caipirinha de Limão,22.0,2025-01-01,21:00:00
+1459,Moqueca de Peixe,75.0,2025-01-01,21:00:00
+1459,Cerveja Artesanal,18.0,2025-01-01,21:00:00
+1459,Feijoada Completa,55.0,2025-01-01,21:00:00
+1460,Prato Feito (PF),28.0,2025-01-30,17:00:00
+1460,Moqueca de Peixe,75.0,2025-01-30,17:00:00
+1460,Pudim de Leite,12.0,2025-01-30,17:00:00
+1461,Prato Feito (PF),28.0,2025-01-05,20:00:00
+1461,Água de Coco,10.0,2025-01-05,20:00:00
+1461,Pudim de Leite,12.0,2025-01-05,20:00:00
+1462,Coxinha de Frango,10.0,2025-01-27,17:00:00
+1462,Café Coado,6.0,2025-01-27,17:00:00
+1463,Prato Feito (PF),28.0,2025-01-24,17:00:00
+1463,Moqueca de Peixe,75.0,2025-01-24,17:00:00
+1463,Suco de Laranja,9.0,2025-01-24,17:00:00
+1464,Prato Feito (PF),28.0,2025-01-28,12:00:00
+1464,Guaraná Antarctica,7.0,2025-01-28,12:00:00
+1464,Feijoada Completa,55.0,2025-01-28,12:00:00
